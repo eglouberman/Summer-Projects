@@ -1,0 +1,30 @@
+"h"
+h
+-h
+"-h"
+"help"
+help
+projects
+show projects
+plugins
+"runMain help"
+"runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli"
+"runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli ../example.pdf"
+runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli ../example.pdf
+runMain org.allenai.pdffigures2.CaptionDetector ../example.pdf
+runMain org.allenai.pdffigures2.CaptionDetector ../example.pdf -o my_data.pdf
+runMain org.allenai.pdffigures2.CaptionDetector ../example.pdf -r
+runMain org.allenai.pdffigures2.CaptionDetector ../example.pdf
+runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli ../example.pdf -r
+runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli ../example.pdf -s ../pdfs
+runMain org.allenai.pdffigures2.FigureExtractorVisualizationCli ../example.pdf -c
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -c
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -d
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -d output.json
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -m here.png
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -m ../%s.png
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -m ../images
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -m ../images/
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../example.pdf -g ../jsons/
+runMain org.allenai.pdffigures2.FigureExtractorBatchCli ../pdfs/ -g ../jsons/
+exit

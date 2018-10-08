@@ -1,0 +1,1279 @@
+0	NO_SPEAKER                    	begin_time	end_time	
+1	NO_SPEAKER                    	begin_time	end_time	A BRONX TALE
+2	NO_SPEAKER                    	begin_time	end_time	A BRONX TALE
+3	NO_SPEAKER                    	begin_time	end_time	A BRONX TALE
+4	NO_SPEAKER                    	begin_time	end_time	A BRONX TALE
+5	DOOWOPGROUP                   	begin_time	end_time	 Woo-hoo-oo Lao lao lao Ah-ah-ah Woo hoo, duh duh Dah-ah-ah Oo hoo hoo hoo
+6	DOOWOPGROUP                   	begin_time	end_time	 Hoo, hoo hoo hoo Hoo hoo oo hoo Hoo hoo hoo hoo hoo Hoo hoo hoo hoo
+7	DOOWOPGROUP                   	begin_time	end_time	 Doh doh doh Ooo Ooo Ooo (Continued in background)
+8	CALOGERO                      	begin_time	end_time	It's 3 AM in the Bronx, New York. I'm on the corner of 187th and Belmont Avenue. This was my neighborhood. 
+9	CALOGERO                      	begin_time	end_time	I can still hear a million voices in my head. Hear a million stories. (Fingers snap to a beat) 
+10	CALOGERO                      	begin_time	end_time	 This is a Bronx tale. And it's my story... The world I lived in, The people I knew.
+11	CALOGERO                      	begin_time	end_time	 It's just a Bronx tale And, like they all do, It starts right here On Belmont Avenue. (Drums come in)
+12	CALOGERO_MEN&WOMEN            	begin_time	end_time	My name is Calogero Lorenzo Alfredo Romano Anello., Ooh
+13	CALOGERO_MEN&WOMEN            	begin_time	end_time	This is my building. And that's my stoop. My stoop. I grew up right over a bar called the Chez Bippy., Ooh
+14	CALOGERO_MEN&WOMEN            	begin_time	end_time	It's where all the wise guys hung out. And on warm summer nights all through the neighborhood , Ooh
+15	CALOGERO_MEN&WOMEN            	begin_time	end_time	you would hear the sounds of young Italian men romancing their women., Ooh
+16	                              	begin_time	end_time	Marie, get'n the fucking car!
+17	CALOGERO                      	begin_time	end_time	My neighborhood. It was paradise to me. (Music builds)
+18	CALOGERO_MEN&WOMEN            	begin_time	end_time	 I can hear the church bells, and smell the freshly baked bread., Ah-oo
+19	CALOGERO_MEN&WOMEN            	begin_time	end_time	 See the storefront awnings, The neon, green white and red, Ah-oo
+20	CALOGERO_MEN&WOMEN            	begin_time	end_time	 Cannolis on tray after tray, salamis strung up on display,, Ah Ah Ah (Cont)
+21	CALOGERO                      	begin_time	end_time	 And Italians are all that you seen (Drums hit hard! Then music stops)
+22	MEN                           	begin_time	end_time	 Yeah, yeah And the sidewalk’s swingin‘ – (Drums hit hard!)
+23	MEN&WOMEN                     	begin_time	end_time	 Yeah, yeah And the girls are singin' shoop shoop! (Music resumes)
+24	MEN&WOMEN_CALOGERO            	begin_time	end_time	 Shoop shoop shoop Shoop shoop shoop Ah..., As they pass my stoop. 
+25	CALOGERO                      	begin_time	end_time	 And the pushcart peddlers, They hawk their wares door to door.
+26	PHIL                          	begin_time	end_time	Pesce fresca! Pesce fresca!
+27	CALOGERO_GUYS                 	begin_time	end_time	 While the j ukebox jockeys Dance in the c andy store, Ba da da, Ba ba ba dada!
+28	GIRLS&GUYS                    	begin_time	end_time	 Baba dada, Ba ba ba Dada!
+29	CALOGERO_NONNA                	begin_time	end_time	 Grandmas callin’ across—,Ciao, bambini!
+30	CALOGERO                      	begin_time	end_time	 While stirring the Sunday sauce— DOO WOP GROUP Ciao, Nonna!
+31	CALOGERO                      	begin_time	end_time	 And in the middle, was me (Drums hit hard! Then music stops)
+32	MEN&DOOWOPGROUP               	begin_time	end_time	 Oh, oh, and the street starts sighin’ (Drums hit hard!)
+33	MEN&DOOWOPGROUP               	begin_time	end_time	 Whoa whoa- When the girls strut by in a group. (Music resumes)
+34	MEN&DOOWOPGROUP_CALOGERO      	begin_time	end_time	 C'mon, c'mon, c'mon , Strut right past my stoop. C'mon c'mon c'mon
+35	MEN_WOMEN                     	begin_time	end_time	 Stickball, kick the can,, Orchard beach in the sand,
+36	MEN                           	begin_time	end_time	 Find a girl and cop a feel
+37	MEN                           	begin_time	end_time	 Bryl cream, wet dream, Bring her home and close the deal
+38	WOMEN                         	begin_time	end_time	 No no no, No no no, No no no
+39	DOOWOPGROUP_DOOWOPTENOR       	begin_time	end_time	 Next year's Frankie Vallis Croonin' in the alleys,, Oo wee 
+40	DOOWOPTENOR_DOOWOPGROUP       	begin_time	end_time	 Oo oo Oo wah, Gettin' those falsettos to soar
+41	OTHERMEN                      	begin_time	end_time	 While the Carmelite sisters Scream at their transistors
+42	ALL                           	begin_time	end_time	 Ev'ry time the bombers score—
+43	MELALLEN                      	begin_time	end_time	(On radio) That ball is going – going – it is gone! (Music builds back)
+44	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	begin_time	end_time	 Hangin’ with the crew, On the stoop, On the stoop,
+45	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	begin_time	end_time	 On Belmont Avenue., On the stoop, On the stoop,
+46	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	begin_time	end_time	 Gotta love the view, On the stoop, On the stoop,
+47	CALOGERO&DOOWOPGROUP          	begin_time	end_time	 Belmont Avenue
+48	ALL                           	begin_time	end_time	 And on sultry summer nights, Man, the corner would rock!
+49	ALL                           	begin_time	end_time	 The romance, the laughs, the fights... A universe on one little block— (Music builds back)
+50	WOMEN                         	begin_time	end_time	 Ay-oh! Every where MEN:  Doo doo, doo doo doo Wah dah doo doo
+51	ALL                           	begin_time	end_time	 Everywhere I go! (Full band plays a lively, jazzy melody)
+52	WISEGUYS                      	begin_time	end_time	 Belmont Avenue,
+53	WOMEN&DOOWOPGROUP             	begin_time	end_time	 Yeah yeah and the noise is growin’
+54	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Hangin’ with my crew,, Yeah yeah and the boys are goin’
+55	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Gotta love the view,, Shoop shoop shoop shoop 
+56	ALL                           	begin_time	end_time	 Belmont Avenue! Woh-oh... Woh-oh... Woh -oh...
+57	CALOGERO                      	begin_time	end_time	And then there was Sonny. He was the number one man in the neighborhood. 
+58	CALOGERO                      	begin_time	end_time	Sonny had five fingers. But he only used three.
+59	CALOGERO                      	begin_time	end_time	All day and all night, he’d be right here on the corner. 
+60	CALOGERO                      	begin_time	end_time	He would stand here nodding his head to all the old ladies going by with their shopping,
+61	CALOGERO                      	begin_time	end_time	and they treated him like a god. And in my neighborhood, he was a god.
+62	CALOGERO                      	begin_time	end_time	I couldn't take my eyes off of him.
+63	CALOGERO                      	begin_time	end_time	But he never ever looked at me. Never. Until one day... I was 9 years old. (Car tires screech to a stop and crash! Music stops. Guys yell and curse)
+64	GUYWITHBAT_CARMINE            	begin_time	end_time	Get back here! You got a problem with me?,Yeah I got a problem.
+65	GUYWITHBAT                    	begin_time	end_time	Oh yeah?
+66	NO_SPEAKER                    	begin_time	end_time	(Loud gunshot! All goes quiet after)
+67	NO_SPEAKER                    	begin_time	end_time	(Second gunshot)
+68	TONYTENTOTWO                  	begin_time	end_time	(Whispered) C’mon
+69	CALOGERO                      	begin_time	end_time	 This is a Bronx tale. And it's my story.
+70	CALOGERO                      	begin_time	end_time	 The one that shattered The world that I knew. 
+71	CALOGERO                      	begin_time	end_time	 Here's how it happened, And all of it's true.
+72	CALOGERO                      	begin_time	end_time	 It starts right here, On Belmont Avenue. (Church bell rings once. Music ends with deep, dark tones) 
+73	LORENZO&ROSINA_ROSINA         	begin_time	end_time	Calogero!,Are you alright? Are you alright?
+74	YOUNGCALOGERO_ROSINA          	begin_time	end_time	I'm okay Mommy.,Thank God.
+75	YOUNGCALOGERO                 	begin_time	end_time	Daddy, they were fighting over a parking space. Sonny shot him. 
+76	YOUNGCALOGERO                 	begin_time	end_time	Why? It was just a parking space. Why?
+77	LORENZO                       	begin_time	end_time	It wasn't the parking space, son. Who knows why. 
+78	LORENZO                       	begin_time	end_time	Maybe they just met at the wrong time in their lives. Come on, let’s get up stairs.
+79	COP_LORENZO                   	begin_time	end_time	Hey hey. You people see anything?,We saw nothing, Officer.
+80	COP_ROSINA                    	begin_time	end_time	What about the kid? Did he see anything?,No.
+81	LORENZO_COP                   	begin_time	end_time	My son knows nothing. ,Maybe he does.
+82	LORENZO                       	begin_time	end_time	Well, you're wrong. He knows nothing. 
+83	YOUNGCALOGERO                 	begin_time	end_time	I know everything Daddy. I saw it all.
+84	LORENZO                       	begin_time	end_time	You know kids they like to exaggerate.
+85	ROSINA_COP                    	begin_time	end_time	I don't want him involved in this.,Come here kid. 
+86	COP_YOUNGCALOGERO             	begin_time	end_time	You think you can point out the guy who pulled the trigger?,Sure.
+87	CALOGERO_DOOWOPGROUP          	begin_time	end_time	Lined up in front of my building were five guys. , Ooo ooo ooo ooo Ooo ooo (Cont)
+88	CALOGERO_DOOWOPGROUP          	begin_time	end_time	And they were Sonny's crew. And I knew every one of them., Ooo ooo ooo ooo Ooo ooo (Cont)
+89	COP                           	begin_time	end_time	Take your hat off.
+90	CALOGERO                      	begin_time	end_time	Eddie Mush.
+91	YOUNGCALOGERO                 	begin_time	end_time	No, it wasn't him...
+92	CALOGERO                      	begin_time	end_time	JoJo the Whale.
+93	YOUNGCALOGERO                 	begin_time	end_time	No, not him.
+94	CALOGERO                      	begin_time	end_time	Frankie Coffee Cake.
+95	YOUNGCALOGERO                 	begin_time	end_time	 Not him.
+96	CALOGERO                      	begin_time	end_time	Tony Ten to Two.
+97	YOUNGCALOGERO                 	begin_time	end_time	 No.
+98	COP                           	begin_time	end_time	What about him?
+99	YOUNGCALOGERO                 	begin_time	end_time	No, it wasn’t him. (All chatter)
+100	LORENZO                       	begin_time	end_time	Are you satisfied now, Officer? Let's go, son. Let's go home.
+101	DOOWOPGROUP                   	begin_time	end_time	 Oo oo oo oo ooo oo oo oo (Cont ) (Gentle, jazz music)
+102	CALOGERO                      	begin_time	end_time	In my neighborhood the lowest thing anyone could be is a rat. And I wasn't a rat. 
+103	CALOGERO                      	begin_time	end_time	The day after the killing my father insisted that I ride the bus with him. I used to love to ride the bus with my dad. 
+104	CALOGERO                      	begin_time	end_time	I would sit right behind him and he would listen to jazz on a little transistor radio. Everyone loved him. 
+105	CALOGERO                      	begin_time	end_time	His uniform was always so neat and clean and his top button was always closed even if it was ninety nine degrees. 
+106	CALOGERO                      	begin_time	end_time	My dad never wanted to look sloppy. I was so proud of him. Last stop: 
+107	LORENZO&CALOGERO              	begin_time	end_time	City Island.
+108	LORENZO_YOUNGCALOGERO         	begin_time	end_time	How you feeling Calogero? ,I’m okay.
+109	LORENZO_YOUNGCALOGERO         	begin_time	end_time	You were quiet on the bus.,Just thinking.
+110	LORENZO                       	begin_time	end_time	About what happened yesterday?
+111	YOUNGCALOGERO                 	begin_time	end_time	I thought I did a good thing but now I'm not so sure Dad.
+112	LORENZO                       	begin_time	end_time	You did a good thing for a bad man, son. What you did was right. Okay?
+113	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Thanks Dad.,Alright!
+114	LORENZO_YOUNGCALOGERO         	begin_time	end_time	Who's the greatest ball-player that ever lived?,Mickey Mantle!
+115	LORENZO                       	begin_time	end_time	No way. Joe DiMaggio. The Yankee Clipper. And do you know why he was so great?
+116	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Because he was Italian?,That's part of it.
+117	LORENZO_YOUNGCALOGERO         	begin_time	end_time	It's because he had talent and he used it.,Do I have talent?
+118	LORENZO_YOUNGCALOGERO         	begin_time	end_time	Of course you do. ,Just like Joe D.
+119	LORENZO                       	begin_time	end_time	Yeah, just like Joe D. (Gentle, piano-heavy music) 
+120	LORENZO                       	begin_time	end_time	 Fifty-six games in a row Can't beat that.
+121	YOUNGCALOGERO_LORENZO         	begin_time	end_time	That's the record, Pop!, Marrying Marilyn Monroe
+122	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Ho ho ho!, Tip your hat.
+123	LORENZO_YOUNGCALOGERO         	begin_time	end_time	 The best?,Joe D!
+124	LORENZO                       	begin_time	end_time	 He made it look easy. But the Yankee clipper man - he stood apart
+125	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Why?, Because of his heart
+126	YOUNGCALOGERO_LORENZO         	begin_time	end_time	 Because of his heart, Look to your heart
+127	LORENZO_YOUNGCALOGERO         	begin_time	end_time	How do you like the new glove?,I love it Dad. 
+128	LORENZO                       	begin_time	end_time	Wait till it's broken in. Hey –
+129	LORENZO_YOUNGCALOGERO         	begin_time	end_time	 Who won the last triple crown?,Mickey Mantle!
+130	LORENZO                       	begin_time	end_time	 Yeah, the Mick. With pain that could tear a man down...
+131	YOUNGCALOGERO_LORENZO         	begin_time	end_time	So?, So, what's his trick?
+132	YOUNGCALOGERO                 	begin_time	end_time	Well, he's strong, and fast—
+133	LORENZO                       	begin_time	end_time	 Oh sure, the man’s gifted. His gifts, though, are lifted
+134	LORENZO                       	begin_time	end_time	 By what he's had inside right from the start— I'm talkin' bout heart. Look to your heart.
+135	LORENZO                       	begin_time	end_time	 Bein' a man means you take what you got, A nd you use it.
+136	LORENZO                       	begin_time	end_time	 No, it ain't easy, But use it with Honor, and pride. (Saxophone comes in)
+137	LORENZO                       	begin_time	end_time	 Somebody shows you a shortcut, You smile, and refuse it.
+138	LORENZO                       	begin_time	end_time	 The one road worth taking— (Music stops)
+139	LORENZO                       	begin_time	end_time	 Starts right here inside. (Music slows and quiets)
+140	LORENZO                       	begin_time	end_time	 Picture the man you could be, Then aim true.
+141	LORENZO                       	begin_time	end_time	 If you get lost, look to me. I'm here for you. (Music builds)
+142	LORENZO                       	begin_time	end_time	 You've got a future— Son, I can taste it.
+143	LORENZO                       	begin_time	end_time	 You can be anything Once you've embraced it. 
+144	LORENZO                       	begin_time	end_time	 Just use your talent— And don't you dare waste it.
+145	LORENZO                       	begin_time	end_time	 Promise me right now That you'll be smart. 
+146	LORENZO_YOUNGCALOGERO         	begin_time	end_time	You understand what I'm sayin' son?,I think so.
+147	LORENZO                       	begin_time	end_time	The saddest thing in life is wasted talent. Promise me you won't waste yours.
+148	YOUNGCALOGERO                 	begin_time	end_time	I promise, Dad.
+149	LORENZO                       	begin_time	end_time	 My boy has heart. Look to your heart.
+150	LORENZO                       	begin_time	end_time	Let's go get an ice cream. (Music ends)
+151	DOOWOPGROUP                   	begin_time	end_time	 Bomb sha-bomp
+152	CALOGERO_DOOWOPGROUP          	begin_time	end_time	That night I kept thinking about what happened on the stoop, Bomb sha-bomp Bomb sha-bomp 
+153	CALOGERO_DOOWOPGROUP          	begin_time	end_time	and I realized that I lied and a man had died., Bomb sha-bomp Bomb sha-bomp 
+154	CALOGERO_DOOWOPGROUP          	begin_time	end_time	I had committed a mortal sin and I didn't want to burn in hell. , Bomb sha-bomp Bomb sha-bomp Well
+155	CALOGERO_DOOWOPGROUP          	begin_time	end_time	So I thought- Hey! , Bomb sha-bomp Well
+156	CALOGERO_DOOWOPGROUP          	begin_time	end_time	I’ll just go to confession and cleanse my soul. , Bomb sha-bomp Bomb sha-bomp 
+157	CALOGERO_DOOWOPGROUP          	begin_time	end_time	It's great to be a Catholic. You could start over every week. , Bomb sha-bomp Bomb sha-bomp
+158	CALOGERO_DOOWOPGROUP          	begin_time	end_time	I got five Our Fathers and five Hail Mary's for a murder rap., Ooo-oo Ooo-oo
+159	CALOGERO_DOOWOPGROUP          	begin_time	end_time	My soul was clean and the Yankees were playing the Pirates in the World Series. , Ooo-oo Ooo-oo
+160	CALOGERO_DOOWOPGROUP          	begin_time	end_time	It was tied score in the bottom of the ninth, when..., Ooo-oo Ooo-oo Ooo-op!
+161	CALOGERO                      	begin_time	end_time	(As radio announcer): "there's a high fly ball going deep to left!" 
+162	YOUNGCALOGERO                 	begin_time	end_time	No!
+163	CALOGERO_YOUNGCALOGERO        	begin_time	end_time	(As radio announcer):"This could do it!”,No!
+164	CALOGERO(Asradioannouncer)    	begin_time	end_time	"Back to the wall goes Berra and it's over the fence for a home run and the Pirates win the World Series!"
+165	YOUNGCALOGERO                 	begin_time	end_time	Nooooo! Why God why? Five Our Fathers and five Hail Marys wasn't good enough? Ugh! (He sobs loudly and dramatically)
+166	SONNY                         	begin_time	end_time	Hey Kid. Why you crying?
+167	YOUNGCALOGERO                 	begin_time	end_time	Bill Mazeroski. I hate him. He just hit a home run and the Pirates beat the Yankees in the World Series.
+168	YOUNGCALOGERO                 	begin_time	end_time	I love Mickey Mantle. They said he was crying in the dugout. He's gonna be so depressed.
+169	SONNY                         	begin_time	end_time	What? Is that what you're crying about? Mickey Mantle? 
+170	SONNY                         	begin_time	end_time	You think Mickey Mantle cares about you? Mickey Mantle makes a hundred thousand dollars a year. 
+171	SONNY                         	begin_time	end_time	How much does your father make? See if your father can't pay the rent – go ask Mickey Mantle. See what he tells you. 
+172	SONNY                         	begin_time	end_time	Come on, kid. Forget this Mickey Mantle stuff. Nobody cares. You hear me, nobody cares... 
+173	SONNY_YOUNGCALOGERO           	begin_time	end_time	Come on, I'll take you for an egg cream. Hey - what's your name?,Calogero.
+174	SONNY                         	begin_time	end_time	Oof. (Upbeat, dance music)
+175	CALOGERO                      	begin_time	end_time	So Sonny took me to the Chez Bippy. That was the neighborhood bar. It was owned by Rudy the Voice. 
+176	CALOGERO                      	begin_time	end_time	Well Not really. Sonny was the silent partner. And that was the beginning of my education.
+177	SONNY                         	begin_time	end_time	Hey - one egg cream for my man Calogero. Everybody say hello.
+178	GUYS(Unenthusiastically)      	begin_time	end_time	Hey.
+179	SONNY_GUYS(Enthusiastically)  	begin_time	end_time	Say hello. ,Hey!
+180	RUDYTHEVOICE                  	begin_time	end_time	 How ya doin’, Calogero!
+181	CALOGERO                      	begin_time	end_time	That's Rudy the Voice. (Music stops. Two loud camera flashes)
+182	CALOGERO                      	begin_time	end_time	They called him Rudy the Voice because he was a frustrated singer. But Sonny hated his voice. 
+183	CALOGERO                      	begin_time	end_time	So just for spite, Rudy would never utter a spoken word. He would only sing it.
+184	FRANKIECOFFEECAKE             	begin_time	end_time	Hey, Calogero. Bring me a cappuccino and I'll take care of ya.
+185	CALOGERO                      	begin_time	end_time	Frankie Coffee Cake. (Music stops. Two loud camera flashes)
+186	CALOGERO                      	begin_time	end_time	They called him Coffee Cake because his whole face was covered with acne and he looked like a Drake's Coffee Cake. 
+187	EDDIEMUSH                     	begin_time	end_time	Hey Sonny, somebody threw up in the bathroom.
+188	CALOGERO                      	begin_time	end_time	That's Eddie Mush. (Music stops. Two loud camera flashes)
+189	CALOGERO                      	begin_time	end_time	Now Eddie Mush was a degenerate gambler. He was also the biggest loser in the whole world. 
+190	CALOGERO                      	begin_time	end_time	He was such a loser he would go to the racetrack and the teller would give him his tickets already ripped up.
+191	CALOGERO                      	begin_time	end_time	JoJo the Whale. (Music stops. Two loud camera flashes)
+192	CALOGERO                      	begin_time	end_time	Five foot eight. 400 pounds. He was so fat, legend has it his shadow once killed a dog. 
+193	CALOGERO                      	begin_time	end_time	And then there was Sonny's bodyguard, Tony Ten to Two. (Music stops. Two loud camera flashes)
+194	CALOGERO                      	begin_time	end_time	They called him Ten to Two because his feet always pointed like the clock, ten to two. 
+195	CALOGERO                      	begin_time	end_time	One time he got shot in the leg and they called him twenty after. 
+196	CALOGERO                      	begin_time	end_time	But the best times of all were the crap games.
+197	CALOGERO                      	begin_time	end_time	All the big wise guys from all over the neighborhood would come by. Tammy Russo, Paulie Z, Billy BaBa. 
+198	CALOGERO                      	begin_time	end_time	All of them would stand there acting like who was the toughest, who was the strongest, who had the biggest reputation. 
+199	CALOGERO                      	begin_time	end_time	And I would watch thousands of dollars change hands back and forth. (Music stops)
+200	SONNY                         	begin_time	end_time	Come on, give me a 7, just one 7. (Guys chatter)
+201	ONEOFTHEGUYS                  	begin_time	end_time	Snake Eyes.
+202	SONNY                         	begin_time	end_time	Son of a bitch! I can't get a break!
+203	RUDYTHEVOICE                  	begin_time	end_time	 Sonny can't get a break today! (Guys laugh)
+204	SONNY_RUDYTHEVOICE            	begin_time	end_time	I told you to stop singing!, Okay! (Guys laugh harder)
+205	SONNY                         	begin_time	end_time	I can't hit a number today for my life! (Guys chatter)
+206	SONNY                         	begin_time	end_time	Calogero, I want you to throw the dice for me.
+207	YOUNGCALOGERO                 	begin_time	end_time	I don't know how to play dice, Sonny.
+208	SONNY                         	begin_time	end_time	You can do it, stand over here. The kid's gonna throw my dice. 
+209	GUYS                          	begin_time	end_time	(Ad libbing) No way. Can't do that Sonny. He's just a kid!
+210	SONNY                         	begin_time	end_time	Anybody got a problem with that?
+211	GUYS_SONNY                    	begin_time	end_time	Nope.,I didn't think so.
+212	SONNY                         	begin_time	end_time	 Lemme show ya how to throw them dice First ya gotta make 'em treat ya nice.
+213	SONNY                         	begin_time	end_time	 Here's a little bit of free advice Listen to Sonny, We'll make some money.
+214	SONNY                         	begin_time	end_time	 Keep it quiet when you shake them bones
+215	SONNY                         	begin_time	end_time	 Close the doors and disconnect the phones
+216	SONNY                         	begin_time	end_time	 'Cause you'll wanna hear these losers' groans.
+217	SONNY                         	begin_time	end_time	 Let's start the bettin'! Ready, get set, 'n’— (Music builds)
+218	MEN_SONNY                     	begin_time	end_time	 Roll ‘em!, You're my lucky charm.
+219	MEN_SONNY                     	begin_time	end_time	 Roll 'em!, Use that lucky amazing arm.
+220	MEN_SONNY                     	begin_time	end_time	 Roll 'em!, Go for broke, kid, Let's bet the farm!
+221	SONNY_MEN                     	begin_time	end_time	 Roll 'em down the aisle , Ah dah
+222	SONNY_MEN                     	begin_time	end_time	 Makin' Sonny smile and lookin’ Good!, Ah dah Good! (Music quiets. Dice Shaking)
+223	NO_SPEAKER                    	begin_time	end_time	(Guys laugh and chatter)
+224	FRANKIECOFFEECAKE             	begin_time	end_time	Hey Sonny D your kid's got an arm like a wet noodle!
+225	RUDYTHEVOICE                  	begin_time	end_time	 Hey, Sonny! That boy's a loser! (Guys laugh)
+226	RUDYTHEVOICE                  	begin_time	end_time	Thank you.
+227	SONNY                         	begin_time	end_time	Everybody shut up. I don't want nobody laughing at this kid. Nobody laughs at my boy here.
+228	MEN                           	begin_time	end_time	Oooo...
+229	SONNY                         	begin_time	end_time	Come on, Calogero, ya gotta throw it harder. Let's put some real money down. I got three thousand, who's bettin' with me?
+230	EDDIEMUSH                     	begin_time	end_time	I'm gonna bet with you, Sonny.
+231	SONNY                         	begin_time	end_time	NO. NO. NO. Eddie Mush no good.
+232	SONNY                         	begin_time	end_time	I don't want your money touching my money. I don't want your money in the same neighborhood as my money.
+233	EDDIEMUSH_SONNY               	begin_time	end_time	Why? ,Because you're a jinx, that's why. (Guys chatter)
+234	SONNY                         	begin_time	end_time	You never hit a bet in your life. Tony, I feel a win streak comin' on - lock Mush in the bathroom.
+235	EDDIEMUSH                     	begin_time	end_time	C'mon Sonny - No! (Guys chatter)
+236	GUYS_SONNY                    	begin_time	end_time	Noooo.,Get him in there.
+237	SONNY_YOUNGCALOGERO           	begin_time	end_time	C'mon kid, give me a seven.,Okay, Sonny. (Music quiets. Dice shaking)
+238	SONNY                         	begin_time	end_time	SEVEN! Will you look at this kid? Gimme those dice. Let's do it again. Five thousand.
+239	SONNY                         	begin_time	end_time	JoJo. JoJo, please. Back up. Your breath is killing me.
+240	JOJOTHEWHALE_SONNY            	begin_time	end_time	I'm eatin’,Then eat in the bathroom! Tony, lock 'em in there.
+241	TONYTENTOTWO                  	begin_time	end_time	He can't fit. 
+242	SONNY                         	begin_time	end_time	I don't give a shit he can’t fit, put 'im in. Get that fat bastard away from me. He stinks. (Guys chatter and yell)
+243	SONNY                         	begin_time	end_time	 No one else had better jinx the kid Don'tcha even let me think ya did. 
+244	SONNY                         	begin_time	end_time	 Say a word, I'm gonna flip my lid Shut your trap or Get in the crapper
+245	SONNY                         	begin_time	end_time	 C'mon buddy, time to shake that fist Papa's ridin' on your magic wrist
+246	SONNY_MEN&WOMEN               	begin_time	end_time	 Try to finish with a little twist, Ah
+247	SONNY_MEN&WOMEN               	begin_time	end_time	 Big bam boom boys, give him some room to roll ‘ em!, Ah
+248	MEN&WOMEN                     	begin_time	end_time	 Dacka dacka Wacka wacka Chuggie chuggie Uggie uggie Whippie dippie wham
+249	MEN&WOMEN_YOUNGCALOGERO_SONNY&MEN	begin_time	end_time	 Dacka dacka Wacka wacka Chuggie chuggie , Hey – this is fun!	 ,Roll 'em!
+250	MEN&WOMEN_YOUNGCALOGERO       	begin_time	end_time	 Uggie uggie Whippie dippie wham, Three and four or six and one
+251	SONNY&MEN_MEN&WOMEN           	begin_time	end_time	Roll 'em!, Dacka dacka Wacka wacka
+252	MEN&WOMEN_SONNY&YOUNGCALOGERO 	begin_time	end_time	 Chuggie chuggie Uggie uggie Whippie dippie wham, Get those sevens, Done and done.
+253	SONNY&YOUNGCALOGERO_MEN&WOMEN 	begin_time	end_time	 Slam 'em off the wall,, Ah
+254	SONNY&YOUNGCALOGERO_MEN&WOMEN 	begin_time	end_time	 Make those numbers fall just like they should!, Ah Should!
+255	YOUNGCALOGERO                 	begin_time	end_time	Okay Sonny. Seven. (Music quiets. Dice shaking)
+256	SONNY                         	begin_time	end_time	Frankie Coffee Cake, no good. I don't want his face looking at your face when he's throwing my dice.
+257	SONNY                         	begin_time	end_time	Tony, get a towel from the bar, put it over his head.
+258	FRANKIECOFFEECAKE             	begin_time	end_time	Come on Sonny. I don’t want a towel over my head.
+259	SONNY                         	begin_time	end_time	Oh you don't want a towel over your head? Then fellas, you know what to do.
+260	EVERYONE                      	begin_time	end_time	In the fuckin' bathroom!
+261	SONNY_YOUNGCALOGERO           	begin_time	end_time	Go ahead kid.,Seven...Seven... Seven come to heaven...
+262	SONNY                         	begin_time	end_time	Don't get cocky kid. Just throw the dice. (Music quiets. Dice shaking)
+263	SONNY_YOUNGCALOGERO           	begin_time	end_time	Four! Four's the point. (Music stops),No! I'm sorry, Sonny.
+264	SONNY_YOUNGCALOGERO           	begin_time	end_time	No, four's okay. Don't panic kid. ,But I didn't throw a seven!!
+265	SONNY                         	begin_time	end_time	Four's okay, kid, take it easy. Kid's panicking, he didn't throw a seven. (Guys chatter )
+266	SONNY                         	begin_time	end_time	You just have to throw another four. I say the kid makes the hard four.
+267	SONNY                         	begin_time	end_time	Two-two on the hard four. I say we put all the money down.
+268	YOUNGCALOGERO                 	begin_time	end_time	Don't worry Sonny, I can throw another seven. (Music builds. Guys yell!)
+269	SONNY_MEN                     	begin_time	end_time	No! No sevens! No sevens!, Ching chacka chacka chacka Dacka dacka Wacka wacka
+270	YOUNGCALOGERO_MEN             	begin_time	end_time	But I thought seven was good. , Chuggie chuggie Uggie uggie Whippie dippie wham
+271	SONNY_MEN                     	begin_time	end_time	Not now, kid. Not now! This kid's scarin' the shit outta me, this kid. , Ching chacka chacka chacka Dacka dacka wacka wacka
+272	SONNY_MEN                     	begin_time	end_time	No, seven is not good now. I need four. I need two-two. You can do it., Chuggie chuggie Uggie uggie Whippie dippie wham
+273	SONNY                         	begin_time	end_time	 Don't roll a seven We're this close to heaven We'll be in the money unless you crap out.
+274	SONNY                         	begin_time	end_time	 Boxcars, snake eyes, That's all it'll take, guys, The kid is a honey, He'll do it, no doubt
+275	SONNY_MEN                     	begin_time	end_time	 Roll ‘ em, Roll me a seven And take me to heaven
+276	YOUNGCALOGERO_MEN             	begin_time	end_time	 I love this game, We'll be in the money If Sonny craps out.
+277	SONNY_MEN                     	begin_time	end_time	 Roll ‘ em, Boxcars, snake eyes Which way will they break, guys?
+278	YOUNGCALOGERO_MEN             	begin_time	end_time	 I'm the master, of this game, Miss one, he's done, That's what I'm talkin' about. 
+279	YOUNGCALOGERO_MEN             	begin_time	end_time	 Roll 'em..., Roll me a seven And take me to heaven
+280	SONNY_MEN                     	begin_time	end_time	 Come on, two and two, We'll be in the money If Sonny craps out.
+281	YOUNGCALOGERO_MEN             	begin_time	end_time	 Roll ‘ em..., Boxcars, snake eyes Which way will they break, guys?
+282	SONNY_MEN                     	begin_time	end_time	 Roll 'em like you're born to do, Miss one, he's done, that's what I'm talkin' about. Roll 'em!
+283	MEN                           	begin_time	end_time	 Roll 'em!
+284	MEN                           	begin_time	end_time	 Roll ‘ em!
+285	MEN                           	begin_time	end_time	 Roll ‘ em!
+286	WISEGUYS                      	begin_time	end_time	 Ching chakka Chakka chakka Dakka dakka wakka wakka Chug! (Music stops abruptly)
+287	SONNY                         	begin_time	end_time	Madonne! He did it! Four! I love this kid! (Music resumes)
+288	MEN                           	begin_time	end_time	 Roll ‘ em! (Music ends with a flourish)
+289	CALOGERO                      	begin_time	end_time	NINE!...Nine...I made nine passes in a row. I don't know how much Sonny won, but when it was over.
+290	YOUNGCALOGERO                 	begin_time	end_time	Sonny! I never seen so much money in my life!
+291	SONNY                         	begin_time	end_time	The working man’s a sucker, kid. Remember that.
+292	CALOGERO                      	begin_time	end_time	Now that bothered me. Because my father was a working man. And he wasn't a sucker.
+293	YOUNGCALOGERO                 	begin_time	end_time	Hey, Sonny, can I come back tomorrow and throw your dice again?
+294	SONNY                         	begin_time	end_time	Yeah, yeah, you come back tomorrow.
+295	SONNY                         	begin_time	end_time	Calogero. Come here.
+296	SONNY                         	begin_time	end_time	We gotta do something about your name. No disrespect to your mother and father, but your name is a little too big. 
+297	SONNY                         	begin_time	end_time	We gotta cut it down. From now on, I’m gonna call you...C.
+298	YOUNGCALOGERO_SONNY           	begin_time	end_time	C?,Yeah. C for Calogero. 
+299	SONNY_YOUNGCALOGERO           	begin_time	end_time	And here's a c-note for C.,That's a hundred dollars, Sonny.
+300	SONNY                         	begin_time	end_time	Put it in your kick, don't tell nobody where you got it. Go ahead. 
+301	YOUNGCALOGERO                 	begin_time	end_time	I never had a hundred dollars before in my life.
+302	SONNY                         	begin_time	end_time	I never had a partner before. I'm gonna tell everybody in the neighborhood you’re with me from now on. 
+303	SONNY                         	begin_time	end_time	I’ll see you tomorrow, C.
+304	NO_SPEAKER                    	begin_time	end_time	(Cheery, jazzy music)
+305	CALOGERO_DOOWOPGROUP          	begin_time	end_time	Sonny started taking me everywhere. , Wah-oo - Wah-oo - Wah-oo Wah-oo - Wah-oo
+306	CALOGERO_DOOWOPGROUP          	begin_time	end_time	and he would always introduce me to people as his good friend. , Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+307	CALOGERO_DOOWOPGROUP          	begin_time	end_time	And I noticed a strange thing started to happen., Wah-oo-Wah-oo - Wah-oo - Wah-oo - Wah-oo - 
+308	DOOWOPGROUP_YOUNGCALOGERO     	begin_time	end_time	 Wah-oo - Wah-oo-wah, Wah-oo - Wah-oo - Wah-oo -, Every- where I go, Up and down the street, 
+309	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Everyone's my buddy, They're falling at my feet., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+310	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 I'm more than a kid, I'm part of the game., Ah…
+311	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 They know where I go, Who I'm with, and my name., Ah…
+312	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 They call me “C” And I like it., “C!”
+313	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Cool as can be And I like it. , “C!”
+314	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Walkin’ tall, Feelin' fine, , Wah…
+315	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Belmont Avenue’s mine, And I like it, Ah… Oo…
+316	YOUNGCALOGERO                 	begin_time	end_time	Good morning Phil.
+317	PHIL                          	begin_time	end_time	Hey, Calogero...I mean, C! I got some nice peaches for your Mom.
+318	YOUNGCALOGERO                 	begin_time	end_time	I got no money on me, Phil. 
+319	PHIL                          	begin_time	end_time	You don't need money with me. Whatever she wants from now on, no charge.
+320	PHIL                          	begin_time	end_time	You just tell Sonny that I took care of you. 
+321	YOUNGCALOGERO                 	begin_time	end_time	Gee, thanks, Phil. (Music builds)
+322	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 The guys down at the pool hall , Wah-oo-Wah-oo - Wah-oo - Wah-oo -
+323	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 They’re beggin’ me to play., Wah-oo- Wah-oo - Wah-oo - Wah-oo-wah,
+324	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 The kids up at the corner All step outta my way., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+325	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 The girls gimme looks that are sweeter than summer., Ooo… Wah-oo
+326	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 And why? , Ah… (Pool balls hit!)
+327	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Because I am a real up-and-comer!, Wah!
+328	YOUNGCALOGERO_WOMEN           	begin_time	end_time	 They call me “C” And I like it., "C"! Ah-ah-ah…
+329	YOUNGCALOGERO_WOMEN           	begin_time	end_time	 They smile at me, And I like it., "C"! Ah-ah-ah…
+330	YOUNGCALOGERO_WOMEN           	begin_time	end_time	 Things are good, yes they are, Life's a big cookie jar,, Ooo Ooo
+331	YOUNGCALOGERO_WOMEN           	begin_time	end_time	 And I like it, Ah! Wap! Aow …
+332	YOUNGCALOGERO_WISEGUYS        	begin_time	end_time	 Just yesterday – They pushed me aside., Hey! Hey!
+333	YOUNGCALOGERO_WISEGUYS        	begin_time	end_time	 Just yesterday – They all looked right through me, Hey! Hey!
+334	YOUNGCALOGERO_ALL             	begin_time	end_time	 Suddenly, bam! The world knows who I am,, Suddenly, bam! Oh! Wap!
+335	YOUNGCALOGERO                 	begin_time	end_time	 Life's a carnival ride since
+336	YOUNGCALOGERO_ALL             	begin_time	end_time	 Sonny happened to me, Aow … (Music resumes with full energy)
+337	DOOWOPGROUP                   	begin_time	end_time	 Wop! Aow... Wah-oo-wah-oo - Wah-oo-wah 
+338	DOOWOPGROUP                   	begin_time	end_time	 Wop! Aow... Wah-oo-wah-oo - Wah-oo-wah Suddenly, bam... (Crack! of baseball bat hitting)
+339	ALL_DOOWOPGROUP               	begin_time	end_time	 Hey!, Life's a carnival ride...
+340	DOOWOPGROUP                   	begin_time	end_time	 Wah-oo-wah-oo - Wah-oo-wah, Wah-oo-wah-oo - Wah-oo-wah.
+341	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 When I'm at the drugstore, My coke don't cost a dime., Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo -
+342	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Over at the newsstand, Free comics all the time., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+343	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 The grocer, The peddler, The whole neighborhood, Ah… Ah…
+344	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 Wherever I go, I know my money’s no good!, Ah…
+345	YOUNGCALOGERO_ALL             	begin_time	end_time	 They call me “C” And I like it. , "C"! Ah-ah ah Doo-dee- doot! Doo-dee- doot!
+346	YOUNGCALOGERO_ALL             	begin_time	end_time	 Every-thing's free. And I like it., Ah-ah-ah Doo-dee- doot! "C"! Doo-dee- doot!
+347	YOUNGCALOGERO_ALL             	begin_time	end_time	 Got a style, got a rep, Got a swing in my step, , Ah…
+348	YOUNGCALOGERO_ALL             	begin_time	end_time	 I've got the cash and the crew A ll because of guess who., Ah… Ooo …
+349	YOUNGCALOGERO_ALL             	begin_time	end_time	 Nothin'll be quite the same,, Ah
+350	YOUNGCALOGERO_ALL             	begin_time	end_time	 Starting with my new name! , "C"!
+351	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 And I like it Yeah – I like it,, Oo-wah-oo - Wah-oo-wah I like it, I do!
+352	YOUNGCALOGER_DOOWOPGROUP      	begin_time	end_time	 Woh… I like it!, Oo-wah-oo - Wah-oo-wah I like it, I do! Ah…
+353	DOOWOPGROUP                   	begin_time	end_time	 Wap! Aow! (Music ends with a flourish)
+354	ALL_YOUNGCALOGERO             	begin_time	end_time	 Wah-oo-Wah-oo - Wah-oo - Wah-oo-wah I like it!, I like it, I like it, I do… (Music resumes)
+355	ALL_YOUNGCALOGERO             	begin_time	end_time	 Wah-oo-Wah-oo - Wah-oo - Wah-oo-wah I like it!, I like it, I like it, I do…
+356	YOUNGCALOGERO_DOOWOPGROUP     	begin_time	end_time	 I like it, I like it, I do…, Wah-oo - Wah-oo - Wah-oo-wah, Ow! (Music ends abruptly)
+357	LORENZO_YOUNGCALOGERO         	begin_time	end_time	Calogero, what's this?,What's what, Daddy?
+358	LORENZO                       	begin_time	end_time	This. I found this in your room. Where did you get this? 
+359	YOUNGCALOGERO                 	begin_time	end_time	That's money that I've been saving, Daddy.
+360	LORENZO                       	begin_time	end_time	Twelve hundred dollars you been saving?! Did you become a brain surgeon overnight, son?
+361	YOUNGCALOGERO                 	begin_time	end_time	No, Daddy, I worked for it.
+362	ROSINA_YOUNGCALOGERO          	begin_time	end_time	Doing what?,Things.
+363	LORENZO_YOUNGCALOGERO         	begin_time	end_time	What things?,Few things here, few things there – 
+364	ROSINA                        	begin_time	end_time	What things did you do?
+365	YOUNGCALOGERO_ROSINA          	begin_time	end_time	I worked the craps games – ,What??
+366	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Sonny gave me a job – (Fast music with hard beat),Sonny...I knew it. 
+367	LORENZO                       	begin_time	end_time	 It's no wonder why the neighborhood Treats a boy like him so goddamned good.
+368	LORENZO                       	begin_time	end_time	 Playing craps and shining up his car We're going straight to the bar to give back the money.
+369	YOUNGCALOGERO_LORENZO         	begin_time	end_time	What?!, Watch your mouth, you'll get your Mom upset.
+370	YOUNGCALOGERO_ROSINA          	begin_time	end_time	But—,Shh!
+371	LORENZO                       	begin_time	end_time	 That's right! You ain't seen nothing yet.
+372	YOUNGCALOGERO                 	begin_time	end_time	 Daddy, daddy, don’t say nothing, please!
+373	YOUNGCALOGERO                 	begin_time	end_time	 I made a promise to Sonny... (Music stops. Suspenseful high note held)
+374	LORENZO_ROSINA                	begin_time	end_time	Let's go. Now!,Wait. (Note stops)
+375	ROSINA_LORENZO                	begin_time	end_time	Let's not make any rash decisions.,What?
+376	ROSINA                        	begin_time	end_time	 Money like that you don't pull from a hat. I mean, twelve hundred dollars
+377	ROSINA_LORENZO                	begin_time	end_time	 Can buy us a lot., It's blood money.
+378	ROSINA                        	begin_time	end_time	 I know. And it's wrong. even so, I mean, Who’s gonna know if we spend it or what?
+379	YOUNGCALOGERO_LORENZO         	begin_time	end_time	 Daddy, Daddy,, It's dirty, it's cheap, And the price is too steep—
+380	LORENZO_YOUNGCALOGERO         	begin_time	end_time	 Take one cent, you’re in deep with him,, Don't say nothing, The money is mine
+381	LORENZO_YOUNGCALOGERO         	begin_time	end_time	 Like it or not., The money is mine
+382	YOUNGCALOGERO&ROSINA          	begin_time	end_time	 Lorenzo, consider it please? Lorenzo, please! (Music stops. Guys laugh and talk loudly)
+383	LORENZO                       	begin_time	end_time	Sonny, I would like to talk to you.
+384	SONNY_YOUNGCALOGERO           	begin_time	end_time	Hey, Lorenzo, how ya doin? Hello, C.,Hi, Sonny.
+385	LORENZO                       	begin_time	end_time	Sonny, I want you to take this money back. We can't accept it.
+386	SONNY                         	begin_time	end_time	No disrespect to you, Lorenzo, but I didn't give it to you. I gave it to your son. He worked for it.
+387	LORENZO                       	begin_time	end_time	That's right. "My son". And I don't want my son involved in your shit.
+388	SONNY                         	begin_time	end_time	Excuse me, Lorenzo, what shit are you talking about?
+389	LORENZO_SONNY                 	begin_time	end_time	Please, I'm not a stupid man. I'm warning you, stay away from my son.,What'd you say?
+390	SONNY                         	begin_time	end_time	Tony, sit down. (Music resumes)
+391	SONNY                         	begin_time	end_time	 Hey lorenzo, you and I should talk. C – I'd like it if you take a walk.
+392	LORENZO                       	begin_time	end_time	 Hey – I'm his father and I'll decide.
+393	LORENZO                       	begin_time	end_time	Calogero, wait outside. (Music quiets except for a tense, hard beat)
+394	SONNY                         	begin_time	end_time	 First of all, don’t show me disrespect. Number two, I teach your boy correct.
+395	SONNY                         	begin_time	end_time	 Do the right thing, go to college...
+396	LORENZO                       	begin_time	end_time	 Please, Sonny – He don't need your kind of knowledge
+397	LORENZO                       	begin_time	end_time	 The clothes, The cars, the money, The girls all the power, what's it meant?
+398	LORENZO                       	begin_time	end_time	 Now he says that Mickey Mantle wouldn’t pay my rent. (Guys laugh)
+399	SONNY_LORENZO                 	begin_time	end_time	Can you believe this kid?,It's not funny.
+400	LORENZO                       	begin_time	end_time	It's not funny when your nine year-old son has a bigger bank account than you do.
+401	SONNY                         	begin_time	end_time	That's not my problem, Lorenzo. I'm sure you remember I offered you a job.
+402	SONNY                         	begin_time	end_time	All you had to do was drop my numbers off from one bus stop to the next. 
+403	SONNY                         	begin_time	end_time	Nobody would've suspected you because of who you are.
+404	SONNY                         	begin_time	end_time	It would have meant another hundred fifty dollars a week in your kick, but you said "no" to me.
+405	LORENZO                       	begin_time	end_time	That's right I did. And I say "no" to you again. You couldn't corrupt me, so now you wanna corrupt him.
+406	SONNY                         	begin_time	end_time	What the hell's the matter with you. I treat that kid like he's my son –
+407	LORENZO                       	begin_time	end_time	He's not your son! (Music resumes)
+408	SONNY_LORENZO                 	begin_time	end_time	Get him out of here! I wash my hands of you.,Stay away from him! 
+409	SONNY_LORENZO                 	begin_time	end_time	I want him out of here! ,Stay away from –
+410	YOUNGCALOGERO                 	begin_time	end_time	Where's my money, Dad? What did Sonny say? Can I have my money? 
+411	LORENZO_YOUNGCALOGERO         	begin_time	end_time	I left it in there.,What?! How could you do that?! I worked for it. It was my money.
+412	LORENZO                       	begin_time	end_time	It's dirty money.
+413	YOUNGCALOGERO_LORENZO         	begin_time	end_time	It's not. It's mine.,You stay away from him.
+414	YOUNGCALOGERO_LORENZO         	begin_time	end_time	I want my money. ,Shut up!
+415	YOUNGCALOGERO_LORENZO         	begin_time	end_time	Daddy, I want it!,Stop it!
+416	YOUNGCALOGERO_LORENZO         	begin_time	end_time	I want my money! Give me my money! ,NO! (Slap! Music stops)
+417	YOUNGCALOGERO                 	begin_time	end_time	Daddy, why did you hit me? Why? Sonny's right. He's right. The working man is a sucker. He's a sucker.
+418	LORENZO                       	begin_time	end_time	Sonny's wrong. It doesn't take much strength to pull a trigger, Calogero. Let's see him get up every morning and work for a living. 
+419	LORENZO                       	begin_time	end_time	Then we'll see who the real tough guy is. Your father is the tough guy. That man is evil.
+420	YOUNGCALOGERO                 	begin_time	end_time	How could he be evil? Everybody loves him. Just like you on the bus. They love you, they love him, it's the same thing!
+421	LORENZO                       	begin_time	end_time	It's not the same. People don't love him. They fear him. There’s a difference. 
+422	YOUNGCALOGERO_LORENZO         	begin_time	end_time	I don't understand Dad.,You will when you get older. 
+423	LORENZO                       	begin_time	end_time	I'm sorry I hit you. You know that I love you. Just stay away from him. Okay?
+424	YOUNGCALOGERO                 	begin_time	end_time	Okay. (Soft, guitar-heavy music)
+425	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 I guess I should have listened But I was just a kid., Oo… Oo…
+426	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 I thought that I knew better. And hell, perhaps I did., Oo… Oo…
+427	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 From out of the bar, I heard voices I knew—, Oo… Oo…
+428	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 And music, and laughter and Sonny's voice too..., Oo… Oo… (Music stops)
+429	CALOGERO_YOUNGCALOGERO        	begin_time	end_time	 And I felt bad,, But I liked it.
+430	CALOGERO_YOUNGCALOGERO        	begin_time	end_time	 Ignored my dad,, ‘Cause I liked it.
+431	CALOGERO                      	begin_time	end_time	 And if he didn't know, heck, what’s an hour or so...? (Music builds with the full band)
+432	CALOGERO&YOUNGCALOGERO        	begin_time	end_time	 And somehow one hour turned into two and somehow two hours just kept on going.
+433	CALOGERO_YOUNGCALOGERO        	begin_time	end_time	 Hours became days,, Weeks went by in a haze,
+434	CALOGERO&YOUNGCALOGERO        	begin_time	end_time	 Till eight years passed me by, without any sign of slowing
+435	DOOWOPGROUP                   	begin_time	end_time	 Ah- oo dahtn Dahtn dahtn dah... Well, ah- oo dahtn dathn dahtn dah... Doh dee do...
+436	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 And Sonny's reach kept growing, And guess what he became?, Wah-oo-wah-oo - Wah-oo - Wah-oo -
+437	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 The capo di tutti capi, The east coast's biggest name., Wahoo- Wah-oo - Wah-oo-wah,
+438	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 And wise guys would come, Ah...
+439	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 From all over the land, to pay their respects,, Ah...
+440	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 Kiss his ring, Shake his hand—, Ah...
+441	CALOGERO_L.A.                 	begin_time	end_time	L.A.!,Hey, Louie! How ya doin'?
+442	CALOGERO_MIAMI                	begin_time	end_time	Miami ,How'm I doin’? How you doin'?
+443	CALOGERO_CHICAGO              	begin_time	end_time	Chicago—,I'm doin' good. How you doin'?
+444	CALOGERO_DETROIT              	begin_time	end_time	Detroit– ,Can't complain.
+445	CALOGERO_VEGAS                	begin_time	end_time	Las Vegas—,You look good.
+446	DETROIT_CHICAGO&VEGAS         	begin_time	end_time	No, YOU look good.,No, YOU look good.
+447	MIAMI_L.A._CHICAGO_DETROIT&VEGAS	begin_time	end_time	No, YOU look good.,No, YOU look good.
+448	CALOGERO                      	begin_time	end_time	Guys! ( Music stops )
+449	CALOGERO_L.A.                 	begin_time	end_time	Youse all look good.,Who the fuck are you?
+450	SONNY                         	begin_time	end_time	 I call him C, And I like him.
+451	SONNY                         	begin_time	end_time	 The kid's with me, 'cause I like him.
+452	SONNY                         	begin_time	end_time	 If you're smart, fellas, you, Better like the kid too...
+453	GANGSTERS                     	begin_time	end_time	 We like him! (Music builds)
+454	CALOGERO_CAPOS                	begin_time	end_time	 And suddenly I found myself in 1968—, Ah
+455	CALOGERO_CAPOS                	begin_time	end_time	 The Yankees in the cellar, The Beatles s oundin' great., Ah
+456	CALOGERO_CAPOS                	begin_time	end_time	 The bars always jumpin’ The laughs never end., Ah
+457	CALOGERO_CAPOS                	begin_time	end_time	 And I'm Sonny's guy, I'm his boy, I'm his friend., Ah
+458	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 And I like it Yeah. I like it. Oh yeah., Na na na Na na na Na na na Na na na
+459	CALOGERO_CAPOS                	begin_time	end_time	 Sonny's reign had begun And I was like Sonny's son. And I liked it. , Ah...Ah... Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo -
+460	CALOGERO_CAPOS                	begin_time	end_time	 Oh, I liked it..., Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah,
+461	DOOWOPGROUP_CALOGERO          	begin_time	end_time	 Oo-oo... Oo-oo... Oop!, I liked it…
+462	NICKY_SLICK&CRAZYMARIO        	begin_time	end_time	 Oo-oo... Oo-oo...
+463	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	When I wasn't with Sonny, I had my own crew. , Oo-oo...
+464	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	We'd hang out together day in and day out. , Oo-oo...
+465	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	I loved these guys. I loved every one of them. , Oo.
+466	CALOGERO                      	begin_time	end_time	There was Sally Slick. We called him that because his hair was always slicked back. 
+467	CALOGERO                      	begin_time	end_time	And Handsome Nick. He was so pretty he wanted to sleep with himself.
+468	CALOGERO                      	begin_time	end_time	And Crazy Mario who kept hearing voices in his head. 
+469	CRAZYMARIO                    	begin_time	end_time	(In two different voices) Who's there?? Nobody!! 
+470	CALOGERO                      	begin_time	end_time	All we wanted was to be like Sonny and his crew. We would try to walk like them, talk like them, even dress like them. Right?
+471	NICKY                         	begin_time	end_time	Absolutely. (Gentle, percussion- heavy music)
+472	NICKY                         	begin_time	end_time	 You wanna look like a fella who deserves respect? You better start dressin' the part.
+473	NICKY                         	begin_time	end_time	 You need the suit, shirt, and tie I'm talkin' fully decked
+474	NICKY_CALOGERO_SLICK&CRAZYMARIO	begin_time	end_time	 Your hair like a w ork of art. ,Yeah.
+475	NICKY                         	begin_time	end_time	 You put on the fedora, The sophisticated aura, And you curl your lip and stand just right. 
+476	NICKY                         	begin_time	end_time	 Light a cig and hold it steady, Strike a pose and now you're ready To hang on the corner all night.
+477	GUYS_NICKY                    	begin_time	end_time	 Ain't it the truth!, You know it, every word is true.
+478	GUYS_NICKY                    	begin_time	end_time	 Ain't it the truth!, You listen what I'm tellin' you
+479	NICKY                         	begin_time	end_time	 You can't hold Your head up In some cheap-ass lookin' get-up—
+480	ALL                           	begin_time	end_time	 And that's the truth! Ba doo wa, Bop bop ba dada! Ba doo wa
+481	CRAZYMARIO                    	begin_time	end_time	Hey! Don't I know you from some place?
+482	GIRL                          	begin_time	end_time	Yeah. That's why I don’t go there anymore.
+483	CRAZYMARIO_SLICK              	begin_time	end_time	Forget her. She's a slut.,How do you know?
+484	CRAZYMARIO                    	begin_time	end_time	She failed my test.
+485	CALOGERO_CRAZYMARIO           	begin_time	end_time	Your test?,The Mario test. This test can't fail.
+486	CRAZYMARIO                    	begin_time	end_time	 You wanna know if your girl is gonna be "the one"? You give her the Mario test.
+487	CRAZYMARIO                    	begin_time	end_time	 You pick her up, Take her drivin', Have a bit of fun, And then, here’s what I suggest
+488	CRAZYMARIO                    	begin_time	end_time	You take her on the highway, and you get right up next to one of those eighteen wheelers
+489	CRAZYMARIO                    	begin_time	end_time	You honk the horn – BEEP BEEP - you wave to the driver. You make sure he's lookin' at you, it's very important. 
+490	CRAZYMARIO                    	begin_time	end_time	Then you put your hand behind her head. You whisper in her ear and tell her what you expect. 
+491	CRAZYMARIO                    	begin_time	end_time	Now, if she goes down on the old brajole, knowing the guy in the eighteen wheeler is watching, 
+492	CRAZYMARIO                    	begin_time	end_time	she can’t be trusted.
+493	CALOGERO                      	begin_time	end_time	You're a sick person, Mario.
+494	GUYS                          	begin_time	end_time	 Ain't it the truth!
+495	CRAZYMARIO_GUYS               	begin_time	end_time	 No bullshit, Every word makes sense., Ain't it the truth!
+496	CRAZYMARIO                    	begin_time	end_time	 Ignore me at your own expense: She likes the pepperoni, She ain't fit for matrimony
+497	ALL                           	begin_time	end_time	 And that's the truth! Ba doo wa, Bop bop ba dada! Ba doo wa, sha sha shoo wada! Ba... (Music quiets)
+498	SLICK_CRAZYMARIO              	begin_time	end_time	Hey! What the are you Yams doing walking over here?,This is our neighborhood!
+499	CALOGERO                      	begin_time	end_time	They're not makin' any trouble forget about it.
+500	SLICK                         	begin_time	end_time	My father told me that's how it starts. He said you let one in, they take over the neighborhood.
+501	CALOGERO                      	begin_time	end_time	Slick listen –
+502	SLICK                         	begin_time	end_time	 You wanna know what it takes to be a real paisan? You stand on the side of what's right.
+503	SLICK                         	begin_time	end_time	 And when those jigs get ideas, and it’s your block they're on, You quit actin' all polite.
+504	CALOGERO                      	begin_time	end_time	Hey, c'mon, Slick—
+505	SLICK                         	begin_time	end_time	 You get up in their faces And you show them where their place is-
+506	CRAZYMARIO_SLICK              	begin_time	end_time	 You baseball bat their heads., No doubt.
+507	NICKY                         	begin_time	end_time	 'Cause you let one or two in, And the whole place goes to ruin.
+508	SLICK_MARIO&NICKY             	begin_time	end_time	 And who else'll keep the spooks out., Ain't it the truth!
+509	SLICK_MARIO&NICKY             	begin_time	end_time	 You know it, ev'ry goddamn word. , Ain't it the truth!
+510	SLICK                         	begin_time	end_time	 Exactly like we always heard— The next tribe that passes, You can bet we’ll kick their asses. 
+511	SLICKMARIO&NICKY              	begin_time	end_time	 And that’s the truth!
+512	MARIO_NICKY_&SLICK            	begin_time	end_time	 Ba do wa, Bop bop ba dada! (Music quiets)
+513	CALOGERO_MARIO_NICKY&SLICK    	begin_time	end_time	It kept bothering me. All my friends felt the same way except me. , Ba do wa, Sha sha shoo wada!
+514	CALOGERO_MARIO_NICKY&SLICK    	begin_time	end_time	In this neighborhood it was all about the streets and who owned 'em., Ba doo wa, Da da de adda, Bop bop bada
+515	CALOGERO                      	begin_time	end_time	They weren't allowed to set foot on Belmont Avenue. And we couldn’t go anywhere near Webster Avenue.
+516	CALOGERO                      	begin_time	end_time	School was right in the middle of the two. But even there we stayed apart. At least my friends did. 
+517	CALOGERO                      	begin_time	end_time	Me. I was having a hard time keeping my distance. (School bell rings. Bubbly, lively music)
+518	JANE                          	begin_time	end_time	That's the guy. The one who's always looking at me in the halls.
+519	FRIEDA_JANE                   	begin_time	end_time	Well how would you know unless you're looking back?,You don't think he's cute?
+520	DENISE_JANE                   	begin_time	end_time	I think he's white.,Oh really? I didn't notice.
+521	FRIEDA                        	begin_time	end_time	Then maybe you ain't looking close enough.
+522	CALOGERO                      	begin_time	end_time	 That girl, right there— Am I the only one who sees? 
+523	CALOGERO                      	begin_time	end_time	 Those lips, that hair— Those eyes that knock me to my knees.
+524	DOOWOPGROUP                   	begin_time	end_time	 Oh…
+525	CALOGERO                      	begin_time	end_time	 Don't look at her— They find out, they’ll laugh at you for sure.
+526	DOOWOPGROUP                   	begin_time	end_time	 So…
+527	CALOGERO                      	begin_time	end_time	 What's it matter? She's not one of us, 
+528	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 And you're just Out of your head if you think that this ever could be! , Out of your head
+529	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 You're dreaming Go back to bed You're out of your head , Go back to bed Out of your head
+530	CALOGERO                      	begin_time	end_time	 Girls like her don’t happen to guys like me.
+531	FRIEDA_DENISE                 	begin_time	end_time	Jane, listen to us.,It just ain't right.
+532	FRIEDA_DENISE                 	begin_time	end_time	Stop looking for trouble.,And stop looking at him.
+533	JANE                          	begin_time	end_time	Okay.
+534	JANE                          	begin_time	end_time	 That boy, right there—
+535	JANE                          	begin_time	end_time	 I see him everywhere I go. He smiles, I stare.
+536	JANE_FRIEDA&DENISE            	begin_time	end_time	 Could it be more? I just don't know., No! Don't be stupid—
+537	JANE_FRIEDA&DENISE            	begin_time	end_time	 Told myself a million times before. , Ah...
+538	FRIEDA&DENISE                 	begin_time	end_time	 No! Don’t be foolish –
+539	JANE_FRIEDA&DENISE            	begin_time	end_time	 He is not your kind, And you're just Out of your head If you think that this ever could be!
+540	JANE_FRIEDA&DENISE            	begin_time	end_time	 You're dreaming! Go back to bed You're out of y our head
+541	JANE                          	begin_time	end_time	 Boys like him don't happen –
+542	JANE&CALOGERO_FRIEDA&DENISE   	begin_time	end_time	 And you're just Out of your head , Out of your head
+543	JANE&CALOGERO_FRIEDA&DENISE   	begin_time	end_time	 I f you think that this ever could be , Could be...
+544	JANE&CALOGERO_FRIEDA&DENIS    	begin_time	end_time	 You're dreaming Go back to bed you’re Out of your head , Go back to bed Out of your head
+545	FRIEDA&DENISE_JANE            	begin_time	end_time	Let’s go., Boys like him Don't happen to girls like me.
+546	FRIEDA&DENISE                 	begin_time	end_time	 No! No!
+547	CALOGERO                      	begin_time	end_time	 Girls like her Don't happen to guys like me.
+548	FRIEDA&DENISE                 	begin_time	end_time	 No! No!
+549	CALOGERO&JANE                 	begin_time	end_time	 Things like this don't happen...
+550	CALOGERO                      	begin_time	end_time	 And then, she’s there... The chance would never come again.
+551	CALOGERO                      	begin_time	end_time	 I say a prayer, Take one deep breath, and count to ten... Then I know it—
+552	CALOGERO                      	begin_time	end_time	 Something tells me she must feel the same. C, don't blow it... Simply ask her name... (Music stops)
+553	CALOGERO                      	begin_time	end_time	Hi. I saw you standing here, and I was wondering, are you waiting for somebody?
+554	JANE                          	begin_time	end_time	Yes, I am.
+555	CALOGERO_JANE                 	begin_time	end_time	You are, oh, well sorry.,I'm just waiting for my brother. He's late.
+556	CALOGERO_JANE                 	begin_time	end_time	That's great. ,That he's late?
+557	CALOGERO                      	begin_time	end_time	No. That he's your brother. My name's Calogero.
+558	JANE                          	begin_time	end_time	Calogero? What kind of name is that?
+559	CALOGERO                      	begin_time	end_time	It's Sicilian. My family's from Sicily.
+560	JANE                          	begin_time	end_time	I'm Jane. My family’s from two blocks down make a left.
+561	CALOGERO_JANE                 	begin_time	end_time	Jane. I like that. Hey listen - Do you ever go out?,You mean like on a date?
+562	CALOGERO_JANE                 	begin_time	end_time	Yeah.,With you?
+563	CALOGERO_JANE                 	begin_time	end_time	Yeah.,No.
+564	CALOGERO_JANE                 	begin_time	end_time	Why?,Whaddya think?
+565	CALOGERO                      	begin_time	end_time	It's just a date. Who knows? You might get to like me. (Jane laughs)
+566	JANE_CALOGERO                 	begin_time	end_time	You’re funny.,So is that a yes? 
+567	JANE_CALOGERO                 	begin_time	end_time	People will see us.,What about a movie? It'll be dark. 
+568	JANE                          	begin_time	end_time	I don't think it’s a good idea.
+569	CALOGERO_JANE                 	begin_time	end_time	Where are you going? ,Why do you wanna know?
+570	CALOGERO                      	begin_time	end_time	In case I need to find you.
+571	JANE_CALOGERO                 	begin_time	end_time	I'm going to work.,You got a job?
+572	JANE                          	begin_time	end_time	I'm saving up for college. Aren't you? 
+573	CALOGERO                      	begin_time	end_time	College? College? What're you kidding?
+574	JANE                          	begin_time	end_time	Why not? My girlfriend Denise is in your English class. She says you're smarter than you look.
+575	CALOGERO_JANE                 	begin_time	end_time	So you talk about me?,She says you can really write. 
+576	CALOGERO                      	begin_time	end_time	Yeah, well, my friends would laugh their asses off if I told them I was going to college.
+577	JANE_CALOGERO                 	begin_time	end_time	Maybe you need new friends. ,Maybe.
+578	JANE_CALOGERO                 	begin_time	end_time	Cousins record store.,What?
+579	JANE_CALOGERO                 	begin_time	end_time	That's where I work.,On Fordham Road? 
+580	JANE_CALOGERO                 	begin_time	end_time	Yeah. I can't be late.,What about your brother?
+581	JANE_CALOGERO                 	begin_time	end_time	Tell him I couldn't wait. ,I don't know what he looks like.
+582	JANE                          	begin_time	end_time	He's black. (Jane laughs. Piano melody begins)
+583	CALOGERO                      	begin_time	end_time	 I must be out o f my head, But I've got it as bad as can be.
+584	CALOGERO                      	begin_time	end_time	 God help me! She is so fine But it's crossing a line
+585	CALOGERO                      	begin_time	end_time	 Girls like her don’t happen— (Music builds)
+586	CALOGERO                      	begin_time	end_time	 Girls like her c an't happen— Girls like Jane don’t happen to guys like –
+587	LORENZO                       	begin_time	end_time	Calogero! What're you doin’?
+588	CALOGERO_LORENZO              	begin_time	end_time	Hey, Dad, I got a question for you. You know Joey Lama from up the block?,Yeah.
+589	CALOGERO                      	begin_time	end_time	Well, Joey's dating this black girl, and the guys are giving him a lot of shit. Whatta ya think about that?
+590	LORENZO                       	begin_time	end_time	You know how I feel about that. I get along with everybody on the bus. There's good and bad in every kind.
+591	CALOGERO_LORENZO              	begin_time	end_time	You really mean that, Dad?,Yeah.
+592	CALOGERO                      	begin_time	end_time	Well what would you do if I ever dated a black girl, Dad? What would you do? 
+593	LORENZO                       	begin_time	end_time	You would never do that.
+594	CALOGERO                      	begin_time	end_time	Yeah, well. Sometimes you just gotta do what your heart tells you to do. 
+595	LORENZO_CALOGERO              	begin_time	end_time	Who told you that?,Joey Lama.
+596	LORENZO                       	begin_time	end_time	Well, you tell Joey Lama that sometimes in the heat of passion the little head tells the big head what to do. 
+597	LORENZO                       	begin_time	end_time	And the big head should think twice.
+598	LORENZO                       	begin_time	end_time	I’ll see you upstairs. (Gentle beat begins)
+599	CALOGERO                      	begin_time	end_time	Hey Louie! Louie Beans! Where's the twenty dollars you owe me! 
+600	CALOGERO                      	begin_time	end_time	You can't dodge me forever, you rat bastard! (Music stops)
+601	CALOGERO_SONNY                	begin_time	end_time	Go ahead, run away! ,Hey! What are you yellin' about?
+602	CALOGERO                      	begin_time	end_time	Louie Beans, Sonny. He owes me twenty dollars. It's been two weeks now. 
+603	CALOGERO                      	begin_time	end_time	He's makin' me look bad in front of the other guys. I mean, should I whack this kid, or what?
+604	SONNY                         	begin_time	end_time	Alright, first thing's first; this guy Louie Beans, is he a good friend of yours?
+605	CALOGERO                      	begin_time	end_time	No, he's a jerk off. I can't stand the guy. But he owes me twenty dollars.
+606	SONNY_CALOGERO                	begin_time	end_time	Forget the twenty.,Why? 
+607	SONNY                         	begin_time	end_time	He's never gonna bother you again. He's never gonna ask you for money again.
+608	SONNY                         	begin_time	end_time	He's out of your life for twenty dollars. You got off cheap. Forget about it.
+609	CALOGERO                      	begin_time	end_time	You're right, Sonny.
+610	SONNY                         	begin_time	end_time	What've I been teaching you? You're going to the best school in the whole world, kid - the University of Belmont Avenue.
+611	SONNY                         	begin_time	end_time	But you gotta get two educations. One from the street, and one from school. That way you’ll be twice as smart as everybody else. 
+612	SONNY                         	begin_time	end_time	Read a book once in a while...
+613	CALOGERO                      	begin_time	end_time	Read a book? Yeah, like you read?
+614	SONNY                         	begin_time	end_time	Course I read. They sent me away to college a few times, know what I'm sayin'? 
+615	SONNY                         	begin_time	end_time	I used to read philosophy... you ever hear of a guy named Machiavelli?
+616	CALOGERO_SONNY                	begin_time	end_time	Who?,Niccolo Machiavelli...
+617	SONNY                         	begin_time	end_time	Lemme tell you something about this guy Nick Machiavelli.
+618	SONNY                         	begin_time	end_time	If he was around today he would be my consiglieri.
+619	SONNY_<br                     	begin_time	end_time	 Nicky machiavelli lemme tell ya what he said:
+620	SONNY                         	begin_time	end_time	 You wanna use the reins of power, First you gotta use your head.
+621	SONNY                         	begin_time	end_time	 Nicky knew all t he angles. Nicky laid it out real clear: 
+622	SONNY                         	begin_time	end_time	 You gotta choose fear or love, kid You gotta choose love or fear.
+623	CALOGERO_SONNY                	begin_time	end_time	Love or fear?,That's right, C.
+624	SONNY                         	begin_time	end_time	 Nicky's number- one secret Was availability
+625	SONNY                         	begin_time	end_time	 That's why I'm here on this corner, Right where all the world can see.
+626	SONNY                         	begin_time	end_time	 All my friends, They sleep easy Knowing that I'm always near.
+627	SONNY                         	begin_time	end_time	 My enemies know it, too, though- It ain't about love, it's fear.
+628	SONNY                         	begin_time	end_time	 And as far as those friends go, Nick suggests a real short leash.
+629	SONNY                         	begin_time	end_time	 Treat 'em well, but hey--not too well. Keep 'em in your debt, capisce?
+630	SONNY                         	begin_time	end_time	 Give too much, they won't need ya. Give too little and they'll sneer.
+631	SONNY                         	begin_time	end_time	 You wanna know what to give ‘ em? The answer ain’t love, it's fear. 
+632	SONNY                         	begin_time	end_time	 Frankie, Tony and JoJo- Look at how it is with them.
+633	SONNY                         	begin_time	end_time	 Sure, you'd think these fellas love me. Think again, says Nicky M. 
+634	SONNY                         	begin_time	end_time	 I make a joke they start laughin’(Wise guys laugh)
+635	SONNY                         	begin_time	end_time	 Hell, they nearly stand and cheer. (Wise guys laugh harder)
+636	SONNY                         	begin_time	end_time	 I'm funny but I ain’t that funny.
+637	WISEGUYS                      	begin_time	end_time	 That laughter ain't love, it's fear.
+638	SONNY_WISEGUYS                	begin_time	end_time	 So then, which one is better? , Pah pah -dah
+639	SONNY_WISEGUYS                	begin_time	end_time	 Me, I take my cues from Nick., Pah pah -dah
+640	SONNY_WISEGUYS                	begin_time	end_time	 Kindness looks a lot like weakness,, Va -doo-dah
+641	SONNY_WISEGUYS                	begin_time	end_time	 Even when you spread it thick., Pah -doo- wah -doo- wah!
+642	SONNY_WISEGUYS                	begin_time	end_time	 Money can't buy you friendship,, Pah pah -dah!
+643	SONNY_WISEGUYS                	begin_time	end_time	 Love can always disappear., Pah pah -dah!
+644	SONNY_WISEGUYS                	begin_time	end_time	 But fear is cash in the bank, kid!, Bop bah...
+645	SONNY_WISEGUYS                	begin_time	end_time	 Fear puts gas in your tank, kid!, Bop bah...
+646	SONNY_WISEGUYS                	begin_time	end_time	 And now you got Nicky to thank, kid!, Bop bah...
+647	SONNY_WISEGUYS                	begin_time	end_time	 Forget about love!, Pah - pah -pow! (Music stops abruptly)
+648	SONNY                         	begin_time	end_time	 Choose fear! (Music resumes)
+649	CALOGERO                      	begin_time	end_time	In the Chez Bippy, any stranger that walked in was a big deal. This day, a motorcycle gang came in. They had a reputation.
+650	TONYTENTOTWO_GANGLEADER       	begin_time	end_time	Excuse me. Youse can't come in. We're closed.,We just want a drink.
+651	SONNY                         	begin_time	end_time	Is there a problem here? 
+652	GANGLEADER                    	begin_time	end_time	No problem. We'd just like to get a few beers. Maybe you could help us out, sir? (Music stops)
+653	SONNY                         	begin_time	end_time	You spoke like a gentleman. I appreciate that. Rudy, give them their beers.
+654	GANGLEADER                    	begin_time	end_time	Hey, thanks for the beers. (Gang laughs. Dark music begins)
+655	SONNY                         	begin_time	end_time	That wasn't very nice. Now you and your friends gotta leave.
+656	GANGLEADER                    	begin_time	end_time	Oh, we gotta leave? You hear that fellas? This dago says we gotta leave. 
+657	GANGLEADER                    	begin_time	end_time	This is our place now guinea, we ain't leavin’. You make us leave. (All goes silent)
+658	NO_SPEAKER                    	begin_time	end_time	(Door lock clicks)
+659	SONNY                         	begin_time	end_time	Now youse can't leave. (Sounds of glass breaking, shouting and fighting. Fast, percussion-heavy music)
+660	SONNY                         	begin_time	end_time	Look at me! Look at my face! Remember me! My name is Sonny. 
+661	SONNY                         	begin_time	end_time	And I'm the one who did this to you. 
+662	SONNY                         	begin_time	end_time	And never mistake kindness for weakness again. 
+663	SONNY                         	begin_time	end_time	Good job, fellas. Rudy, give everybody drinks on me. And make me something to eat.
+664	RUDYTHEVOICE                  	begin_time	end_time	 How 'bout linguini with clams, Sonny – (Guys yell)
+665	SONNY                         	begin_time	end_time	 Listen now what I tell ya. This advice is you- know-who’s.
+666	SONNY                         	begin_time	end_time	 Love or fear – it's up to you, kid. But you live with what you choose
+667	SONNY                         	begin_time	end_time	 Nicky told me his secret. I owe the guy my whole career.
+668	SONNY                         	begin_time	end_time	 So now I think it’s up to you kid You gonna choose love
+669	SONNY                         	begin_time	end_time	 Or fear?
+670	SONNY                         	begin_time	end_time	Think about it. (Music stops)
+671	CALOGERO                      	begin_time	end_time	Nobody messes with us. You hear me? This is our neighborhood. Now get outta here. (Somber, guitar- heavy music)
+672	LORENZO                       	begin_time	end_time	 When did it happen? How did I lose you? Why did I stand there and let that man use you?
+673	LORENZO                       	begin_time	end_time	 I won't watch it happen– Son, I refuse to. (Drums come in. Music builds)
+674	LORENZO                       	begin_time	end_time	 I was there on the morning you first saw the light.
+675	LORENZO                       	begin_time	end_time	 I carried you on my shoulders, tucked you in bed every night. 
+676	LORENZO                       	begin_time	end_time	 Taught you how to play ball, And watched you grow tall – I've still got it all inside.
+677	LORENZO                       	begin_time	end_time	 And no matter the cost, I won't let that be lost-
+678	LORENZO                       	begin_time	end_time	 Son, these streets won't take you away from me. 
+679	LORENZO                       	begin_time	end_time	 No, these streets won't break up this family. 
+680	LORENZO                       	begin_time	end_time	 No how, I won’t lose you now, Not to these streets (Music quiets)
+681	LORENZO                       	begin_time	end_time	Didn't I tell you hanging around Sonny shit happens. Come upstairs.
+682	CALOGERO_LORENZO              	begin_time	end_time	No.,What did you say? 
+683	CALOGERO                      	begin_time	end_time	What was I gonna do, Dad? Run away - make them think I got no heart?
+684	LORENZO                       	begin_time	end_time	No heart? (Music builds)
+685	LORENZO                       	begin_time	end_time	 On these streets, you mean nothing. Trust me, they don't care.
+686	CALOGERO_LORENZO              	begin_time	end_time	You don't know Sonny.,I know how he thinks.
+687	LORENZO                       	begin_time	end_time	 Mess up once, watch what happens—They'll leave you bleeding somewhere.
+688	CALOGERO                      	begin_time	end_time	You're wrong – Sonny trusts me!
+689	LORENZO                       	begin_time	end_time	 There's no honor, no trust— They do what they must, They'll kill if it's justified.
+690	LORENZO_CALOGERO              	begin_time	end_time	 They'll make you a pawn in their war...,C'mon, Dad...
+691	LORENZO                       	begin_time	end_time	 You were meant for much more! 
+692	CALOGERO                      	begin_time	end_time	Yeah? What was I meant for? (Music quiets)
+693	LORENZO                       	begin_time	end_time	I don't want you to have to look over your shoulder all the time, or owe anybody anything. I want you to have a better life than that.
+694	CALOGERO                      	begin_time	end_time	Like yours? We got no car. No money. We got nothing.
+695	LORENZO                       	begin_time	end_time	 You've gotta look to your heart, Calogero.
+696	CALOGERO                      	begin_time	end_time	What am I gonna be? A bus driver like you?
+697	LORENZO                       	begin_time	end_time	 Don't you get trapped here, be smart!
+698	CALOGERO_LORENZO              	begin_time	end_time	Sonny's right- , Calogero!
+699	CALOGERO                      	begin_time	end_time	The working man is a sucker!
+700	LORENZO_CALOGERO              	begin_time	end_time	 Calogero!,He's a sucker!
+701	LORENZO                       	begin_time	end_time	 These streets, they’ll take you away from me. 
+702	LORENZO                       	begin_time	end_time	 'Cause these streets, they'll break you eventually.
+703	LORENZO                       	begin_time	end_time	 You'll lose. So wise up and choose... (Music quiets)
+704	LORENZO                       	begin_time	end_time	 Remember the promise you made- Calogero...
+705	LORENZO                       	begin_time	end_time	 Don't let your life be mislaid
+706	LORENZO                       	begin_time	end_time	 You promised me... Promised me! Look to your heart!
+707	WISEGUYS_SONNY                	begin_time	end_time	 Roll 'em! Roll ‘ em!, Roll 'em, C...
+708	ROSINA_WISEGUYS               	begin_time	end_time	 Lorenzo..., Roll 'em!
+709	LORENZO_DOOWOPGROUP           	begin_time	end_time	 Calogero!, Wah -dah...
+710	WISEGUYS                      	begin_time	end_time	 Roll 'em!
+711	SONNY_DOOWOPGROUP             	begin_time	end_time	Hey C, c'mon, I need ya to throw my dice., Wah -dah...
+712	ROSINA_WISEGUYS               	begin_time	end_time	 Listen to me..., Roll 'em!
+713	LORENZO_DOOWOPGROUP           	begin_time	end_time	 Remember the promise you made..., Wah -dah...
+714	WISEGUYS_SONNY                	begin_time	end_time	 Roll ‘ em!, Come on and come with me...
+715	DOOWOPGROUP_ROSINA            	begin_time	end_time	 Wah -dah..., Lorenzo...
+716	WISEGUYS_LORENZO              	begin_time	end_time	 Roll ‘ em!, Calogero!
+717	DOOWOPGROUP_WISEGUYS          	begin_time	end_time	 Wah -dah..., Roll 'em!
+718	SONNY_LORENZO                 	begin_time	end_time	C! C'mon I need ya., Son! Look to your...heart! (Music ends with a flourish)
+719	NO_SPEAKER                    	begin_time	end_time	END OF ACT ONE
+720	NO_SPEAKER                    	begin_time	end_time	INTERMISSION
+721	NO_SPEAKER                    	begin_time	end_time	ACT TWO
+722	JANE                          	begin_time	end_time	 Woah 
+723	JANE_DENISE_FRIEDA&JESSE      	begin_time	end_time	 Oh oh oh... Oh oh oh , Bm bm bm Ah boh bm bm ah boh, Bo bo bo bo
+724	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	 Oh – this is a Bronx tale. You know the story— , Sha na na na na boh Sha na na na na boh, bo bo
+725	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	 I went with Sonny, And ran with his crew. , Sha na na na na boh Ooo la loo bo bo bo bo boh
+726	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	 But I couldn’t stop lookin‘ At you- know-who , Ooo ooo ooo ooo Ooo ooo ooo ooo Oo! Oo!
+727	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	 A few blocks down on Webster Avenue , Sha na na na na dhoh dhoh dhoh
+728	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	That's where Jane lived. It was just a couple of bus stops away. , Sha na na na na Dhoh dhoh dhoh 
+729	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	But it was a whole different world. , Ooo la loo... Dhoh dhoh ooo...
+730	JANE                          	begin_time	end_time	One! Two! One…
+731	JANE_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 Oo oo oop , Oo oo oop
+732	JANE_GROUP                    	begin_time	end_time	 Sittin' on my stoop, Sittin' on my stoop
+733	JANE_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 Oo oo oop , Oo oo oop
+734	JANE_GROUP                    	begin_time	end_time	 Sittin' on my stoop, Sittin' on my stoop
+735	JANE_GROUP                    	begin_time	end_time	 Webster Avenue! Sittin' with my crew!, Oo oo oop Sittin' on my stoop
+736	JANE_                         	begin_time	end_time	 Gotta love the view! Webster Avenue! GROUP, Oo oo oop Sittin' on my stoop
+737	JANE_GROUP                    	begin_time	end_time	 Webster Avenue- ue - ue-ue-ue - ue-ue..., Ooo ooo ooo... (Full band comes in with quick, cheery music)
+738	JANE_GROUP                    	begin_time	end_time	 Webster Avenue! Hangin' with my crew!, Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, Boys are singin'
+739	JANE_GROUP                    	begin_time	end_time	 Gotta love the view! Oh Webster Avenue, Yeah, yeah, streets are sighin‘ Yeah, yeah, girls strut by in a group, 
+740	GROUP                         	begin_time	end_time	 Oo oo oop...
+741	JANE_GROUP                    	begin_time	end_time	 Strut on by Got to love that Ooo ooo ooo..., Oo oo oop... Oo oo oop... Ooo ooo ooo...
+742	JANE                          	begin_time	end_time	 Webster Avenue (Stomping and clapping in a beat)
+743	NO_SPEAKER                    	begin_time	end_time	(Full band comes in and matches the beat)
+744	JANE_GROUP                    	begin_time	end_time	 Webster Avenue! Hangin' with my crew!, Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, Boys are singin'
+745	JANE_GROUP                    	begin_time	end_time	 Gotta love the view! Oh, Webster Avenue!, Yeah, yeah, streets are sighin‘ Yeah, yeah, girls strut by in a group
+746	GROUP                         	begin_time	end_time	 Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, streets are sighin‘
+747	JANE                          	begin_time	end_time	 Sittin' on my… (Band stops. Stomping to a rapid beat)
+748	ALL                           	begin_time	end_time	 Stoop! (Music hits! and ends)
+749	ALL                           	begin_time	end_time	 Sidewalk's swingin‘ Boys are singin 'Streets are sighin’
+750	JANE_FRIEDA&DENISE            	begin_time	end_time	 Girls strut by in a...
+751	ALL_TYRONE&JESSE              	begin_time	end_time	 Grou - ou - ou -p, Sittin' on my... (Music stops abruptly)
+752	FRIEDA_JANE                   	begin_time	end_time	Jane we need to talk.,About what?
+753	DENISE                        	begin_time	end_time	About you walkin' around thinkin' about someone you shouldn't be thinkin' about. 
+754	JANE                          	begin_time	end_time	We just talked.
+755	DENISE_JANE                   	begin_time	end_time	Oh, really? Remember Felicia, from down the block? ,What about her?
+756	DENISE_FRIEDA                 	begin_time	end_time	She just talked. ,With a guinea.
+757	DENISE                        	begin_time	end_time	When her boyfriend found out, she woke up in the hospital. 
+758	FRIEDA_JANE                   	begin_time	end_time	So you better cool it.,I did...kind of. 
+759	DENISE_JANE                   	begin_time	end_time	What do you mean, kind of?,I might have mentioned that I work here.
+760	FRIEDA_DENISE                 	begin_time	end_time	Are you insane? ,You want him to show up.
+761	JANE                          	begin_time	end_time	Maybe I do.
+762	FRIEDA                        	begin_time	end_time	And then what? You gonna take him over to Webster Ave to hang out at the club? 
+763	DENISE_FRIEDA                 	begin_time	end_time	Why look who's here.,Whatta surprise.
+764	CALOGERO_DENISE               	begin_time	end_time	I was in the neighborhood-,Jane - you’re on your own.
+765	FRIEDA                        	begin_time	end_time	You better do what’s right. Turn yourself around and walk your ass right outta here. 
+766	CALOGERO_JANE                 	begin_time	end_time	She's right. I shouldn't be here.,You really shouldn't.
+767	CALOGERO                      	begin_time	end_time	But I can't stop thinking about you.
+768	JANE                          	begin_time	end_time	I've been thinking about you, too.
+769	CALOGERO_JANE                 	begin_time	end_time	You know this is crazy and it's never gonna work.,Never.
+770	CALOGERO_JANE                 	begin_time	end_time	And you know this is only gonna lead to trouble.,I know.
+771	CALOGERO_JANE                 	begin_time	end_time	So whatta we do?,I guess we'll have to go to the movies.
+772	CALOGER                       	begin_time	end_time	 I guess so. 
+773	JANE_CALOGERO                 	begin_time	end_time	Hey, can I ask you something? ,Sure, anything.
+774	JANE_CALOGERO                 	begin_time	end_time	Why do you always wear that hat? ,You don't like it?
+775	JANE_CALOGERO                 	begin_time	end_time	It's just...funny.,Every guy in my neighborhood wears a hat like this. 
+776	JANE                          	begin_time	end_time	Yeah, that's why it’s funny. 
+777	JANE                          	begin_time	end_time	Here, try it like this. 
+778	CALOGERO_JANE                 	begin_time	end_time	No hat?,No hat.
+779	CALOGERO                      	begin_time	end_time	How do I look?
+780	JANE                          	begin_time	end_time	Like you're different from every guy in your neighborhood.
+781	JANE_CALOGERO                 	begin_time	end_time	And now I can see your eyes. They're very nice.,Thanks. So are yours. 
+782	CALOGERO                      	begin_time	end_time	But hey, don't knock my neighborhood! I love my neighborhood!
+783	JANE                          	begin_time	end_time	I love mine, too! The rumble of the el train... the smell of home cookin'...
+784	CALOGERO                      	begin_time	end_time	Sounds like a great place to grow up in.
+785	JANE                          	begin_time	end_time	Yeah, it'll also be a great place to get out of. Know what I'm sayin'?
+786	CALOGERO                      	begin_time	end_time	Maybe you'll show me around when I come pick you up.
+787	JANE                          	begin_time	end_time	Are you crazy? You can't come to Webster. Why don't I come to you?
+788	CALOGERO                      	begin_time	end_time	To Belmont? Are you crazy?
+789	JANE_CALOGERO                 	begin_time	end_time	How bout school? It’ll be late and everybody'll be gone. ,Okay.
+790	JANE                          	begin_time	end_time	Are you sure we should do this?
+791	CALOGERO                      	begin_time	end_time	No. But I want to. (Gentle, piano-heavy music)
+792	JANE                          	begin_time	end_time	 I guess I'm out of my head' Cause I'm dying to see where this goes.
+793	JANE                          	begin_time	end_time	 Can't fight it— Maybe it's wrong, but the feeling's so strong. (Music quickens and becomes more cheerful)
+794	JANE                          	begin_time	end_time	 Things like this can't happen, but hey, who knows?
+795	JANE                          	begin_time	end_time	 Things like us can't happen, but hey, who knows (Music stops abruptly)
+796	CALOGERO                      	begin_time	end_time	Sonny, Sonny, I gotta talk to you – it's important.
+797	SONNY_CALOGERO                	begin_time	end_time	What's the matter, you need some money?,No, no, it's not that. 
+798	SONNY                         	begin_time	end_time	Somebody bothering you? You want me to straighten somebody out?
+799	CALOGERO                      	begin_time	end_time	No I just need to talk to you. 
+800	SONNY                         	begin_time	end_time	Eddie, Tony, give us a minute…
+801	SONNY_CALOGERO                	begin_time	end_time	So, what is it?,I met a girl.
+802	SONNY                         	begin_time	end_time	Ho! Lemme hear! Lemme hear!
+803	CALOGERO_SONNY                	begin_time	end_time	C'mon, Sonny, don’t laugh. I met this girl – ,HO!
+804	CALOGERO                      	begin_time	end_time	Sonny! I really like her. But she's... 
+805	SONNY                         	begin_time	end_time	What? Just say it!
+806	CALOGERO                      	begin_time	end_time	She's black.
+807	SONNY                         	begin_time	end_time	Okay. So.
+808	CALOGERO                      	begin_time	end_time	So - if the guys find out it's gonna be bad.
+809	SONNY                         	begin_time	end_time	Look C, this neighborhood's got one big personality. 
+810	SONNY                         	begin_time	end_time	All these heads they mesh together into like one brain. And not a very smart one. 
+811	SONNY                         	begin_time	end_time	Like a minus four sometimes. What do I always tell you? You gotta do what your heart tells you to do
+812	SONNY                         	begin_time	end_time	because you go against your heart, you’re automatically wrong. Listen... (Slow, jazzy music)
+813	SONNY                         	begin_time	end_time	 There's a kind of a girl Who can send your heart whirling away.
+814	CALOGERO_SONNY                	begin_time	end_time	I know., But those are the kind You don't happen to find every day.
+815	SONNY                         	begin_time	end_time	 You'll meet smart ones and tough ones, Just-good-enough ones— They're fine, kid, Go out there, Enjoy.
+816	SONNY                         	begin_time	end_time	 But in all of your life You get only three shots at the real McCoy. 
+817	SONNY                         	begin_time	end_time	 And this one could be One of the great ones.
+818	SONNY                         	begin_time	end_time	 This one could be One of the ones you won't forget.
+819	SONNY                         	begin_time	end_time	 If the stars in her eyes Make your confidence rise Like a rocket that’s ready to blow,
+820	SONNY                         	begin_time	end_time	 Then she might be One of your great ones— Don't let her go. (Music builds and quickens)
+821	SONNY_CALOGERO                	begin_time	end_time	Because three, C. Three. ,What? 
+822	SONNY                         	begin_time	end_time	You're only allowed three great women in your lifetime.
+823	SONNY                         	begin_time	end_time	That's all you get. They come along like the great fighters. Once every ten years.
+824	SONNY                         	begin_time	end_time	Rocky Marciano, Sugar Ray Robinson, Joe Lewis. 
+825	SONNY                         	begin_time	end_time	Sometimes you get them all at once. I had my three when I was sixteen. Hey, that happens.
+826	CALOGERO_SONNY                	begin_time	end_time	Come on Sonny, don't joke. You never had a great one?,Almost. Once.
+827	SONNY                         	begin_time	end_time	 Now you know instantly When one of your three comes along.
+828	CALOGERO                      	begin_time	end_time	How?
+829	SONNY                         	begin_time	end_time	 'Cause she gazes at you, And it's like you can do nothing wrong.
+830	SONNY                         	begin_time	end_time	 All the sweet ones, The slight ones, The close-but-not -quite ones- With them you just get what you see.
+831	SONNY                         	begin_time	end_time	 But the great ones, kid, What they’re showin' you is The man you could be.
+832	SONNY                         	begin_time	end_time	 And this girl could be one of the great ones.
+833	SONNY                         	begin_time	end_time	 This one could be One of the ones on who you bet. 
+834	SONNY                         	begin_time	end_time	 Do you fly off the rails With the wind in your sails Whenever she sends you a glance?
+835	SONNY                         	begin_time	end_time	 Then she might be one of your great ones— Don't blow your chance. (Music quiets)
+836	SONNY_CALOGERO                	begin_time	end_time	This girl–is she a good kid? Can you trust her?,I think so. I just met her. 
+837	CALOGERO                      	begin_time	end_time	I'm picking her up at school and taking her to the movies tonight.
+838	SONNY_CALOGERO                	begin_time	end_time	Then you give her the test.,The Mario test? (Music stops)
+839	SONNY                         	begin_time	end_time	Mario? That guy's a nut job. He's on a weekend pass. You give her the Sonny test.
+840	SONNY                         	begin_time	end_time	It's fool proof. Here’s what you do. I'm gonna lend you my car—
+841	CALOGERO_SONNY                	begin_time	end_time	But you never lend anybody your car.,Never mind that, 
+842	SONNY                         	begin_time	end_time	you drive up to school, you get out of the car, you lock both doors. 
+843	SONNY                         	begin_time	end_time	Then you take the keys from your right hand, throw them up in the air, catch them in your left hand, shake 'em like this– 
+844	SONNY                         	begin_time	end_time	Women, they like that, I don't know why, but they like that. 
+845	SONNY                         	begin_time	end_time	You walk up to her nice and cool, and you give her the arm. 
+846	SONNY                         	begin_time	end_time	She puts her arm through yours. You walk her back to the car. Then you open the door for her. Then you let her get in. 
+847	SONNY                         	begin_time	end_time	Then you close the door for her. Then you walk around the back of the car, and you look through the rear window. 
+848	SONNY                         	begin_time	end_time	If she don't reach over and lift up that button for you so you can get in... you dump her.
+849	CALOGERO_SONNY                	begin_time	end_time	What?,Listen to me!
+850	SONNY                         	begin_time	end_time	If she don't reach over and lift up that button for you, then she’s a selfish broad and all you're seeing is the tip of the iceberg.
+851	SONNY_CALOGERO                	begin_time	end_time	You dump her and you dump her fast.,But what if she opens it?
+852	SONNY                         	begin_time	end_time	 Then this one could be One of the great ones
+853	SONNY                         	begin_time	end_time	 Yeah this one could be
+854	SONNY                         	begin_time	end_time	 One of the ones you won't regret
+855	SONNY                         	begin_time	end_time	 If she's smiling at you Like she knows you'll come through And makes you believe it somehow
+856	SONNY                         	begin_time	end_time	 Then, kid, you found One of those great ones Go to her now
+857	SONNY                         	begin_time	end_time	 Go to her now Kid, Go to her now
+858	CALOGERO                      	begin_time	end_time	Alright Sonny, I'm gonna go for it!
+859	SONNY                         	begin_time	end_time	 Yeah this one could be one of those great ones.
+860	SONNY                         	begin_time	end_time	 This one could be One of the ones you won't regret 
+861	SONNY                         	begin_time	end_time	 Let your three slip away, And you’ll wonder one day,
+862	SONNY                         	begin_time	end_time	 If maybe...If only... But, oh! 
+863	SONNY                         	begin_time	end_time	 You don't forget one of the great ones,
+864	SONNY                         	begin_time	end_time	 Trust me...I know. Trust me, I know. (Music ends with a saxophone-heavy flourish)
+865	NO_SPEAKER                    	begin_time	end_time	(Upbeat rock music)
+866	JESSE_TYRONE                  	begin_time	end_time	Whoa, whoa, whoa! I’m not going through Belmont.,Don't worry about it.
+867	JESSE                         	begin_time	end_time	Let's just walk around the other way. 
+868	TYRONE                        	begin_time	end_time	No-no dago is gonna tell me where to walk. (Rock music with a hard beat)
+869	TYRONE                        	begin_time	end_time	 You think I'm scared of some Knuckle-draggers? Brother, please!
+870	TYRONE                        	begin_time	end_time	 These wops ain’t no better than I.
+871	JESSE                         	begin_time	end_time	 They are dumber than a lumpa mozzarella cheese—
+872	JESSE                         	begin_time	end_time	 And greasy as a pizza pie
+873	TYRONE_JESSE                  	begin_time	end_time	 Ah they mama smells like garlic—, And they daddy's alcoholic—
+874	BOTH                          	begin_time	end_time	 And they sister’s got a fat mustache.
+875	JESSE_TYRONE                  	begin_time	end_time	 They talk tough--, But it's baloney—
+876	JESSE                         	begin_time	end_time	 'Cause they soft as macaroni—
+877	BOTH_JESSE                    	begin_time	end_time	 Just punk-ass immigrant trash., Oh...
+878	BOTH_TYRONE                   	begin_time	end_time	 And that's the truth!, You know it, ev'ry word is true
+879	BOTH_JESSE                    	begin_time	end_time	 And that's the truth!, Ain't scared what some dumb wops'll do.
+880	TYRONE                        	begin_time	end_time	 No way that I'll surrender To some jive spaghetti-bender.
+881	JESSE                         	begin_time	end_time	 The dagos want some action, We'll put all of ‘em in traction.
+882	BOTH                          	begin_time	end_time	 Them guinea sons-a-bitches Gonna need a dozen stitches. And that's the truth. (Music stops)
+883	SLICK                         	begin_time	end_time	You spooks just don't listen, huh?
+884	NICKY                         	begin_time	end_time	Hey, look who's back!
+885	CRAZYMARIO                    	begin_time	end_time	Maybe we should teach 'em a lesson.
+886	NICKY                         	begin_time	end_time	Guys guys let me talk to 'em. Listen fellas – (Energetic, funky music. Sounds of fighting)
+887	CRAZYMARIO_CALOGERO           	begin_time	end_time	Come on, C! Come on!,No!
+888	CALOGERO                      	begin_time	end_time	That's enough!
+889	SLICK_CALOGERO                	begin_time	end_time	What the hell’s wrong with you?,You're gonna kill him!
+890	SLICK_CALOGERO                	begin_time	end_time	I want to! ,That's enough!
+891	NO_SPEAKER                    	begin_time	end_time	(Dark music with a hard beat. Police siren in background)
+892	CALOGERO                      	begin_time	end_time	Come on, Slick. The cops.
+893	CALOGERO                      	begin_time	end_time	Get outta here!
+894	CALOGERO                      	begin_time	end_time	Get outta here! (Silence)
+895	LORENZO_ROSINA                	begin_time	end_time	What's goin' on out there?,I dunno. Something ain't right.
+896	LORENZO_CALOGERO              	begin_time	end_time	Whoa whoa whoa who is this who just walked in?,Not now, Dad.
+897	LORENZO_ROSINA                	begin_time	end_time	Rosina, doesn't that look like our son?,Stop.
+898	LORENZO                       	begin_time	end_time	No really is that Calogero? 'Cause if it is him, I just wanna know. Does he ever have dinner with us anymore?
+899	ROSINA                        	begin_time	end_time	Come on he’s with his friends.
+900	LORENZO                       	begin_time	end_time	Yeah friends. Which friends? He should have dinner with us!
+901	ROSINA                        	begin_time	end_time	Why - You were any different at his age?
+902	LORENZO                       	begin_time	end_time	Oh my god, it is you! Sit down - eat with us!
+903	CALOGERO_LORENZO              	begin_time	end_time	I'm in a rush.,Where you goin'?
+904	CALOGERO                      	begin_time	end_time	I got a date.
+905	ROSINA_CALOGERO               	begin_time	end_time	Is she from the neighborhood?,No.
+906	LORENZO_CALOGERO              	begin_time	end_time	Is she Italian?,No.
+907	LORENZO_CALOGERO              	begin_time	end_time	What's with the secrets?,What's with the questions?
+908	CALOGERO                      	begin_time	end_time	She’s a nice girl, what do you want me to say?
+909	LORENZO                       	begin_time	end_time	Where's she from?
+910	CALOGERO                      	begin_time	end_time	Webster Avenue. 
+911	CALOGERO                      	begin_time	end_time	Is there a problem with that? Cause I don't think so. There's good and bad in every kind. That’s what you told me right?
+912	LORENZO                       	begin_time	end_time	I know what I said but going out with a colored is wrong. Now, I’m not prejudiced – 
+913	CALOGERO                      	begin_time	end_time	Dad, don't say you’re not prejudiced, 'cause you say something like that, you are. Because it's me now, that's why you feel different?
+914	LORENZO                       	begin_time	end_time	That's right. I don’t want you to have go through that bullshit.
+915	CALOGERO                      	begin_time	end_time	Maybe I want to. Besides this girl could be one of my great ones.
+916	LORENZO_CALOGERO              	begin_time	end_time	Great ones? Did your friend Sonny tell you that?,So what if he did.
+917	LORENZO_CALOGERO              	begin_time	end_time	I know what’s best for you.,Maybe he does.
+918	LORENZO_ROSINA                	begin_time	end_time	HE'S NOT YOUR FATHER, I AM!,Lorenzo, please.
+919	LORENZO                       	begin_time	end_time	I'm going for a walk.
+920	LORENZO                       	begin_time	end_time	I'm done with you.
+921	ROSINA_CALOGERO               	begin_time	end_time	What the hell is wrong with you?,What?
+922	ROSINA                        	begin_time	end_time	Your father puts up with shit all day long on the bus, he doesn't need to come home and get it from you. Why do you hurt him like that?
+923	CALOGERO                      	begin_time	end_time	Everything I say he has a problem with, Ma.
+924	ROSINA                        	begin_time	end_time	I'll tell you what the problem is. You look at him and all you see is someone you don't want to be.
+925	CALOGERO                      	begin_time	end_time	You're right - I don’t wanna be a bus driver.
+926	ROSINA                        	begin_time	end_time	You don't get it. He doesn't want that for you.
+927	ROSINA                        	begin_time	end_time	What does he always tell you? The saddest thing in life—
+928	CALOGERO                      	begin_time	end_time	I know...I know... wasted talent.
+929	CALOGERO                      	begin_time	end_time	I heard it a thousand times. Why does he keep telling me that? Why? (Gentle, somewhat sad music)
+930	ROSINA                        	begin_time	end_time	 Picture him at seventeen- Go on, try. 
+931	ROSINA                        	begin_time	end_time	 Looks that could rival James Dean. Girls would cry.
+932	ROSINA                        	begin_time	end_time	 Played sax, great dancer, and what a romancer! But I saw something more there from the start—
+933	ROSINA                        	begin_time	end_time	 That boy had heart. God, he had heart.
+934	CALOGERO                      	begin_time	end_time	Dad played the saxophone? Really?
+935	ROSINA                        	begin_time	end_time	 Think that he didn't think big? Sure he did.
+936	ROSINA                        	begin_time	end_time	 Dragging that horn to each gig. Bright-eyed kid.
+937	ROSINA                        	begin_time	end_time	 That dream, he chased it. So close he could taste it.
+938	ROSINA                        	begin_time	end_time	 And ev'ry note he played, a work of art. Straight from his heart. Boy, he had heart.
+939	ROSINA                        	begin_time	end_time	 Ask me what happened? Well really, it wasn't dramatic.
+940	ROSINA                        	begin_time	end_time	 You came along and were kind of a sort of surprise.
+941	ROSINA                        	begin_time	end_time	 Somehow the sax ended up in a box in the attic.
+942	ROSINA                        	begin_time	end_time	 I'll tell you the reason. One look in your eyes.
+943	ROSINA                        	begin_time	end_time	 Each day he gets on that bus. No one cheers. 
+944	ROSINA                        	begin_time	end_time	 Know why he does it? For us. All these years.
+945	ROSINA                        	begin_time	end_time	 Sure, he's tough. You can't budge him. But don't you dare judge him.
+946	ROSINA                        	begin_time	end_time	 Unless you judge him by his greatest part: Look to his heart. Then look to your heart.
+947	CALOGERO_ROSINA               	begin_time	end_time	I'm sorry Ma.,Don't tell me, tell him.
+948	CALOGERO                      	begin_time	end_time	Okay…Mom, I really like this girl. 
+949	ROSINA                        	begin_time	end_time	Then have a good time. Just be careful. (Music quiets)
+950	CALOGERO                      	begin_time	end_time	 This one could be One of the great ones.
+951	CALOGERO                      	begin_time	end_time	 This one could be one of the ones I won't forget...
+952	CALOGERO                      	begin_time	end_time	 When I see her tonight, there Won't be black or white,
+953	CALOGERO                      	begin_time	end_time	 There's gonna be no one but her.
+954	CALOGERO                      	begin_time	end_time	 And if she is One of my great ones—
+955	JANE                          	begin_time	end_time	Where were you this afternoon?
+956	CALOGERO_JANE                 	begin_time	end_time	What? What do you mean?,My brother got beat up in your neighborhood.
+957	CALOGERO_JANE                 	begin_time	end_time	What are you talking about?,Some Italian guys just beat up my brother. 
+958	CALOGERO                      	begin_time	end_time	So, what's that have to do with me?
+959	JANE_CALOGERO                 	begin_time	end_time	You were there. ,Just calm down. Let me tell you what happened.
+960	JANE                          	begin_time	end_time	Tell my brother. 
+961	CALOGERO_TYRONE               	begin_time	end_time	This is your brother!,He's the one.
+962	CALOGERO_TYRONE               	begin_time	end_time	Hey, wait a minute.,You hurt me.
+963	CALOGERO_JANE                 	begin_time	end_time	Hey, don't you tell her that...,Are you sure it was him?
+964	TYRONE_CALOGERO               	begin_time	end_time	It was him, I saw him.,He's lying, Jane.
+965	TYRONE_CALOGERO               	begin_time	end_time	Jane, listen to me-,I was trying to help him, I didn't touch him! 
+966	TYRONE_CALOGERO               	begin_time	end_time	I'm tellin' you it was him!,It wasn't me!
+967	TYRONE                        	begin_time	end_time	So how did my eye get like this? 
+968	CALOGERO                      	begin_time	end_time	You know I didn’t do anything!
+969	TYRONE_CALOGERO               	begin_time	end_time	You don't go near my sister! ,Don't tell me what to do!
+970	TYRONE_CALOGERO               	begin_time	end_time	Keep your greasy guinea hands off her. ,You fuckin' nig—
+971	JANE_TYRONE                   	begin_time	end_time	Calogero...?,What did I tell you?
+972	TYRONE                        	begin_time	end_time	 He's just like all the rest! You can't trust him.
+973	JANE                          	begin_time	end_time	I thought you were different.
+974	CALOGERO_TYRONE               	begin_time	end_time	Jane—, He's just like all the rest!
+975	TYRONE                        	begin_time	end_time	 Yeah, he's just like all the rest! You can't trust him.
+976	TYRONE                        	begin_time	end_time	Let’s go.
+977	CALOGERO                      	begin_time	end_time	 Feel that pain inside you, Burning hot and white?
+978	CALOGERO                      	begin_time	end_time	 You wanna make it stop? Go hurt someone.
+979	CALOGERO                      	begin_time	end_time	 All that shame and anger, Bottled up real tight.
+980	CALOGERO                      	begin_time	end_time	 You gotta let it pop, And hurt someone.
+981	SONNY                         	begin_time	end_time	Hey C! Why you back so fast?
+982	CALOGERO                      	begin_time	end_time	Here's your keys, Sonny. Thanks for the car but it just didn't work out, okay?
+983	SONNY_CALOGERO                	begin_time	end_time	Whaddya mean?,Listen, I can’t talk right now.
+984	SONNY                         	begin_time	end_time	Alright well, we’re going to the track, come on let's go.
+985	CALOGERO                      	begin_time	end_time	Leave me alone. I gotta go.
+986	SONNY_CALOGERO                	begin_time	end_time	What the hell’s the matter with you?,I can't talk. I just gotta go!
+987	SONNY                         	begin_time	end_time	What the hell happened to him? (Music builds)
+988	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	begin_time	end_time	 It's like a fist within you, Can't you feel it pound?
+989	NICKY_MARIO_SLICK&DOOWOPGROUP 	begin_time	end_time	 Pounding like a hammer!
+990	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	begin_time	end_time	 Feel it pound?
+991	NICKY_MARIO_SLICK&DOOWOPGROUP 	begin_time	end_time	 Pounding like a hammer!
+992	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	begin_time	end_time	 It's gonna rip you up unless you let it out, And spread it 'round.
+993	ALLMEN                        	begin_time	end_time	 Don't you wanna hurt somebody now? (Music quiets)
+994	CRAZYMARIO                    	begin_time	end_time	C, we been lookin' all over the neighborhood for you. Where you been?
+995	CALOGERO                      	begin_time	end_time	What's goin' on?
+996	SLICK_CRAZYMARIO              	begin_time	end_time	Those moulinyams trashed my car!,They're gonna pay, big time.
+997	NICKY_SLICK                   	begin_time	end_time	 Things have gotten crazy, Things are out of hand.
+998	CRAZYMARIO                    	begin_time	end_time	 And where the hell you been?
+999	CALOGERO                      	begin_time	end_time	I've been out. But I’m here now. What do you wanna do?
+1000	NICKY&SLICK                   	begin_time	end_time	 Time to send a message Those moulis understand
+1001	CRAZYMARIO                    	begin_time	end_time	 So can we count you in?
+1002	CALOGERO                      	begin_time	end_time	Yes! Count me in!
+1003	NICKY_SLICK&CRAZYMARIO        	begin_time	end_time	 We got a neighborhood and people to protect—, C, they got it coming.
+1004	NICKY_SLICK&CRAZYMARIO        	begin_time	end_time	 Less you object?, Man, they got it coming
+1005	NICKY                         	begin_time	end_time	 And there’s a debt outstanding, Why not go collect?
+1006	NICKY_SLICK&MARIO             	begin_time	end_time	 Let's teach 'em some respect! (Music builds)
+1007	CHORUS_NICKY_SLICK&MARIO      	begin_time	end_time	 Feel that rage inside you, Gettin' set to blow?, We're gonna hurt someone!
+1008	CRAZYMARIO                    	begin_time	end_time	 Yeah, I wanna hurt someone!
+1009	CHORUS                        	begin_time	end_time	 Wouldn't it feel better if you simply let it go?
+1010	SLICK_CHORUS                  	begin_time	end_time	 It's time to hurt someone!, Give in to the feeling, let it burst on through—
+1011	CRAZYMARIO_CALOGERO           	begin_time	end_time	 An' how bout you?,Me?
+1012	SLICK&CRAZYMARIO              	begin_time	end_time	 Yeah, you—
+1013	SLICK_MARIO&NICKY             	begin_time	end_time	 Don't you wanna hurt somebody too?
+1014	TONYTENTOTWO                  	begin_time	end_time	Hey, C. Come with us.
+1015	CALOGERO_TONYTENTOTWO         	begin_time	end_time	Not now.,I said now! Sonny wants you. Let's go.
+1016	TYRONE                        	begin_time	end_time	 You still moonin’ round about that greasy little wop?
+1017	TYRONE_WOMEN&JESSE            	begin_time	end_time	 I told you what he did—, You can't trust him.
+1018	TYRONE_WOMEN&JESSE            	begin_time	end_time	 And you heard what he said. , You can't trust him.
+1019	JANE                          	begin_time	end_time	 But he's not like all the rest...
+1020	TYRONE                        	begin_time	end_time	 Even though he tried to get the other ones to stop—
+1021	JANE_FRIEDA&DENISE            	begin_time	end_time	 What??
+1022	TYRONE                        	begin_time	end_time	 I'm in the mood to go hurt someone, And he's the one— (Music quiets and a suspenseful note is held)
+1023	JANE_TYRONE                   	begin_time	end_time	Wait - he tried to get them to stop?,So what if he did?
+1024	JANE_TYRONE                   	begin_time	end_time	But you told me he beat you up. ,What's the difference?
+1025	JANE                          	begin_time	end_time	It makes all the difference! 
+1026	TYRONE_JANE                   	begin_time	end_time	Where you goin’?,I gotta go find him.
+1027	TONYTENTOTWO                  	begin_time	end_time	Tell us the truth!
+1028	SONNY                         	begin_time	end_time	After you picked up my car, where did you go?
+1029	CALOGERO_SONNY                	begin_time	end_time	I went to pick up Jane. Why?,Jane. Was there really a Jane?
+1030	CALOGERO_SONNY                	begin_time	end_time	What do you mean?,After you dropped off my car and ran away, we stopped to get some gas. 
+1031	SONNY                         	begin_time	end_time	The guy pops the hood to check the oil there was a device on my engine kid. A device. 
+1032	SONNY                         	begin_time	end_time	It didn't blow because it was put together by an amateur.
+1033	SONNY                         	begin_time	end_time	So you tell me the truth! Where did you go with my car?
+1034	CALOGERO                      	begin_time	end_time	I went to go pick up Jane!
+1035	SONNY_CALOGERO                	begin_time	end_time	Don't lie to me! Tell me the truth! ,I'm telling the truth!
+1036	SONNY                         	begin_time	end_time	Stop lying! ( Slap )
+1037	SONNY                         	begin_time	end_time	How did it get on my car!
+1038	CALOGERO                      	begin_time	end_time	What are you trying to say. You don't trust me? You think I would hurt you? You been like a father to me!
+1039	SONNY_CALOGERO                	begin_time	end_time	I'm not your father!,Fuck you Sonny.
+1040	JANE                          	begin_time	end_time	Calogero! Calogero!
+1041	BYSTANDER1                    	begin_time	end_time	What the hell is she doin' here?
+1042	BYSTANDER2                    	begin_time	end_time	Makin' trouble like they all do.
+1043	JANE                          	begin_time	end_time	 Knew he wasn’t like that, Despite those things he said...
+1044	CHORUS                        	begin_time	end_time	 She's gonna hurt someone...
+1045	JANE                          	begin_time	end_time	 Gotta somehow tell him
+1046	JANE                          	begin_time	end_time	 I know the truth instead...
+1047	CHORUS                        	begin_time	end_time	 She's gonna hurt someone...
+1048	JANE                          	begin_time	end_time	 We shoulda known, with things the way they are,
+1049	JANE                          	begin_time	end_time	 We shoulda never let things get this far
+1050	JANE                          	begin_time	end_time	 I gotta find him now, And try to make things right—
+1051	JANE                          	begin_time	end_time	 Or someone's gonna hurt someone tonight.
+1052	NICKY_CRAZYMARIO              	begin_time	end_time	 C!, We tried to find you!
+1053	NICKY                         	begin_time	end_time	 Let's go!
+1054	SLICK_CALOGERO                	begin_time	end_time	 Guess what's goin' down?,What's that smell?
+1055	CRAZYMARIO_NICKY              	begin_time	end_time	 We're gonna serve some cocktails To the colored side of town, Check 'em out, C!
+1056	SLICK_CRAZYMARIO              	begin_time	end_time	 Here—, Got somethin' for ya.
+1057	SLICK_CRAZYMARIO&NICKY        	begin_time	end_time	 Take this., Might need it, never know.
+1058	CALOGERO_SLICK                	begin_time	end_time	Holy shit..., Those spooks have gotta go.
+1059	CRAZYMARIO                    	begin_time	end_time	 Let's give 'em an Italian-style hello
+1060	CHORUS                        	begin_time	end_time	 Hurt someone!
+1061	CHORUS_SLICK_MARIO_NICKY&DOOWOP	begin_time	end_time	 So mad,, Things have gotten crazy
+1062	CHORUS_SLICK_MARIO_NICKY&DOOWOP	begin_time	end_time	 It'll feel so good to hurt somebody bad. , Things have gotten out of hand.
+1063	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 Time to speak the language, They’re just like all the rest,
+1064	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 That those moulis understand., You can't trust 'em.
+1065	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 Shoulda kept their distance,, It'll feel so good
+1066	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	 Now let's make 'em wish they had., To hurt somebody bad!
+1067	SLICK_MARIO_NICKY&DOOWOPGROUP 	begin_time	end_time	 So mad! It'll feel so good to hurt somebody bad. (Music quiets to a dark, simple melody)
+1068	CALOGERO                      	begin_time	end_time	 How the hell'd I get here? How did all this start?
+1069	CHORUS                        	begin_time	end_time	 You're gonna hurt someone. You're gonna hurt someone.
+1070	CALOGERO                      	begin_time	end_time	 There's no goin’ back now- They'd say I got no heart.
+1071	CHORUS                        	begin_time	end_time	 You're gonna hurt someone. You're gonna hurt someone. (Music builds)
+1072	CALOGERO                      	begin_time	end_time	 Somehow I lost my way and lost my mind Until I left my one way out behind
+1073	CALOGERO                      	begin_time	end_time	 And I've been running scared and running blind, But now I see
+1074	CALOGERO                      	begin_time	end_time	 Wanted to hurt someone, (Music quiets) 
+1075	CALOGERO_CHORUS               	begin_time	end_time	 But all I hurt was me., You're gonna hurt someone.
+1076	CALOGERO_CHORUS               	begin_time	end_time	 All I hurt was me., You're gonna hurt someone.
+1077	CALOGERO_CHORUS               	begin_time	end_time	 All I hurt was me., You're gonna hurt someone.
+1078	NO_SPEAKER                    	begin_time	end_time	(Car screeches to a halt! Music stops abruptly)
+1079	SONNY_CALOGERO                	begin_time	end_time	Hey, hey, hey! C, get out of the car. ,Sonny!
+1080	SONNY_SLICK                   	begin_time	end_time	Get out of the car! ,He's with us.
+1081	SONNY                         	begin_time	end_time	Mind your business, Slick! Get out of the car! 
+1082	CALOGERO_SONNY                	begin_time	end_time	Sonny don’t embarrass me–,Shut up!
+1083	SONNY                         	begin_time	end_time	Now you punks stay away from my boy. You pull this shit you leave him out of it or next time you're all dead. 
+1084	SONNY                         	begin_time	end_time	You been warned. Now get the fuck outta here! (Engine starts. Music resumes)
+1085	SONNY                         	begin_time	end_time	What the hell is wrong with you? Those guys are gonna get you killed.
+1086	CALOGERO                      	begin_time	end_time	They're my friends. They told me not to worry.
+1087	SONNY                         	begin_time	end_time	Friends like that tell you not to worry, that's the time to start worrying, kid.
+1088	CALOGERO                      	begin_time	end_time	Why, you care? You were ready to kill me before. You ever think maybe the bomb was already in the car when I picked it up?
+1089	CALOGERO                      	begin_time	end_time	That I coulda got killed? I started the car before you Sonny. You ever think of that?
+1090	SONNY                         	begin_time	end_time	It's always a friend who does the deed.
+1091	CALOGERO                      	begin_time	end_time	What? Don't you trust anybody?
+1092	SONNY                         	begin_time	end_time	No. I can't. 
+1093	CALOGERO                      	begin_time	end_time	That's a sad way to live Sonny.
+1094	SONNY_CALOGERO                	begin_time	end_time	For me it's the only way. ,Well, not for me.
+1095	SONNY_CALOGERO                	begin_time	end_time	That's right. This life ain’t for you. People die. Remember? ,Yeah I remember.
+1096	SONNY                         	begin_time	end_time	You're better than this. Do something with your life. You hear me? 
+1097	CALOGERO                      	begin_time	end_time	Yeah.
+1098	SONNY_CALOGERO                	begin_time	end_time	Now go home, C.,Alright.
+1099	SONNY                         	begin_time	end_time	I'll be at the bar. (Sad, slow music)
+1100	JANE                          	begin_time	end_time	Calogero! 
+1101	CALOGERO                      	begin_time	end_time	Jane! What are you doing here? 
+1102	JANE                          	begin_time	end_time	My brother told me the truth, you tried to help him. 
+1103	CALOGERO                      	begin_time	end_time	Look I'm sorry what I called him. It just came out of me.
+1104	CALOGERO_JANE                 	begin_time	end_time	I didn't mean it. I swear to God I didn't mean it.,I know.
+1105	MAN                           	begin_time	end_time	Hey you! Get outta the neighborhood and go back to your own!
+1106	CALOGERO                      	begin_time	end_time	Why don't you mind your own business!
+1107	MAN_CALOGERO                  	begin_time	end_time	Don't make me come down there!,Come on down!
+1108	JANE                          	begin_time	end_time	No Calogero. Maybe he's right. This is never gonna work.
+1109	CALOGERO_JANE                 	begin_time	end_time	Don't worry about him. Give me your hand.,No. Not here.
+1110	CALOGERO                      	begin_time	end_time	Yes here. I don't care what anybody says. I think you're perfect…
+1111	CALOGERO                      	begin_time	end_time	Wait, do you know how to make sauce?
+1112	JANE                          	begin_time	end_time	What? (Happy, romantic music)
+1113	CALOGERO                      	begin_time	end_time	Nevermind. Give me your hand.
+1114	CALOGERO                      	begin_time	end_time	 In a world like this, Where everything seems black and white,
+1115	CALOGERO                      	begin_time	end_time	 In a world like this They're so quick to tell you what's wrong and what's right.
+1116	CALOGERO                      	begin_time	end_time	 Well, let 'em talk, talk, talk Who cares what they say?
+1117	CALOGERO                      	begin_time	end_time	 Now that you're here, Well, it's clearer than day
+1118	CALOGERO_JANE                 	begin_time	end_time	 That those words, Those words
+1119	CALOGERO_JANE                 	begin_time	end_time	 They’re not true, No, no 
+1120	CALOGERO_JANE                 	begin_time	end_time	 Not for me,, Not me
+1121	CALOGERO_JANE                 	begin_time	end_time	 Not for you., Not you.
+1122	CALOGERO&JANE                 	begin_time	end_time	 'Cause in a world like this Where so much can keep us apart
+1123	CALOGERO&JANE                 	begin_time	end_time	 Yes, in a world like this, You just have to trust in the beat of your heart.
+1124	CALOGERO&JANE                 	begin_time	end_time	 So put your hand in mine Let's give it a shot. Why should we care if they're ready or not?
+1125	CALOGERO&JANE                 	begin_time	end_time	 What we feel, That's what's real In this world.
+1126	OFFSTAGEVOICES                	begin_time	end_time	 Ah... In a world like this I got you.
+1127	JANE_CALOGERO                 	begin_time	end_time	 In a world like this Where everyone sticks with their own, There's nothing gonna keep us apart
+1128	CALOGERO                      	begin_time	end_time	 Just trust in the beat of your heart
+1129	CALOGERO_JANE                 	begin_time	end_time	 In a world like this They're all so afraid of what's new or unknown, I say we're gonna give it a shot
+1130	JANE                          	begin_time	end_time	 Why should we care if they’re ready or not?
+1131	CALOGERO_CALOGERO&JANE        	begin_time	end_time	 So let ‘em, Shake their heads, 'Cause what do they know? 
+1132	CALOGERO&JANE                 	begin_time	end_time	 There ain't no way that I'm letting you go. And who cares
+1133	OFFSTAGEVOICES_CALOGERO&JANE  	begin_time	end_time	 Ah…, What they see
+1134	CALOGERO_JANE                 	begin_time	end_time	 It's just you, It's just you
+1135	CALOGERO_JANE                 	begin_time	end_time	 It's just me, It's just me
+1136	CALOGERO&ENSEMBLE             	begin_time	end_time	 And in a world like this
+1137	JANE_CALOGERO                 	begin_time	end_time	 Hey baby, You've got to hold on to what's good
+1138	JANE                          	begin_time	end_time	 We gotta hold on To what we know is good
+1139	CALOGERO&ENSEMBLE_JANE        	begin_time	end_time	 And I can tell you this, This world...
+1140	CALOGERO_JANE                 	begin_time	end_time	 The world doesn't end at the edge of your own neighborhood, This world doesn’t end at my neighborhood
+1141	CALOGERO&JANE_OFFSTAGEVOICES  	begin_time	end_time	 And it'll still spin round Whatever we do,, Ah...
+1142	CALOGERO&JANE_OFFSTAGEVOICES  	begin_time	end_time	 But I know I'd rather be in it with you-, Ah...
+1143	CALOGERO&JANE_OFFSTAGEVOICES  	begin_time	end_time	 So hold tight If you dare, Let 'em sneer Let 'em stare, Ah... Ah...
+1144	CALOGERO&JANE                 	begin_time	end_time	 If you're mine We'll be fine
+1145	OFFSTAGEVOICES                	begin_time	end_time	 In a world like this
+1146	JANE_OFFSTAGEVOICES           	begin_time	end_time	Let's get outta here., I got you
+1147	CALOGERO                      	begin_time	end_time	Gimme your keys. Let me drive. (Lively, jazzy music)
+1148	CALOGERO                      	begin_time	end_time	Yes!
+1149	JANE                          	begin_time	end_time	Are you alright?
+1150	CALOGERO_JANE                 	begin_time	end_time	I knew you were one of the great ones!,What?
+1151	CALOGERO                      	begin_time	end_time	Never mind, It’s an Italian thing!
+1152	OFFSTAGEVOICES                	begin_time	end_time	 In a world like this
+1153	CALOGERO&JANE_CALOGERO_JANE&OFFSTAGEVOICES	begin_time	end_time	 I got – , You. (Music ends)
+1154	CALOGERO_JANE                 	begin_time	end_time	Holy shit! ,What?
+1155	CALOGERO                      	begin_time	end_time	My friends. They’re on the way down to your brother's club. 
+1156	JANE                          	begin_time	end_time	What?
+1157	CALOGERO                      	begin_time	end_time	They've got Molotov cocktails, they’re gonna torch the joint. 
+1158	JANE                          	begin_time	end_time	My brother's at the club.
+1159	CALOGERO_JANE                 	begin_time	end_time	We gotta stop them. We gotta get there. ,Let's go. (Fast, guitar melody)
+1160	NO_SPEAKER                    	begin_time	end_time	(Loud explosion! Car tires screech)
+1161	NO_SPEAKER                    	begin_time	end_time	(A police siren is heard and a dog barks in the distance)
+1162	JANE_JANE                     	begin_time	end_time	Oh my god. Calogero – my brother.,Tyrone!!!
+1163	CALOGERO_COP                  	begin_time	end_time	Jesus Christ! Officer, what happened?,Stupid kids. Came here with Molotov cocktails.
+1164	COP                           	begin_time	end_time	There was gasoline all over the place. The whole car blew up. They're all dead. (Somber, horn-heavy music)
+1165	JANE                          	begin_time	end_time	What happened Calogero?
+1166	CALOGERO                      	begin_time	end_time	My friends are dead. They're all gone. Slick, Nicky, Mario. They're all dead. They were in that car.
+1167	JANE_CALOGERO                 	begin_time	end_time	Are you sure?,Yes. I was just in that car. That coulda been me!
+1168	JANE                          	begin_time	end_time	What do you mean? (Music lightens and gains energy) 
+1169	CALOGERO                      	begin_time	end_time	Sonny saved my life. I gotta tell him. He doesn't even know he saved my life! 
+1170	CALOGERO_JANE                 	begin_time	end_time	I gotta go, Jane.,Then go. (Cheery, swing music)
+1171	CALOGERO                      	begin_time	end_time	I started running back to the neighborhood. I had to see Sonny. I wanted to hug him and thank him for saving my life.
+1172	CALOGERO                      	begin_time	end_time	I ran down the block and I busted through the front door of the Chez Bippy.
+1173	CALOGERO                      	begin_time	end_time	When I got to the bar, they were all there. I saw all these smiling faces and I'm tellin' ya I was happy because I was alive! 
+1174	CALOGERO                      	begin_time	end_time	Sonny saved me and he didn't even know! I looked and there he was on the other side of the bar.
+1175	SONNY                         	begin_time	end_time	Hey C...get over here!
+1176	CALOGERO                      	begin_time	end_time	Sonny! You saved my life!
+1177	SONNY_CALOGERO                	begin_time	end_time	What?,You saved my life, Sonny!
+1178	SONNY_CALOGERO                	begin_time	end_time	I can't hear you.,Sonny!
+1179	SONNY_CALOGERO                	begin_time	end_time	I love this kid!,Sonny!
+1180	SONNY_CALOGERO                	begin_time	end_time	I can't hear you!,All of a sudden...
+1181	SONNY                         	begin_time	end_time	I love this kid!
+1182	NO_SPEAKER                    	begin_time	end_time	(Gunshot)
+1183	CALOGERO                      	begin_time	end_time	Noooooo!
+1184	CALOGERO                      	begin_time	end_time	The man that killed Sonny was the son of the man that Sonny killed eight years earlier in front of my stoop.
+1185	CALOGERO                      	begin_time	end_time	When I got to the funeral there were flowers all over the place. Wise guys have this thing about flowers.
+1186	CALOGERO                      	begin_time	end_time	They think who ever sends the biggest assortment of flowers cares the most.
+1187	CALOGERO                      	begin_time	end_time	Everybody was laughing and joking (Guys laugh heartily)
+1188	CALOGERO                      	begin_time	end_time	and it was just like Sonny said it would be. "Nobody cares, C." 
+1189	CALOGERO                      	begin_time	end_time	Nobody cares - Sonny was always right. Always. I couldn't even go over to the coffin. 
+1190	CALOGERO                      	begin_time	end_time	I had to wait until everybody left and I was all alone with Sonny. (Organ stops playing)
+1191	CALOGERO                      	begin_time	end_time	How ya doin' Sonny... not too good, huh?... I read in the papers Mickey Mantle's gonna retire... Who cares, right?...
+1192	CALOGERO                      	begin_time	end_time	Jane passed the test Sonny, I wanted to tell you that... She could be one of my great ones...who knows...
+1193	CALOGERO                      	begin_time	end_time	Sonny, I just want to thank you for saving my life. My friends, they're all dead, and I would've been dead too if it wasn't for you.
+1194	CALOGERO                      	begin_time	end_time	You pulled me out of that car. I never got a chance to thank you. I told my father what you did and he...
+1195	CALOGERO                      	begin_time	end_time	Oh, I'm sorry, I thought I was alone.
+1196	CARMINE                       	begin_time	end_time	That's okay, kid. It's understandable.
+1197	CALOGERO                      	begin_time	end_time	This guy here, he's a great man. I loved him. He saved my life. 
+1198	CARMINE                       	begin_time	end_time	You're C. Sonny told me about you.
+1199	CALOGERO                      	begin_time	end_time	What? Sonny told you about me? I'm sorry, I don’t know who you are. 
+1200	CARMINE                       	begin_time	end_time	I've been away awhile. My name's Carmine, kid. 
+1201	CARMINE                       	begin_time	end_time	You don't remember me do you? Seven, eight years ago in front of your house. You were just a little boy.
+1202	CALOGERO_CARMINE              	begin_time	end_time	I'm sorry I don't know you.,Yes you do. You know me very well. Now look at my face.
+1203	CALOGERO_CARMINE              	begin_time	end_time	I don't know you.,Remember this?
+1204	CALOGERO                      	begin_time	end_time	The baseball bat! You were the guy that got hit with the baseball bat. I was there, Carmine.
+1205	CALOGERO                      	begin_time	end_time	I saw the whole thing. The cops they wanted me to rat.
+1206	CARMINE                       	begin_time	end_time	I know, kid. Sonny told me what you did. I wanna thank you. Listen, I'm gonna be taking over things for a while here.
+1207	CARMINE                       	begin_time	end_time	If you need anything, ANYTHING, you come by the bar and see me. Okay?
+1208	CALOGERO                      	begin_time	end_time	That's okay, Carmine. I think I'm gonna give the neighborhood a rest for a while...you understand right?
+1209	CARMINE                       	begin_time	end_time	I understand, kid. Sonny would be happy to hear that.
+1210	CALOGERO                      	begin_time	end_time	Carmine, he never saw it coming. I tried to warn him but he never knew.
+1211	CARMINE_CALOGERO              	begin_time	end_time	He knew.,But it was eight years ago.
+1212	CARMINE                       	begin_time	end_time	It's like Sonny used to say, "Revenge is a dish best served cold. So why worry?"
+1213	CARMINE                       	begin_time	end_time	So long my friend...and don't worry, I got it.
+1214	CARMINE                       	begin_time	end_time	You know where to find me if you need anything. Take care of yourself kid. (High-pitched, pleasant music)
+1215	CALOGERO                      	begin_time	end_time	Nobody cares? Ha... I guess you were wrong about that one. I'm gonna miss you, Sonny.
+1216	CALOGERO                      	begin_time	end_time	 You said that you had things to teach me. And now, I see it all so clear.
+1217	CALOGERO                      	begin_time	end_time	 We're led, each moment that we live in, To the only choice we're given—
+1218	CALOGERO                      	begin_time	end_time	 Will we live by love or fear? (Drums come in)
+1219	CALOGERO                      	begin_time	end_time	 And you -- you knew it's never easy.
+1220	CALOGERO                      	begin_time	end_time	 It's never black or white, just shades of grey. All we do, is face up to those choices,
+1221	CALOGERO                      	begin_time	end_time	 And obey our inner voices And hope we find our way.
+1222	CALOGERO                      	begin_time	end_time	 And all the choices we make Will shape our lives forever,
+1223	CALOGERO                      	begin_time	end_time	 Ev'ry path we take When push comes down to shove, Ev'ry moment counts—
+1224	CALOGERO                      	begin_time	end_time	 It’s always now or never. And although, God knows, You chose the life you chose,
+1225	CALOGERO                      	begin_time	end_time	 I'm here because, just once, You chose to love. (Music quiets)
+1226	CALOGERO                      	begin_time	end_time	Dad, what are you doing here?
+1227	LORENZO                       	begin_time	end_time	I'm here to pay my respects to your friend, son. 
+1228	LORENZO                       	begin_time	end_time	Thanks for saving my boy's life, Sonny. I never hated you. 
+1229	LORENZO                       	begin_time	end_time	I guess I just never forgave you for making my son grow up so fast. May God have mercy on your soul. 
+1230	LORENZO                       	begin_time	end_time	 And now, your whole life lies before you. It's time that you become a man.
+1231	LORENZO                       	begin_time	end_time	 You'll know how Just look at what’s inside you, 
+1232	LORENZO                       	begin_time	end_time	 And let your talent guide you Like I've always known you can.
+1233	LORENZO&CALOGERO              	begin_time	end_time	 And all the choices we make Will shape our lives forever,
+1234	LORENZO&CALOGERO              	begin_time	end_time	 Even one mistake Can tear your world apart.
+1235	LORENZO&CALOGERO              	begin_time	end_time	 But we have a bond That nothing’s gonna sever
+1236	LORENZO&CALOGERO              	begin_time	end_time	 Through the good and bad, The happy and the sad, Everywhere you go—
+1237	LORENZO                       	begin_time	end_time	 Look to your heart.
+1238	CALOGERO_LORENZO              	begin_time	end_time	I love you Dad and I'm sorry if I hurt you.,I love you too son.
+1239	CALOGERO                      	begin_time	end_time	I left the old neighborhood after that. It wasn't the same without Sonny.
+1240	LORENZO_ENSEMBLE              	begin_time	end_time	 This is a Bronx tale It's just another story, Ooo...
+1241	CALOGERO_ENSEMBLE             	begin_time	end_time	I had to say goodbye to Jane, but she'll always be my first great one., Ooo...
+1242	JANE_ENSEMBLE                 	begin_time	end_time	 This is the kind of tale that makes you laugh and cry, Ooo...
+1243	CALOGERO_ENSEMBLE             	begin_time	end_time	I went out into the world and I kept my promise. I became somebody. , Ooo...
+1244	CALOGERO_ENSEMBLE             	begin_time	end_time	I owed that to my parents and to Sonny., Ooo...
+1245	ROSINA&LORENZO_ENSEMBLE       	begin_time	end_time	 Out on the street They're singing it together, Ooo...
+1246	ROSINA_LORENZO&JANE_ENSEMBLE  	begin_time	end_time	 They'll be singing it forever You can hear 'em if you try., Ooo...
+1247	ALL(EXCEPTCALOGERO)           	begin_time	end_time	 Ah Ah (Music quiets)
+1248	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	I still come back from time to time.  Ah Ah
+1249	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	The neigh-borhood's changed, and so have I.  Ah Ah
+1250	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	But I'll never forget what I learned from these two men.  Ah Ah (cont)
+1251	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	The saddest thing in life is wasted talent  Ah Ah (cont)
+1252	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	and the choices you make will shape your life forever.  Ah Ah (cont)
+1253	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	But you could ask anybody from my neighborhood  Ah Ah (cont)
+1254	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	and they'll tell you, this is just another Bronx tale.  Ah Ah (cont) (Music swells)
+1255	FULLCAST                      	begin_time	end_time	 And all the choices we make Become part of our story.
+1256	FULLCAST                      	begin_time	end_time	 Ev'ry joy and ache They're never truly gone.
+1257	FULLCAST                      	begin_time	end_time	 Ev'ry name, ev'ry face, All the hope, the tears, the glory—
+1258	FULLCAST                      	begin_time	end_time	 Ev'ry stoop and street, Each win and each defeat,
+1259	FULLCAST                      	begin_time	end_time	 The sinners and the saints, The sweet and bittersweet,
+1260	FULLCAST                      	begin_time	end_time	 And when the tale's complete, You've chosen who you are
+1261	CALOGERO_ALL(EXCEPTCALOGERO)  	begin_time	end_time	 And those choices you made  Live on.
+1262	CALOGERO                      	begin_time	end_time	 This is a Bronx tale. And that's my story...
+1263	CALOGERO                      	begin_time	end_time	 The world I lived in, The people I knew.
+1264	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 It's just a Bronx tale, And, like they all do,, Ooo... (cont.)
+1265	CALOGERO_DOOWOPGROUP          	begin_time	end_time	 It happened here On Belmont Avenue., Ooo... (cont.)
+1266	FULLCAST                      	begin_time	end_time	 Woah... Woah...
+1267	DOOWOPGROUP                   	begin_time	end_time	 Ooo-wah Wah-ooo... (Music ends with a flourish)
+1268	NO_SPEAKER                    	begin_time	end_time	(Cheery reprises of various songs from the show)
+1269	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Belmont Avenue,, Yeah yeah (High energy, upbeat music)
+1270	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Hangin' with my crew,, And the noise is growin‘
+1271	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Gotta love the view, Belmont Avenue., Yeah yeah and the boys are goin' shoop
+1272	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Belmont Avenue., Shoop shoop shoop shoop (cont)
+1273	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Hangin' with my crew,, Shoop shoop shoop shoop (cont)
+1274	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	begin_time	end_time	 Gotta love the view,, Shoop shoop shoop shoop (cont)
+1275	WOMEN&DOOWOPGROUP             	begin_time	end_time	 No no cause the world's a-go-go Whoa whoa and the girls all sing in a Group! Oop! Oop!
+1276	ALL                           	begin_time	end_time	 Belmont Avenue! (Music ends with a flourish)
+1277	NO_SPEAKER                    	begin_time	end_time	THE END
+1278	NO_SPEAKER                    	begin_time	end_time	Thank You for Using GalaPro Don’t forget to exit Airplane mode www.galapro.com

@@ -1,0 +1,1256 @@
+5	DOOWOPGROUP                   	429.567808	446.104509	Woo-hoo-oo Lao lao lao Ah-ah-ah Woo hoo, duh duh Dah-ah-ah Oo hoo hoo hoo
+6	DOOWOPGROUP                   	446.164509	461.0013512	Hoo, hoo hoo hoo Hoo hoo oo hoo Hoo hoo hoo hoo hoo Hoo hoo hoo hoo
+7	DOOWOPGROUP                   	461.0013512	461.839246	Doh doh doh Ooo Ooo Ooo 
+8	CALOGERO                      	461.839246	471.339246	It's 3 AM in the Bronx, New York. I'm on the corner of 187th and Belmont Avenue. This was my neighborhood. 
+9	CALOGERO                      	472.839245	477.379245	I can still hear a million voices in my head. Hear a million stories.  
+10	CALOGERO                      	479.319317	489.939317	This is a Bronx tale. And it's my story... The world I lived in, The people I knew.
+11	CALOGERO                      	492.433389	503.883389	It's just a Bronx tale And, like they all do, It starts right here On Belmont Avenue. 
+12	CALOGERO_MEN&WOMEN            	505.014701	509.809534	My name is Calogero Lorenzo Alfredo Romano Anello., Ooh
+13	CALOGERO_MEN&WOMEN            	509.809534	517.256199	This is my building. And that's my stoop. My stoop. I grew up right over a bar called the Chez Bippy., Ooh
+14	CALOGERO_MEN&WOMEN            	517.256199	521.856199	It's where all the wise guys hung out. And on warm summer nights all through the neighborhood , Ooh
+15	CALOGERO_MEN&WOMEN            	522.22692	526.96692	you would hear the sounds of young Italian men romancing their women., Ooh
+16	MEN                              	527.24666	529.33666	Marie, get'n the fucking car!
+17	CALOGERO                      	533.67977	537.390066	My neighborhood. It was paradise to me. 
+18	CALOGERO_MEN&WOMEN            	537.390066	543.080066	I can hear the church bells, and smell the freshly baked bread., Ah-oo
+19	CALOGERO_MEN&WOMEN            	544.152009	549.822009	See the storefront awnings, The neon, green white and red, Ah-oo
+20	CALOGERO_MEN&WOMEN            	551.282785	556.392785	Cannolis on tray after tray, salamis strung up on display,, Ah Ah Ah 
+21	CALOGERO                      	557.511969	559.847913	And Italians are all that you seen 
+22	MEN                           	559.847913	562.247913	Yeah, yeah And the sidewalk’s swingin‘ – 
+23	MEN&WOMEN                     	563.290357	566.45581525	Yeah, yeah And the girls are singin' shoop shoop! 
+24	MEN&WOMEN_CALOGERO            	566.45581525	570.284023	Shoop shoop shoop Shoop shoop shoop Ah..., As they pass my stoop. 
+25	CALOGERO                      	572.438244	576.088244	And the pushcart peddlers, They hawk their wares door to door.
+26	PHIL                          	576.349521	579.389521	Pesce fresca! Pesce fresca!
+27	CALOGERO_GUYS                 	579.036261	585.423613	While the j ukebox jockeys Dance in the c andy store, Ba da da, Ba ba ba dada!
+28	GIRLS&GUYS                    	585.994093	588.794093	Baba dada, Ba ba ba Dada!
+29	CALOGERO_NONNA                	589.035741	592.319111	Grandmas callin’ across—,Ciao, bambini!
+30	CALOGERO                      	592.01837	594.79837	While stirring the Sunday sauce— DOO WOP GROUP Ciao, Nonna!
+31	CALOGERO                      	595.397869	597.948906	And in the middle, was me 
+32	MEN&DOOWOPGROUP               	597.948906	599.938906	Oh, oh, and the street starts sighin’ 
+33	MEN&DOOWOPGROUP               	601.165461	603.68881725	Whoa whoa- When the girls strut by in a group. 
+34	MEN&DOOWOPGROUP_CALOGERO      	603.68881725	612.836959	C'mon, c'mon, c'mon , Strut right past my stoop. C'mon c'mon c'mon
+35	MEN_WOMEN                     	612.836959	615.958181	Stickball, kick the can,, Orchard beach in the sand,
+36	MEN                           	616.365477	618.365477	Find a girl and cop a feel
+37	MEN                           	619.216143	623.016143	Bryl cream, wet dream, Bring her home and close the deal
+38	WOMEN                         	623.581346	626.073975	No no no, No no no, No no no
+39	DOOWOPGROUP_DOOWOPTENOR       	626.073975	629.2110255	Next year's Frankie Vallis Croonin' in the alleys,, Oo wee 
+40	DOOWOPTENOR_DOOWOPGROUP       	629.2110255	632.322177	Oo oo Oo wah, Gettin' those falsettos to soar
+41	OTHERMEN                      	632.322177	635.462177	While the Carmelite sisters Scream at their transistors
+42	ALL                           	635.84364	638.04364	Ev'ry time the bombers score—
+43	MELALLEN                      	637.753695	641.003695	That ball is going – going – it is gone! 
+44	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	642.999323	646.989323	Hangin’ with the crew, On the stoop, On the stoop,
+45	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	646.255878	649.185878	On Belmont Avenue., On the stoop, On the stoop,
+46	CALOGERO&DOOWOPGROUP_WOMEN&OTHERMEN	649.729304	653.288007	Gotta love the view, On the stoop, On the stoop,
+47	CALOGERO&DOOWOPGROUP          	653.288007	655.168007	Belmont Avenue
+48	ALL                           	656.767136	661.697136	And on sultry summer nights, Man, the corner would rock!
+49	ALL                           	663.551533	669.471533	The romance, the laughs, the fights... A universe on one little block— 
+50	WOMEN                         	670.526911	673.786596	Ay-oh! Every where MEN:  Doo doo, doo doo doo Wah dah doo doo
+51	ALL                           	673.786596	676.766596	Everywhere I go! 
+52	WISEGUYS                      	698.221859	699.154359	Belmont Avenue,
+53	WOMEN&DOOWOPGROUP             	699.154359	701.570868	Yeah yeah and the noise is growin’
+54	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	701.570868	703.730868	Hangin’ with my crew,, Yeah yeah and the boys are goin’
+55	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	704.234664	708.096432	Gotta love the view,, Shoop shoop shoop shoop 
+56	ALL                           	708.096432	728.630113	Belmont Avenue! Woh-oh... Woh-oh... Woh -oh...
+57	CALOGERO                      	728.630113	732.730113	And then there was Sonny. He was the number one man in the neighborhood. 
+58	CALOGERO                      	733.940113	736.230113	Sonny had five fingers. But he only used three.
+59	CALOGERO                      	742.029583	744.229583	All day and all night, he’d be right here on the corner. 
+60	CALOGERO                      	744.509583	748.403674	He would stand here nodding his head to all the old ladies going by with their shopping,
+61	CALOGERO                      	748.403674	752.293674	and they treated him like a god. And in my neighborhood, he was a god.
+62	CALOGERO                      	755.001691	757.132728	I couldn't take my eyes off of him.
+63	CALOGERO                      	757.132728	765.962763	But he never ever looked at me. Never. Until one day... I was 9 years old. 
+64	GUYWITHBAT_CARMINE            	765.962763	768.282763	Get back here! You got a problem with me?,Yeah I got a problem.
+65	GUYWITHBAT                    	768.196254	768.536254	Oh yeah?
+68	TONYTENTOTWO                  	788.114722	788.504722	C’mon
+69	CALOGERO                      	802.560692	807.120692	This is a Bronx tale. And it's my story.
+70	CALOGERO                      	809.106255	812.186255	The one that shattered The world that I knew. 
+71	CALOGERO                      	814.814152	819.404152	Here's how it happened, And all of it's true.
+72	CALOGERO                      	820.551559	826.491559	It starts right here, On Belmont Avenue.  
+73	LORENZO&ROSINA_ROSINA         	828.633927	830.943927	Calogero!,Are you alright? Are you alright?
+74	YOUNGCALOGERO_ROSINA          	831.063307	832.291279	I'm okay Mommy.,Thank God.
+75	YOUNGCALOGERO                 	832.291279	835.071279	Daddy, they were fighting over a parking space. Sonny shot him. 
+76	YOUNGCALOGERO                 	835.071279	836.541279	Why? It was just a parking space. Why?
+77	LORENZO                       	836.923657	839.893657	It wasn't the parking space, son. Who knows why. 
+78	LORENZO                       	839.893657	843.173657	Maybe they just met at the wrong time in their lives. Come on, let’s get up stairs.
+79	COP_LORENZO                   	843.788054	846.930563	Hey hey. You people see anything?,We saw nothing, Officer.
+80	COP_ROSINA                    	847.505896	848.735896	What about the kid? Did he see anything?,No.
+81	LORENZO_COP                   	849.186137	851.076137	My son knows nothing. ,Maybe he does.
+82	LORENZO                       	851.50159	852.55159	Well, you're wrong. He knows nothing. 
+83	YOUNGCALOGERO                 	853.13183	856.246422	I know everything Daddy. I saw it all.
+84	LORENZO                       	856.246422	857.286422	You know kids they like to exaggerate.
+85	ROSINA_COP                    	857.455376	859.458746	I don't want him involved in this.,Come here kid. 
+86	COP_YOUNGCALOGERO             	862.138746	865.465782	You think you can point out the guy who pulled the trigger?,Sure.
+87	CALOGERO_DOOWOPGROUP          	865.465782	868.425782	Lined up in front of my building were five guys. , Ooo ooo ooo ooo Ooo ooo 
+88	CALOGERO_DOOWOPGROUP          	868.425782	876.335872	And they were Sonny's crew. And I knew every one of them., Ooo ooo ooo ooo Ooo ooo 
+89	COP                           	876.335872	877.395872	Take your hat off.
+90	CALOGERO                      	878.463964	879.473964	Eddie Mush.
+91	YOUNGCALOGERO                 	880.896779	883.702537	No, it wasn't him...
+92	CALOGERO                      	883.702537	884.642537	JoJo the Whale.
+93	YOUNGCALOGERO                 	887.412833	888.352833	No, not him.
+94	CALOGERO                      	889.768777	893.348276	Frankie Coffee Cake.
+95	YOUNGCALOGERO                 	893.348276	893.668276	Not him.
+96	CALOGERO                      	895.083424	896.353424	Tony Ten to Two.
+97	YOUNGCALOGERO                 	898.250961	898.590961	No.
+98	COP                           	905.564682	906.044682	What about him?
+99	YOUNGCALOGERO                 	908.289459	909.58381	No, it wasn’t him. 
+100	LORENZO                       	909.58381	912.33381	Are you satisfied now, Officer? Let's go, son. Let's go home.
+101	DOOWOPGROUP                   	912.481532	936.035879	Oo oo oo oo ooo oo oo oo  
+102	CALOGERO                      	936.035879	940.045879	In my neighborhood the lowest thing anyone could be is a rat. And I wasn't a rat. 
+103	CALOGERO                      	941.713286	949.089155	The day after the killing my father insisted that I ride the bus with him. I used to love to ride the bus with my dad. 
+104	CALOGERO                      	949.089155	955.149155	I would sit right behind him and he would listen to jazz on a little transistor radio. Everyone loved him. 
+105	CALOGERO                      	955.646987	961.056987	His uniform was always so neat and clean and his top button was always closed even if it was ninety nine degrees. 
+106	CALOGERO                      	961.680282	967.660282	My dad never wanted to look sloppy. I was so proud of him. Last stop: 
+107	LORENZO&CALOGERO              	968.392225	969.352225	City Island.
+108	LORENZO_YOUNGCALOGERO         	979.658205	981.648205	How you feeling Calogero? ,I’m okay.
+109	LORENZO_YOUNGCALOGERO         	982.487889	984.357889	You were quiet on the bus.,Just thinking.
+110	LORENZO                       	985.727389	986.727389	About what happened yesterday?
+111	YOUNGCALOGERO                 	988.961981	992.303443	I thought I did a good thing but now I'm not so sure Dad.
+112	LORENZO                       	992.303443	996.453443	You did a good thing for a bad man, son. What you did was right. Okay?
+113	YOUNGCALOGERO_LORENZO         	997.417109	999.473794	Thanks Dad.,Alright!
+114	LORENZO_YOUNGCALOGERO         	999.473794	1001.803794	Who's the greatest ball-player that ever lived?,Mickey Mantle!
+115	LORENZO                       	1002.119978	1006.119978	No way. Joe DiMaggio. The Yankee Clipper. And do you know why he was so great?
+116	YOUNGCALOGERO_LORENZO         	1006.668922	1010.390755	Because he was Italian?,That's part of it.
+117	LORENZO_YOUNGCALOGERO         	1011.260755	1014.160755	It's because he had talent and he used it.,Do I have talent?
+118	LORENZO_YOUNGCALOGERO         	1014.915216	1016.485216	Of course you do. ,Just like Joe D.
+119	LORENZO                       	1017.078216	1018.978216	Yeah, just like Joe D.  
+120	LORENZO                       	1020.069864	1024.299864	Fifty-six games in a row Can't beat that.
+121	YOUNGCALOGERO_LORENZO         	1024.618807	1028.558807	That's the record, Pop!, Marrying Marilyn Monroe
+122	YOUNGCALOGERO_LORENZO         	1028.757936	1031.267936	Ho ho ho!, Tip your hat.
+123	LORENZO_YOUNGCALOGERO         	1033.060991	1035.440991	The best?,Joe D!
+124	LORENZO                       	1036.421472	1044.601472	He made it look easy. But the Yankee clipper man - he stood apart
+125	YOUNGCALOGERO_LORENZO         	1045.109544	1047.558192	Why?, Because of his heart
+126	YOUNGCALOGERO_LORENZO         	1047.558192	1051.090636	Because of his heart, Look to your heart
+127	LORENZO_YOUNGCALOGERO         	1051.600636	1053.098172	How do you like the new glove?,I love it Dad. 
+128	LORENZO                       	1053.945839	1056.395839	Wait till it's broken in. Hey –
+129	LORENZO_YOUNGCALOGERO         	1056.815839	1059.761282	Who won the last triple crown?,Mickey Mantle!
+130	LORENZO                       	1060.067782	1065.407782	Yeah, the Mick. With pain that could tear a man down...
+131	YOUNGCALOGERO_LORENZO         	1065.682244	1067.802244	So?, So, what's his trick?
+132	YOUNGCALOGERO                 	1068.059169	1069.339169	Well, he's strong, and fast—
+133	LORENZO                       	1069.717447	1075.747447	Oh sure, the man’s gifted. His gifts, though, are lifted
+134	LORENZO                       	1076.678409	1088.468409	By what he's had inside right from the start— I'm talkin' bout heart. Look to your heart.
+135	LORENZO                       	1090.107202	1096.746201	Bein' a man means you take what you got, A nd you use it.
+136	LORENZO                       	1096.746201	1101.466201	No, it ain't easy, But use it with Honor, and pride. 
+137	LORENZO                       	1103.467163	1107.237163	Somebody shows you a shortcut, You smile, and refuse it.
+138	LORENZO                       	1109.245551	1111.87888433	The one road worth taking— 
+139	LORENZO                       	1111.87888433	1114.105551	Starts right here inside. 
+140	LORENZO                       	1116.95516	1120.75516	Picture the man you could be, Then aim true.
+141	LORENZO                       	1123.04516	1126.964029	If you get lost, look to me. I'm here for you. 
+142	LORENZO                       	1126.964029	1134.964029	You've got a future— Son, I can taste it.
+143	LORENZO                       	1136.094029	1141.659878	You can be anything Once you've embraced it. 
+144	LORENZO                       	1142.719878	1148.158081	Just use your talent— And don't you dare waste it.
+145	LORENZO                       	1149.318081	1153.108081	Promise me right now That you'll be smart. 
+146	LORENZO_YOUNGCALOGERO         	1153.71045	1155.76045	You understand what I'm sayin' son?,I think so.
+147	LORENZO                       	1156.128357	1160.698357	The saddest thing in life is wasted talent. Promise me you won't waste yours.
+148	YOUNGCALOGERO                 	1161.292022	1162.162022	I promise, Dad.
+149	LORENZO                       	1165.122318	1171.712318	My boy has heart. Look to your heart.
+150	LORENZO                       	1173.242317	1173.862318	Let's go get an ice cream. 
+151	DOOWOPGROUP                   	1179.313075	1181.273075	Bomb sha-bomp
+152	CALOGERO_DOOWOPGROUP          	1182.069629	1184.748518	That night I kept thinking about what happened on the stoop, Bomb sha-bomp Bomb sha-bomp 
+153	CALOGERO_DOOWOPGROUP          	1184.748518	1188.35998	and I realized that I lied and a man had died., Bomb sha-bomp Bomb sha-bomp 
+154	CALOGERO_DOOWOPGROUP          	1188.35998	1192.396961	I had committed a mortal sin and I didn't want to burn in hell. , Bomb sha-bomp Bomb sha-bomp Well
+155	CALOGERO_DOOWOPGROUP          	1192.396961	1194.136961	So I thought- Hey! , Bomb sha-bomp Well
+156	CALOGERO_DOOWOPGROUP          	1194.136961	1196.82296	I’ll just go to confession and cleanse my soul. , Bomb sha-bomp Bomb sha-bomp 
+157	CALOGERO_DOOWOPGROUP          	1196.82296	1201.743867	It's great to be a Catholic. You could start over every week. , Bomb sha-bomp Bomb sha-bomp
+158	CALOGERO_DOOWOPGROUP          	1201.743867	1205.28631	I got five Our Fathers and five Hail Mary's for a murder rap., Ooo-oo Ooo-oo
+159	CALOGERO_DOOWOPGROUP          	1205.28631	1211.513346	My soul was clean and the Yankees were playing the Pirates in the World Series. , Ooo-oo Ooo-oo
+160	CALOGERO_DOOWOPGROUP          	1211.513346	1215.305605	It was tied score in the bottom of the ninth, when..., Ooo-oo Ooo-oo Ooo-op!
+161	CALOGERO                      	1215.305605	1216.505605	: "there's a high fly ball going deep to left!" 
+162	YOUNGCALOGERO                 	1216.707993	1216.857993	No!
+163	CALOGERO_YOUNGCALOGERO        	1216.871919	1217.421919	:"This could do it!”,No!
+164	CALOGERO(Asradioannouncer)    	1217.422715	1221.962715	"Back to the wall goes Berra and it's over the fence for a home run and the Pirates win the World Series!"
+165	YOUNGCALOGERO                 	1225.662455	1230.442455	Nooooo! Why God why? Five Our Fathers and five Hail Marys wasn't good enough? Ugh! 
+166	SONNY                         	1248.008821	1251.574209	Hey Kid. Why you crying?
+167	YOUNGCALOGERO                 	1251.574209	1256.344209	Bill Mazeroski. I hate him. He just hit a home run and the Pirates beat the Yankees in the World Series.
+168	YOUNGCALOGERO                 	1256.573949	1260.973949	I love Mickey Mantle. They said he was crying in the dugout. He's gonna be so depressed.
+169	SONNY                         	1263.909633	1269.229633	What? Is that what you're crying about? Mickey Mantle? 
+170	SONNY                         	1271.459242	1276.739242	You think Mickey Mantle cares about you? Mickey Mantle makes a hundred thousand dollars a year. 
+171	SONNY                         	1277.638426	1282.638426	How much does your father make? See if your father can't pay the rent – go ask Mickey Mantle. See what he tells you. 
+172	SONNY                         	1285.301962	1292.421962	Come on, kid. Forget this Mickey Mantle stuff. Nobody cares. You hear me, nobody cares... 
+173	SONNY_YOUNGCALOGERO           	1294.99359	1300.75359	Come on, I'll take you for an egg cream. Hey - what's your name?,Calogero.
+174	SONNY                         	1304.632273	1305.052273	Oof. 
+175	CALOGERO                      	1306.334476	1311.084476	So Sonny took me to the Chez Bippy. That was the neighborhood bar. It was owned by Rudy the Voice. 
+176	CALOGERO                      	1312.103846	1316.913846	Well Not really. Sonny was the silent partner. And that was the beginning of my education.
+177	SONNY                         	1317.349474	1324.027714	Hey - one egg cream for my man Calogero. Everybody say hello.
+178	GUYS(Unenthusiastically)      	1324.027714	1325.135954	Hey.
+179	SONNY_GUYS(Enthusiastically)  	1325.135954	1327.527973	Say hello. ,Hey!
+180	RUDYTHEVOICE                  	1327.527973	1329.79463967	How ya doin’, Calogero!
+181	CALOGERO                      	1329.79463967	1331.507973	That's Rudy the Voice. 
+182	CALOGERO                      	1336.69273	1340.95273	They called him Rudy the Voice because he was a frustrated singer. But Sonny hated his voice. 
+183	CALOGERO                      	1341.241674	1344.871674	So just for spite, Rudy would never utter a spoken word. He would only sing it.
+184	FRANKIECOFFEECAKE             	1345.421784	1350.221784	Hey, Calogero. Bring me a cappuccino and I'll take care of ya.
+185	CALOGERO                      	1350.544468	1351.794468	Frankie Coffee Cake. 
+186	CALOGERO                      	1354.806541	1358.936541	They called him Coffee Cake because his whole face was covered with acne and he looked like a Drake's Coffee Cake. 
+187	EDDIEMUSH                     	1360.789837	1363.629837	Hey Sonny, somebody threw up in the bathroom.
+188	CALOGERO                      	1363.629837	1364.799837	That's Eddie Mush. 
+189	CALOGERO                      	1368.084539	1372.874539	Now Eddie Mush was a degenerate gambler. He was also the biggest loser in the whole world. 
+190	CALOGERO                      	1373.207223	1377.667223	He was such a loser he would go to the racetrack and the teller would give him his tickets already ripped up.
+191	CALOGERO                      	1381.714019	1382.214019	JoJo the Whale. 
+192	CALOGERO                      	1386.423258	1388.263258	Five foot eight. 400 pounds. He was so fat, legend has it his shadow once killed a dog. 
+193	CALOGERO                      	1393.861886	1397.211886	And then there was Sonny's bodyguard, Tony Ten to Two. 
+194	CALOGERO                      	1401.115607	1405.915607	They called him Ten to Two because his feet always pointed like the clock, ten to two. 
+195	CALOGERO                      	1414.311641	1417.121641	One time he got shot in the leg and they called him twenty after. 
+196	CALOGERO                      	1418.111641	1420.431641	But the best times of all were the crap games.
+197	CALOGERO                      	1421.634381	1426.834381	All the big wise guys from all over the neighborhood would come by. Tammy Russo, Paulie Z, Billy BaBa. 
+198	CALOGERO                      	1427.34375	1431.81375	All of them would stand there acting like who was the toughest, who was the strongest, who had the biggest reputation. 
+199	CALOGERO                      	1432.958212	1436.248212	And I would watch thousands of dollars change hands back and forth. 
+200	SONNY                         	1438.941507	1441.675303	Come on, give me a 7, just one 7. 
+201	ONEOFTHEGUYS                  	1441.675303	1442.365303	Snake Eyes.
+202	SONNY                         	1444.07321	1444.84321	Son of a bitch! I can't get a break!
+203	RUDYTHEVOICE                  	1445.047747	1447.147747	Sonny can't get a break today! 
+204	SONNY_RUDYTHEVOICE            	1447.137802	1449.857802	I told you to stop singing!, Okay! 
+205	SONNY                         	1451.358894	1452.938894	I can't hit a number today for my life! 
+206	SONNY                         	1455.825874	1457.065874	Calogero, I want you to throw the dice for me.
+207	YOUNGCALOGERO                 	1457.547096	1458.797096	I don't know how to play dice, Sonny.
+208	SONNY                         	1459.031448	1461.201448	You can do it, stand over here. The kid's gonna throw my dice. 
+209	GUYS                          	1461.695244	1463.065244	No way. Can't do that Sonny. He's just a kid!
+210	SONNY                         	1463.186651	1464.156651	Anybody got a problem with that?
+211	GUYS_SONNY                    	1464.461002	1465.591002	Nope.,I didn't think so.
+212	SONNY                         	1467.114798	1470.904798	Lemme show ya how to throw them dice First ya gotta make 'em treat ya nice.
+213	SONNY                         	1471.316871	1474.836871	Here's a little bit of free advice Listen to Sonny, We'll make some money.
+214	SONNY                         	1475.751889	1477.461889	Keep it quiet when you shake them bones
+215	SONNY                         	1477.911889	1479.541889	Close the doors and disconnect the phones
+216	SONNY                         	1480.177888	1481.417888	'Cause you'll wanna hear these losers' groans.
+217	SONNY                         	1481.878129	1483.688129	Let's start the bettin'! Ready, get set, 'n’— 
+218	MEN_SONNY                     	1484.13211	1488.11211	Roll ‘em!, You're my lucky charm.
+219	MEN_SONNY                     	1488.507127	1492.477127	Roll 'em!, Use that lucky amazing arm.
+220	MEN_SONNY                     	1493.01509	1496.74509	Roll 'em!, Go for broke, kid, Let's bet the farm!
+221	SONNY_MEN                     	1497.267163	1498.187163	Roll 'em down the aisle , Ah dah
+222	SONNY_MEN                     	1498.187163	1501.967163	Makin' Sonny smile and lookin’ Good!, Ah dah Good! 
+224	FRANKIECOFFEECAKE             	1504.10205	1507.10205	Hey Sonny D your kid's got an arm like a wet noodle!
+225	RUDYTHEVOICE                  	1507.298605	1509.698605	Hey, Sonny! That boy's a loser! 
+226	RUDYTHEVOICE                  	1510.104364	1510.664364	Thank you.
+227	SONNY                         	1511.497734	1516.697734	Everybody shut up. I don't want nobody laughing at this kid. Nobody laughs at my boy here.
+228	MEN                           	1517.383178	1518.063178	Oooo...
+229	SONNY                         	1518.132807	1525.248491	Come on, Calogero, ya gotta throw it harder. Let's put some real money down. I got three thousand, who's bettin' with me?
+230	EDDIEMUSH                     	1525.248491	1526.698491	I'm gonna bet with you, Sonny.
+231	SONNY                         	1527.092657	1528.892657	NO. NO. NO. Eddie Mush no good.
+232	SONNY                         	1529.305657	1533.585657	I don't want your money touching my money. I don't want your money in the same neighborhood as my money.
+233	EDDIEMUSH_SONNY               	1533.772637	1535.823434	Why? ,Because you're a jinx, that's why. 
+234	SONNY                         	1536.199563	1541.759563	You never hit a bet in your life. Tony, I feel a win streak comin' on - lock Mush in the bathroom.
+235	EDDIEMUSH                     	1542.46071	1544.86071	C'mon Sonny - No! 
+236	GUYS_SONNY                    	1544.468802	1547.868802	Noooo.,Get him in there.
+237	SONNY_YOUNGCALOGERO           	1551.044856	1553.384856	C'mon kid, give me a seven.,Okay, Sonny. 
+238	SONNY                         	1558.443485	1564.763485	SEVEN! Will you look at this kid? Gimme those dice. Let's do it again. Five thousand.
+239	SONNY                         	1564.763485	1569.523485	JoJo. JoJo, please. Back up. Your breath is killing me.
+240	JOJOTHEWHALE_SONNY            	1570.410075	1575.278926	I'm eatin’,Then eat in the bathroom! Tony, lock 'em in there.
+241	TONYTENTOTWO                  	1575.278926	1575.963926	He can't fit. 
+242	SONNY                         	1576.188463	1581.108463	I don't give a shit he can’t fit, put 'im in. Get that fat bastard away from me. He stinks. 
+243	SONNY                         	1588.114072	1591.934072	No one else had better jinx the kid Don'tcha even let me think ya did. 
+244	SONNY                         	1592.464072	1596.601293	Say a word, I'm gonna flip my lid Shut your trap or Get in the crapper
+245	SONNY                         	1596.981293	1600.843181	C'mon buddy, time to shake that fist Papa's ridin' on your magic wrist
+246	SONNY_MEN&WOMEN               	1601.153181	1602.990347	Try to finish with a little twist, Ah
+247	SONNY_MEN&WOMEN               	1602.990347	1605.950347	Big bam boom boys, give him some room to roll ‘ em!, Ah
+248	MEN&WOMEN                     	1605.950347	1615.16102365	Dacka dacka Wacka wacka Chuggie chuggie Uggie uggie Whippie dippie wham
+249	MEN&WOMEN_YOUNGCALOGERO_SONNY&MEN	1615.16102365	1616.09976913	Dacka dacka Wacka wacka Chuggie chuggie , Hey – this is fun!
+250	MEN&WOMEN_YOUNGCALOGERO       	1616.09976913	1617.22626371	Uggie uggie Whippie dippie wham, Three and four or six and one
+251	SONNY&MEN_MEN&WOMEN           	1617.22626371	1617.789511	Roll 'em!, Dacka dacka Wacka wacka
+252	MEN&WOMEN_SONNY&YOUNGCALOGERO 	1617.789511	1618.254473	Chuggie chuggie Uggie uggie Whippie dippie wham, Get those sevens, Done and done.
+253	SONNY&YOUNGCALOGERO_MEN&WOMEN 	1618.254473	1622.65478767	Slam 'em off the wall,, Ah
+254	SONNY&YOUNGCALOGERO_MEN&WOMEN 	1622.65478767	1623.106361	Make those numbers fall just like they should!, Ah Should!
+255	YOUNGCALOGERO                 	1623.106361	1624.066361	Okay Sonny. Seven. 
+256	SONNY                         	1627.394323	1632.690934	Frankie Coffee Cake, no good. I don't want his face looking at your face when he's throwing my dice.
+257	SONNY                         	1632.690934	1633.470934	Tony, get a towel from the bar, put it over his head.
+258	FRANKIECOFFEECAKE             	1636.960248	1639.892692	Come on Sonny. I don’t want a towel over my head.
+259	SONNY                         	1639.892692	1642.512692	Oh you don't want a towel over your head? Then fellas, you know what to do.
+260	EVERYONE                      	1642.824339	1644.784339	In the fuckin' bathroom!
+261	SONNY_YOUNGCALOGERO           	1658.365336	1663.225021	Go ahead kid.,Seven...Seven... Seven come to heaven...
+262	SONNY                         	1663.447039	1669.389353	Don't get cocky kid. Just throw the dice. 
+263	SONNY_YOUNGCALOGERO           	1669.389353	1672.519353	Four! Four's the point. ,No! I'm sorry, Sonny.
+264	SONNY_YOUNGCALOGERO           	1673.109648	1676.806999	No, four's okay. Don't panic kid. ,But I didn't throw a seven!!
+265	SONNY                         	1676.806999	1679.856999	Four's okay, kid, take it easy. Kid's panicking, he didn't throw a seven. 
+266	SONNY                         	1681.592813	1685.452813	You just have to throw another four. I say the kid makes the hard four.
+267	SONNY                         	1686.549609	1692.072108	Two-two on the hard four. I say we put all the money down.
+268	YOUNGCALOGERO                 	1692.072108	1693.880993	Don't worry Sonny, I can throw another seven. 
+269	SONNY_MEN                     	1693.880993	1695.686498	No! No sevens! No sevens!, Ching chacka chacka chacka Dacka dacka Wacka wacka
+270	YOUNGCALOGERO_MEN             	1695.686498	1697.492003	But I thought seven was good. , Chuggie chuggie Uggie uggie Whippie dippie wham
+271	SONNY_MEN                     	1697.492003	1700.547473	Not now, kid. Not now! This kid's scarin' the shit outta me, this kid. , Ching chacka chacka chacka Dacka dacka wacka wacka
+272	SONNY_MEN                     	1700.547473	1703.741828	No, seven is not good now. I need four. I need two-two. You can do it., Chuggie chuggie Uggie uggie Whippie dippie wham
+273	SONNY                         	1703.741828	1707.820956	Don't roll a seven We're this close to heaven We'll be in the money unless you crap out.
+274	SONNY                         	1707.820956	1711.480956	Boxcars, snake eyes, That's all it'll take, guys, The kid is a honey, He'll do it, no doubt
+275	SONNY_MEN                     	1712.051067	1714.281067	Roll ‘ em, Roll me a seven And take me to heaven
+276	YOUNGCALOGERO_MEN             	1714.857807	1716.691973	I love this game, We'll be in the money If Sonny craps out.
+277	SONNY_MEN                     	1716.691973	1719.037121	Roll ‘ em, Boxcars, snake eyes Which way will they break, guys?
+278	YOUNGCALOGERO_MEN             	1719.037121	1721.67393586	I'm the master, of this game, Miss one, he's done, That's what I'm talkin' about. 
+279	YOUNGCALOGERO_MEN             	1721.67393586	1723.826861	Roll 'em..., Roll me a seven And take me to heaven
+280	SONNY_MEN                     	1723.826861	1725.298083	Come on, two and two, We'll be in the money If Sonny craps out.
+281	YOUNGCALOGERO_MEN             	1725.298083	1727.949119	Roll ‘ em..., Boxcars, snake eyes Which way will they break, guys?
+282	SONNY_MEN                     	1727.949119	1730.598193	Roll 'em like you're born to do, Miss one, he's done, that's what I'm talkin' about. Roll 'em!
+283	MEN                           	1731.858193	1733.828193	Roll 'em!
+284	MEN                           	1734.018193	1735.23289033	Roll ‘ em!
+285	MEN                           	1735.23289033	1736.102285	Roll ‘ em!
+286	WISEGUYS                      	1736.102285	1738.802951	Ching chakka Chakka chakka Dakka dakka wakka wakka Chug! 
+287	SONNY                         	1738.802951	1742.182951	Madonne! He did it! Four! I love this kid! 
+288	MEN                           	1742.902951	1745.582951	Roll ‘ em! 
+289	CALOGERO                      	1754.08904	1761.465706	NINE!...Nine...I made nine passes in a row. I don't know how much Sonny won, but when it was over.
+290	YOUNGCALOGERO                 	1761.465706	1763.915706	Sonny! I never seen so much money in my life!
+291	SONNY                         	1764.293427	1766.623427	The working man’s a sucker, kid. Remember that.
+292	CALOGERO                      	1767.058205	1770.738205	Now that bothered me. Because my father was a working man. And he wasn't a sucker.
+293	YOUNGCALOGERO                 	1771.834019	1777.129647	Hey, Sonny, can I come back tomorrow and throw your dice again?
+294	SONNY                         	1777.129647	1779.429647	Yeah, yeah, you come back tomorrow.
+295	SONNY                         	1790.316663	1790.436663	Calogero. Come here.
+296	SONNY                         	1790.436663	1796.816403	We gotta do something about your name. No disrespect to your mother and father, but your name is a little too big. 
+297	SONNY                         	1797.506403	1803.908019	We gotta cut it down. From now on, I’m gonna call you...C.
+298	YOUNGCALOGERO_SONNY           	1803.908019	1807.198827	C?,Yeah. C for Calogero. 
+299	SONNY_YOUNGCALOGERO           	1808.328827	1811.854641	And here's a c-note for C.,That's a hundred dollars, Sonny.
+300	SONNY                         	1812.147826	1814.975547	Put it in your kick, don't tell nobody where you got it. Go ahead. 
+301	YOUNGCALOGERO                 	1814.975547	1817.305547	I never had a hundred dollars before in my life.
+302	SONNY                         	1818.429954	1824.299954	I never had a partner before. I'm gonna tell everybody in the neighborhood you’re with me from now on. 
+303	SONNY                         	1825.619954	1825.889954	I’ll see you tomorrow, C.
+305	CALOGERO_DOOWOPGROUP          	1831.472433	1833.652303	Sonny started taking me everywhere. , Wah-oo - Wah-oo - Wah-oo Wah-oo - Wah-oo
+306	CALOGERO_DOOWOPGROUP          	1833.652303	1837.751247	and he would always introduce me to people as his good friend. , Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+307	CALOGERO_DOOWOPGROUP          	1837.751247	1842.233496	And I noticed a strange thing started to happen., Wah-oo-Wah-oo - Wah-oo - Wah-oo - Wah-oo - 
+308	DOOWOPGROUP_YOUNGCALOGERO     	1842.233496	1845.317246	Wah-oo - Wah-oo-wah, Wah-oo - Wah-oo - Wah-oo -, Every- where I go, Up and down the street, 
+309	YOUNGCALOGERO_DOOWOPGROUP     	1846.117542	1849.7998	Everyone's my buddy, They're falling at my feet., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+310	YOUNGCALOGERO_DOOWOPGROUP     	1849.7998	1852.8398	I'm more than a kid, I'm part of the game., Ah…
+311	YOUNGCALOGERO_DOOWOPGROUP     	1853.551077	1856.471077	They know where I go, Who I'm with, and my name., Ah…
+312	YOUNGCALOGERO_DOOWOPGROUP     	1857.084502	1860.716946	They call me “C” And I like it., “C!”
+313	YOUNGCALOGERO_DOOWOPGROUP     	1860.716946	1864.780001	Cool as can be And I like it. , “C!”
+314	YOUNGCALOGERO_DOOWOPGROUP     	1864.780001	1865.450001	Walkin’ tall, Feelin' fine, , Wah…
+315	YOUNGCALOGERO_DOOWOPGROUP     	1865.450001	1869.640001	Belmont Avenue’s mine, And I like it, Ah… Oo…
+316	YOUNGCALOGERO                 	1872.944333	1873.694333	Good morning Phil.
+317	PHIL                          	1873.836907	1878.726907	Hey, Calogero...I mean, C! I got some nice peaches for your Mom.
+318	YOUNGCALOGERO                 	1879.296461	1880.116461	I got no money on me, Phil. 
+319	PHIL                          	1880.557868	1883.647868	You don't need money with me. Whatever she wants from now on, no charge.
+320	PHIL                          	1884.49209	1886.26209	You just tell Sonny that I took care of you. 
+321	YOUNGCALOGERO                 	1886.26209	1886.92209	Gee, thanks, Phil. 
+322	YOUNGCALOGERO_DOOWOPGROUP     	1888.262386	1890.122386	The guys down at the pool hall , Wah-oo-Wah-oo - Wah-oo - Wah-oo -
+323	YOUNGCALOGERO_DOOWOPGROUP     	1890.122386	1892.114644	They’re beggin’ me to play., Wah-oo- Wah-oo - Wah-oo - Wah-oo-wah,
+324	YOUNGCALOGERO_DOOWOPGROUP     	1892.114644	1895.761995	The kids up at the corner All step outta my way., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+325	YOUNGCALOGERO_DOOWOPGROUP     	1895.761995	1899.819161	The girls gimme looks that are sweeter than summer., Ooo… Wah-oo
+326	YOUNGCALOGERO_DOOWOPGROUP     	1899.819161	1900.209161	And why? , Ah… 
+327	YOUNGCALOGERO_DOOWOPGROUP     	1900.209161	1901.699161	Because I am a real up-and-comer!, Wah!
+328	YOUNGCALOGERO_WOMEN           	1905.73866	1906.294234	They call me “C” And I like it., "C"! Ah-ah-ah…
+329	YOUNGCALOGERO_WOMEN           	1906.294234	1909.464234	They smile at me, And I like it., "C"! Ah-ah-ah…
+330	YOUNGCALOGERO_WOMEN           	1910.841215	1914.755436	Things are good, yes they are, Life's a big cookie jar,, Ooo Ooo
+331	YOUNGCALOGERO_WOMEN           	1914.755436	1917.635436	And I like it, Ah! Wap! Aow …
+332	YOUNGCALOGERO_WISEGUYS        	1918.453769	1922.408972	Just yesterday – They pushed me aside., Hey! Hey!
+333	YOUNGCALOGERO_WISEGUYS        	1922.408972	1926.662026	Just yesterday – They all looked right through me, Hey! Hey!
+334	YOUNGCALOGERO_ALL             	1926.662026	1930.072026	Suddenly, bam! The world knows who I am,, Suddenly, bam! Oh! Wap!
+335	YOUNGCALOGERO                 	1930.829378	1932.229378	Life's a carnival ride since
+336	YOUNGCALOGERO_ALL             	1932.399378	1934.542803	Sonny happened to me, Aow … 
+337	DOOWOPGROUP                   	1934.542803	1935.332803	Wop! Aow... Wah-oo-wah-oo - Wah-oo-wah 
+338	DOOWOPGROUP                   	1939.214876	1943.104876	Wop! Aow... Wah-oo-wah-oo - Wah-oo-wah Suddenly, bam... 
+339	ALL_DOOWOPGROUP               	1945.759393	1949.119393	Hey!, Life's a carnival ride...
+340	DOOWOPGROUP                   	1949.57067	1951.69067	Wah-oo-wah-oo - Wah-oo-wah, Wah-oo-wah-oo - Wah-oo-wah.
+341	YOUNGCALOGERO_DOOWOPGROUP     	1953.554892	1957.355187	When I'm at the drugstore, My coke don't cost a dime., Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo -
+342	YOUNGCALOGERO_DOOWOPGROUP     	1957.355187	1960.840576	Over at the newsstand, Free comics all the time., Wah-oo - Wah-oo - Wah-oo - Wah-oo-wah,
+343	YOUNGCALOGERO_DOOWOPGROUP     	1960.840576	1964.938723	The grocer, The peddler, The whole neighborhood, Ah… Ah…
+344	YOUNGCALOGERO_DOOWOPGROUP     	1964.938723	1967.948723	Wherever I go, I know my money’s no good!, Ah…
+345	YOUNGCALOGERO_ALL             	1968.441167	1972.138703	They call me “C” And I like it. , "C"! Ah-ah ah Doo-dee- doot! Doo-dee- doot!
+346	YOUNGCALOGERO_ALL             	1972.138703	1976.340591	Every-thing's free. And I like it., Ah-ah-ah Doo-dee- doot! "C"! Doo-dee- doot!
+347	YOUNGCALOGERO_ALL             	1976.340591	1979.220591	Got a style, got a rep, Got a swing in my step, , Ah…
+348	YOUNGCALOGERO_ALL             	1980.028924	1984.03609	I've got the cash and the crew A ll because of guess who., Ah… Ooo …
+349	YOUNGCALOGERO_ALL             	1984.03609	1986.96609	Nothin'll be quite the same,, Ah
+350	YOUNGCALOGERO_ALL             	1986.96609	1987.724422	Starting with my new name! , "C"!
+351	YOUNGCALOGERO_DOOWOPGROUP     	1987.724422	1990.814422	And I like it Yeah – I like it,, Oo-wah-oo - Wah-oo-wah I like it, I do!
+352	YOUNGCALOGER_DOOWOPGROUP      	1993.594773	1997.414773	Woh… I like it!, Oo-wah-oo - Wah-oo-wah I like it, I do! Ah…
+353	DOOWOPGROUP                   	1998.023902	1998.473902	Wap! Aow! 
+354	ALL_YOUNGCALOGERO             	2008.911844	2016.817343	Wah-oo-Wah-oo - Wah-oo - Wah-oo-wah I like it!, I like it, I like it, I do… 
+355	ALL_YOUNGCALOGERO             	2016.817343	2018.17353348	Wah-oo-Wah-oo - Wah-oo - Wah-oo-wah I like it!, I like it, I like it, I do…
+356	YOUNGCALOGERO_DOOWOPGROUP     	2018.17353348	2021.094509	I like it, I like it, I do…, Wah-oo - Wah-oo - Wah-oo-wah, Ow! 
+357	LORENZO_YOUNGCALOGERO         	2021.094509	2023.091434	Calogero, what's this?,What's what, Daddy?
+358	LORENZO                       	2023.091434	2025.581434	This. I found this in your room. Where did you get this? 
+359	YOUNGCALOGERO                 	2026.051119	2026.881119	That's money that I've been saving, Daddy.
+360	LORENZO                       	2027.700378	2032.440378	Twelve hundred dollars you been saving?! Did you become a brain surgeon overnight, son?
+361	YOUNGCALOGERO                 	2032.681099	2033.87858	No, Daddy, I worked for it.
+362	ROSINA_YOUNGCALOGERO          	2033.87858	2034.44858	Doing what?,Things.
+363	LORENZO_YOUNGCALOGERO         	2035.394895	2036.984895	What things?,Few things here, few things there – 
+364	ROSINA                        	2037.914765	2039.164765	What things did you do?
+365	YOUNGCALOGERO_ROSINA          	2039.635005	2040.655005	I worked the craps games – ,What??
+366	YOUNGCALOGERO_LORENZO         	2041.000338	2044.237875	Sonny gave me a job – ,Sonny...I knew it. 
+367	LORENZO                       	2044.237875	2048.507875	It's no wonder why the neighborhood Treats a boy like him so goddamned good.
+368	LORENZO                       	2049.179763	2053.059763	Playing craps and shining up his car We're going straight to the bar to give back the money.
+369	YOUNGCALOGERO_LORENZO         	2053.631651	2055.29754	What?!, Watch your mouth, you'll get your Mom upset.
+370	YOUNGCALOGERO_ROSINA          	2055.343854	2055.653854	But—,Shh!
+371	LORENZO                       	2055.999558	2057.499558	That's right! You ain't seen nothing yet.
+372	YOUNGCALOGERO                 	2058.477465	2060.417465	Daddy, daddy, don’t say nothing, please!
+373	YOUNGCALOGERO                 	2060.630464	2062.240464	I made a promise to Sonny... 
+374	LORENZO_ROSINA                	2062.240464	2064.940149	Let's go. Now!,Wait. 
+375	ROSINA_LORENZO                	2064.940149	2068.050149	Let's not make any rash decisions.,What?
+376	ROSINA                        	2069.236574	2072.306574	Money like that you don't pull from a hat. I mean, twelve hundred dollars
+377	ROSINA_LORENZO                	2072.719999	2073.819999	Can buy us a lot., It's blood money.
+378	ROSINA                        	2074.236313	2078.073461	I know. And it's wrong. even so, I mean, Who’s gonna know if we spend it or what?
+379	YOUNGCALOGERO_LORENZO         	2078.073461	2080.416424	Daddy, Daddy,, It's dirty, it's cheap, And the price is too steep—
+380	LORENZO_YOUNGCALOGERO         	2080.648442	2081.977886	Take one cent, you’re in deep with him,, Don't say nothing, The money is mine
+381	LORENZO_YOUNGCALOGERO         	2081.977886	2082.605127	Like it or not., The money is mine
+382	YOUNGCALOGERO&ROSINA          	2082.470645	2087.550645	Lorenzo, consider it please? Lorenzo, please! 
+383	LORENZO                       	2090.956755	2092.156755	Sonny, I would like to talk to you.
+384	SONNY_YOUNGCALOGERO           	2093.04681	2097.462994	Hey, Lorenzo, how ya doin? Hello, C.,Hi, Sonny.
+385	LORENZO                       	2097.759679	2099.999679	Sonny, I want you to take this money back. We can't accept it.
+386	SONNY                         	2101.948808	2106.448808	No disrespect to you, Lorenzo, but I didn't give it to you. I gave it to your son. He worked for it.
+387	LORENZO                       	2106.816585	2110.016585	That's right. "My son". And I don't want my son involved in your shit.
+388	SONNY                         	2112.103195	2114.826991	Excuse me, Lorenzo, what shit are you talking about?
+389	LORENZO_SONNY                 	2114.826991	2118.078824	Please, I'm not a stupid man. I'm warning you, stay away from my son.,What'd you say?
+390	SONNY                         	2120.257527	2121.938749	Tony, sit down. 
+391	SONNY                         	2121.938749	2125.831989	Hey lorenzo, you and I should talk. C – I'd like it if you take a walk.
+392	LORENZO                       	2125.831989	2128.881989	Hey – I'm his father and I'll decide.
+393	LORENZO                       	2129.071989	2130.011989	Calogero, wait outside. 
+394	SONNY                         	2135.482635	2139.062635	First of all, don’t show me disrespect. Number two, I teach your boy correct.
+395	SONNY                         	2140.225505	2141.675505	Do the right thing, go to college...
+396	LORENZO                       	2142.31556	2143.97556	Please, Sonny – He don't need your kind of knowledge
+397	LORENZO                       	2144.273652	2148.173652	The clothes, The cars, the money, The girls all the power, what's it meant?
+398	LORENZO                       	2149.109466	2151.609466	Now he says that Mickey Mantle wouldn’t pay my rent. 
+399	SONNY_LORENZO                 	2154.660984	2156.704354	Can you believe this kid?,It's not funny.
+400	LORENZO                       	2157.434354	2160.024354	It's not funny when your nine year-old son has a bigger bank account than you do.
+401	SONNY                         	2160.38839	2165.788926	That's not my problem, Lorenzo. I'm sure you remember I offered you a job.
+402	SONNY                         	2165.788926	2169.248926	All you had to do was drop my numbers off from one bus stop to the next. 
+403	SONNY                         	2169.478926	2172.641851	Nobody would've suspected you because of who you are.
+404	SONNY                         	2172.641851	2176.730979	It would have meant another hundred fifty dollars a week in your kick, but you said "no" to me.
+405	LORENZO                       	2176.730979	2181.24796	That's right I did. And I say "no" to you again. You couldn't corrupt me, so now you wanna corrupt him.
+406	SONNY                         	2181.24796	2182.85796	What the hell's the matter with you. I treat that kid like he's my son –
+407	LORENZO                       	2183.206052	2184.006052	He's not your son! 
+408	SONNY_LORENZO                 	2184.208626	2186.036293	Get him out of here! I wash my hands of you.,Stay away from him! 
+409	SONNY_LORENZO                 	2186.626533	2187.846533	I want him out of here! ,Stay away from –
+410	YOUNGCALOGERO                 	2190.254866	2192.284866	Where's my money, Dad? What did Sonny say? Can I have my money? 
+411	LORENZO_YOUNGCALOGERO         	2192.754736	2196.033254	I left it in there.,What?! How could you do that?! I worked for it. It was my money.
+412	LORENZO                       	2196.033254	2196.433254	It's dirty money.
+413	YOUNGCALOGERO_LORENZO         	2196.999939	2198.009939	It's not. It's mine.,You stay away from him.
+414	YOUNGCALOGERO_LORENZO         	2198.082327	2198.882327	I want my money. ,Shut up!
+415	YOUNGCALOGERO_LORENZO         	2199.074901	2200.037475	Daddy, I want it!,Stop it!
+416	YOUNGCALOGERO_LORENZO         	2200.037475	2203.541882	I want my money! Give me my money! ,NO! 
+417	YOUNGCALOGERO                 	2203.541882	2210.971882	Daddy, why did you hit me? Why? Sonny's right. He's right. The working man is a sucker. He's a sucker.
+418	LORENZO                       	2211.369343	2216.809343	Sonny's wrong. It doesn't take much strength to pull a trigger, Calogero. Let's see him get up every morning and work for a living. 
+419	LORENZO                       	2217.321657	2220.791657	Then we'll see who the real tough guy is. Your father is the tough guy. That man is evil.
+420	YOUNGCALOGERO                 	2221.154897	2226.354897	How could he be evil? Everybody loves him. Just like you on the bus. They love you, they love him, it's the same thing!
+421	LORENZO                       	2226.52347	2230.01347	It's not the same. People don't love him. They fear him. There’s a difference. 
+422	YOUNGCALOGERO_LORENZO         	2231.213395	2235.820321	I don't understand Dad.,You will when you get older. 
+423	LORENZO                       	2241.530321	2247.230321	I'm sorry I hit you. You know that I love you. Just stay away from him. Okay?
+424	YOUNGCALOGERO                 	2247.973836	2248.033836	Okay. 
+425	CALOGERO_DOOWOPGROUP          	2252.341798	2255.948168	I guess I should have listened But I was just a kid., Oo… Oo…
+426	CALOGERO_DOOWOPGROUP          	2255.948168	2260.096316	I thought that I knew better. And hell, perhaps I did., Oo… Oo…
+427	CALOGERO_DOOWOPGROUP          	2260.096316	2263.529741	From out of the bar, I heard voices I knew—, Oo… Oo…
+428	CALOGERO_DOOWOPGROUP          	2263.529741	2270.824443	And music, and laughter and Sonny's voice too..., Oo… Oo… 
+429	CALOGERO_YOUNGCALOGERO        	2270.824443	2274.304443	And I felt bad,, But I liked it.
+430	CALOGERO_YOUNGCALOGERO        	2275.496331	2278.696331	Ignored my dad,, ‘Cause I liked it.
+431	CALOGERO                      	2279.963312	2285.293312	And if he didn't know, heck, what’s an hour or so...? 
+432	CALOGERO&YOUNGCALOGERO        	2286.684274	2294.164274	And somehow one hour turned into two and somehow two hours just kept on going.
+433	CALOGERO_YOUNGCALOGERO        	2294.796642	2297.886642	Hours became days,, Weeks went by in a haze,
+434	CALOGERO&YOUNGCALOGERO        	2298.383012	2304.91085733	Till eight years passed me by, without any sign of slowing
+435	DOOWOPGROUP                   	2304.91085733	2307.416548	Ah- oo dahtn Dahtn dahtn dah... Well, ah- oo dahtn dathn dahtn dah... Doh dee do...
+436	CALOGERO_DOOWOPGROUP          	2313.773028	2317.502342	And Sonny's reach kept growing, And guess what he became?, Wah-oo-wah-oo - Wah-oo - Wah-oo -
+437	CALOGERO_DOOWOPGROUP          	2317.502342	2321.313619	The capo di tutti capi, The east coast's biggest name., Wahoo- Wah-oo - Wah-oo-wah,
+438	CALOGERO_DOOWOPGROUP          	2321.313619	2322.583619	And wise guys would come, Ah...
+439	CALOGERO_DOOWOPGROUP          	2322.930915	2324.790915	From all over the land, to pay their respects,, Ah...
+440	CALOGERO_DOOWOPGROUP          	2326.619247	2328.7126175	Kiss his ring, Shake his hand—, Ah...
+441	CALOGERO_L.A.                 	2328.7126175	2330.702275	L.A.!,Hey, Louie! How ya doin'?
+442	CALOGERO_MIAMI                	2330.702275	2332.188562	Miami ,How'm I doin’? How you doin'?
+443	CALOGERO_CHICAGO              	2332.172728	2334.40082	Chicago—,I'm doin' good. How you doin'?
+444	CALOGERO_DETROIT              	2334.40082	2335.74082	Detroit– ,Can't complain.
+445	CALOGERO_VEGAS                	2336.085968	2338.238968	Las Vegas—,You look good.
+446	DETROIT_CHICAGO&VEGAS         	2338.238968	2339.919208	No, YOU look good.,No, YOU look good.
+447	MIAMI_L.A._CHICAGO_DETROIT&VEGAS	2339.919208	2343.0838	No, YOU look good.,No, YOU look good.
+448	CALOGERO                      	2343.0838	2343.1338	Guys! 
+449	CALOGERO_L.A.                 	2343.1338	2345.18717	Youse all look good.,Who the fuck are you?
+450	SONNY                         	2346.556244	2349.706244	I call him C, And I like him.
+451	SONNY                         	2350.986244	2354.656244	The kid's with me, 'cause I like him.
+452	SONNY                         	2355.738057	2359.428057	If you're smart, fellas, you, Better like the kid too...
+453	GANGSTERS                     	2360.205037	2361.145037	We like him! 
+454	CALOGERO_CAPOS                	2362.377056	2365.677056	And suddenly I found myself in 1968—, Ah
+455	CALOGERO_CAPOS                	2366.270296	2370.17597562	The Yankees in the cellar, The Beatles s oundin' great., Ah
+456	CALOGERO_CAPOS                	2370.17597562	2373.540591	The bars always jumpin’ The laughs never end., Ah
+457	CALOGERO_CAPOS                	2373.810887	2376.900887	And I'm Sonny's guy, I'm his boy, I'm his friend., Ah
+458	CALOGERO_DOOWOPGROUP          	2377.395294	2384.834903	And I like it Yeah. I like it. Oh yeah., Na na na Na na na Na na na Na na na
+459	CALOGERO_CAPOS                	2384.834903	2391.574883	Sonny's reign had begun And I was like Sonny's son. And I liked it. , Ah...Ah... Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah-oo -
+460	CALOGERO_CAPOS                	2391.574883	2397.338734	Oh, I liked it..., Wah-oo - Wah-oo - Wah-oo - Wah-oo - Wah,
+461	DOOWOPGROUP_CALOGERO          	2397.338734	2403.05031333	Oo-oo... Oo-oo... Oop!, I liked it…
+462	NICKY_SLICK&CRAZYMARIO        	2403.05031333	2404.301103	Oo-oo... Oo-oo...
+463	CALOGERO_NICKY_SLICK&CRAZYMARIO	2404.301103	2406.371103	When I wasn't with Sonny, I had my own crew. , Oo-oo...
+464	CALOGERO_NICKY_SLICK&CRAZYMARIO	2407.046862	2409.146862	We'd hang out together day in and day out. , Oo-oo...
+465	CALOGERO_NICKY_SLICK&CRAZYMARIO	2410.319491	2413.079491	I loved these guys. I loved every one of them. , Oo.
+466	CALOGERO                      	2413.358009	2417.518009	There was Sally Slick. We called him that because his hair was always slicked back. 
+467	CALOGERO                      	2418.152841	2422.492841	And Handsome Nick. He was so pretty he wanted to sleep with himself.
+468	CALOGERO                      	2424.341044	2427.781044	And Crazy Mario who kept hearing voices in his head. 
+469	CRAZYMARIO                    	2428.11134	2429.44134	Who's there?? Nobody!! 
+470	CALOGERO                      	2434.08169	2441.43169	All we wanted was to be like Sonny and his crew. We would try to walk like them, talk like them, even dress like them. Right?
+471	NICKY                         	2441.75817	2442.69817	Absolutely. 
+472	NICKY                         	2442.69817	2450.959576	You wanna look like a fella who deserves respect? You better start dressin' the part.
+473	NICKY                         	2450.959576	2455.320279	You need the suit, shirt, and tie I'm talkin' fully decked
+474	NICKY_CALOGERO_SLICK&CRAZYMARIO	2455.320279	2458.018001	Your hair like a w ork of art. ,Yeah.
+475	NICKY                         	2460.124686	2464.294	You put on the fedora, The sophisticated aura, And you curl your lip and stand just right. 
+476	NICKY                         	2464.294	2471.249628	Light a cig and hold it steady, Strike a pose and now you're ready To hang on the corner all night.
+477	GUYS_NICKY                    	2472.738201	2475.928201	Ain't it the truth!, You know it, every word is true.
+478	GUYS_NICKY                    	2476.344571	2479.534571	Ain't it the truth!, You listen what I'm tellin' you
+479	NICKY                         	2480.321737	2483.681737	You can't hold Your head up In some cheap-ass lookin' get-up—
+480	ALL                           	2484.873014	2492.403014	And that's the truth! Ba doo wa, Bop bop ba dada! Ba doo wa
+481	CRAZYMARIO                    	2492.698142	2494.898142	Hey! Don't I know you from some place?
+482	GIRL                          	2495.116049	2497.426049	Yeah. That's why I don’t go there anymore.
+483	CRAZYMARIO_SLICK              	2499.378122	2503.578122	Forget her. She's a slut.,How do you know?
+484	CRAZYMARIO                    	2503.976085	2505.086085	She failed my test.
+485	CALOGERO_CRAZYMARIO           	2505.478473	2507.948473	Your test?,The Mario test. This test can't fail.
+486	CRAZYMARIO                    	2508.803861	2515.133861	You wanna know if your girl is gonna be "the one"? You give her the Mario test.
+487	CRAZYMARIO                    	2516.057582	2522.127582	You pick her up, Take her drivin', Have a bit of fun, And then, here’s what I suggest
+488	CRAZYMARIO                    	2522.573637	2526.113637	You take her on the highway, and you get right up next to one of those eighteen wheelers
+489	CRAZYMARIO                    	2526.507858	2531.247858	You honk the horn – BEEP BEEP - you wave to the driver. You make sure he's lookin' at you, it's very important. 
+490	CRAZYMARIO                    	2531.619561	2536.712245	Then you put your hand behind her head. You whisper in her ear and tell her what you expect. 
+491	CRAZYMARIO                    	2536.712245	2542.282245	Now, if she goes down on the old brajole, knowing the guy in the eighteen wheeler is watching, 
+492	CRAZYMARIO                    	2542.962245	2544.122245	she can’t be trusted.
+493	CALOGERO                      	2552.776983	2554.446983	You're a sick person, Mario.
+494	GUYS                          	2556.176983	2556.776983	Ain't it the truth!
+495	CRAZYMARIO_GUYS               	2556.957093	2560.46187	No bullshit, Every word makes sense., Ain't it the truth!
+496	CRAZYMARIO                    	2560.715426	2566.595426	Ignore me at your own expense: She likes the pepperoni, She ain't fit for matrimony
+497	ALL                           	2568.104054	2578.104053	And that's the truth! Ba doo wa, Bop bop ba dada! Ba doo wa, sha sha shoo wada! Ba... 
+498	SLICK_CRAZYMARIO              	2579.676904	2583.729533	Hey! What the are you Yams doing walking over here?,This is our neighborhood!
+499	CALOGERO                      	2584.272107	2586.002107	They're not makin' any trouble forget about it.
+500	SLICK                         	2586.381791	2589.961791	My father told me that's how it starts. He said you let one in, they take over the neighborhood.
+501	CALOGERO                      	2590.602883	2591.602883	Slick listen –
+502	SLICK                         	2591.953309	2598.003309	You wanna know what it takes to be a real paisan? You stand on the side of what's right.
+503	SLICK                         	2599.086048	2605.156048	And when those jigs get ideas, and it’s your block they're on, You quit actin' all polite.
+504	CALOGERO                      	2604.965417	2606.495417	Hey, c'mon, Slick—
+505	SLICK                         	2606.790565	2609.880565	You get up in their faces And you show them where their place is-
+506	CRAZYMARIO_SLICK              	2610.32399	2612.85399	You baseball bat their heads., No doubt.
+507	NICKY                         	2613.397601	2617.107601	'Cause you let one or two in, And the whole place goes to ruin.
+508	SLICK_MARIO&NICKY             	2617.527711	2621.527711	And who else'll keep the spooks out., Ain't it the truth!
+509	SLICK_MARIO&NICKY             	2621.707822	2624.907822	You know it, ev'ry goddamn word. , Ain't it the truth!
+510	SLICK                         	2625.232228	2631.492228	Exactly like we always heard— The next tribe that passes, You can bet we’ll kick their asses. 
+511	SLICKMARIO&NICKY              	2632.731838	2633.931838	And that’s the truth!
+512	MARIO_NICKY_&SLICK            	2635.73956	2638.04956	Ba do wa, Bop bop ba dada! 
+513	CALOGERO_MARIO_NICKY&SLICK    	2639.534763	2644.004763	It kept bothering me. All my friends felt the same way except me. , Ba do wa, Sha sha shoo wada!
+514	CALOGERO_MARIO_NICKY&SLICK    	2644.411558	2647.935965	In this neighborhood it was all about the streets and who owned 'em., Ba doo wa, Da da de adda, Bop bop bada
+515	CALOGERO                      	2647.935965	2652.065965	They weren't allowed to set foot on Belmont Avenue. And we couldn’t go anywhere near Webster Avenue.
+516	CALOGERO                      	2652.402945	2656.922945	School was right in the middle of the two. But even there we stayed apart. At least my friends did. 
+517	CALOGERO                      	2657.964463	2666.582535	Me. I was having a hard time keeping my distance. 
+518	JANE                          	2666.582535	2668.852535	That's the guy. The one who's always looking at me in the halls.
+519	FRIEDA_JANE                   	2669.246331	2672.136331	Well how would you know unless you're looking back?,You don't think he's cute?
+520	DENISE_JANE                   	2672.401905	2675.221905	I think he's white.,Oh really? I didn't notice.
+521	FRIEDA                        	2675.63846	2677.09846	Then maybe you ain't looking close enough.
+522	CALOGERO                      	2679.819551	2687.119551	That girl, right there— Am I the only one who sees? 
+523	CALOGERO                      	2687.119551	2694.796808	Those lips, that hair— Those eyes that knock me to my knees.
+524	DOOWOPGROUP                   	2694.796808	2699.246808	Oh…
+525	CALOGERO                      	2695.595456	2700.885456	Don't look at her— They find out, they’ll laugh at you for sure.
+526	DOOWOPGROUP                   	2701.621695	2703.671695	So…
+527	CALOGERO                      	2702.605251	2705.845251	What's it matter? She's not one of us, 
+528	CALOGERO_DOOWOPGROUP          	2706.498491	2713.418491	And you're just Out of your head if you think that this ever could be! , Out of your head
+529	CALOGERO_DOOWOPGROUP          	2714.640249	2718.638026	You're dreaming Go back to bed You're out of your head , Go back to bed Out of your head
+530	CALOGERO                      	2718.638026	2722.388026	Girls like her don’t happen to guys like me.
+531	FRIEDA_DENISE                 	2722.883229	2724.803229	Jane, listen to us.,It just ain't right.
+532	FRIEDA_DENISE                 	2725.186043	2727.486043	Stop looking for trouble.,And stop looking at him.
+533	JANE                          	2727.909839	2728.549839	Okay.
+534	JANE                          	2729.779839	2732.579839	That boy, right there—
+535	JANE                          	2732.579839	2739.1838	I see him everywhere I go. He smiles, I stare.
+536	JANE_FRIEDA&DENISE            	2740.6438	2746.572428	Could it be more? I just don't know., No! Don't be stupid—
+537	JANE_FRIEDA&DENISE            	2747.117205	2751.027205	Told myself a million times before. , Ah...
+538	FRIEDA&DENISE                 	2751.291242	2753.821242	No! Don’t be foolish –
+539	JANE_FRIEDA&DENISE            	2754.159945	2762.929945	He is not your kind, And you're just Out of your head If you think that this ever could be!
+540	JANE_FRIEDA&DENISE            	2763.462739	2767.802739	You're dreaming! Go back to bed You're out of y our head
+541	JANE                          	2768.339535	2770.449535	Boys like him don't happen –
+542	JANE&CALOGERO_FRIEDA&DENISE   	2770.798423	2773.24985157	And you're just Out of your head , Out of your head
+543	JANE&CALOGERO_FRIEDA&DENISE   	2773.24985157	2777.560366	I f you think that this ever could be , Could be...
+544	JANE&CALOGERO_FRIEDA&DENIS    	2777.560366	2781.700366	You're dreaming Go back to bed you’re Out of your head , Go back to bed Out of your head
+545	FRIEDA&DENISE_JANE            	2782.005384	2786.683051	Let’s go., Boys like him Don't happen to girls like me.
+546	FRIEDA&DENISE                 	2786.863161	2789.063161	No! No!
+547	CALOGERO                      	2789.803031	2793.563031	Girls like her Don't happen to guys like me.
+548	FRIEDA&DENISE                 	2793.748048	2795.948048	No! No!
+549	CALOGERO&JANE                 	2796.916937	2799.336937	Things like this don't happen...
+550	CALOGERO                      	2805.026972	2808.836972	And then, she’s there... The chance would never come again.
+551	CALOGERO                      	2810.345545	2818.132025	I say a prayer, Take one deep breath, and count to ten... Then I know it—
+552	CALOGERO                      	2818.132025	2828.022025	Something tells me she must feel the same. C, don't blow it... Simply ask her name... 
+553	CALOGERO                      	2831.819838	2836.269838	Hi. I saw you standing here, and I was wondering, are you waiting for somebody?
+554	JANE                          	2836.653689	2837.523689	Yes, I am.
+555	CALOGERO_JANE                 	2837.883133	2842.663133	You are, oh, well sorry.,I'm just waiting for my brother. He's late.
+556	CALOGERO_JANE                 	2843.048761	2844.048761	That's great. ,That he's late?
+557	CALOGERO                      	2844.319187	2848.659187	No. That he's your brother. My name's Calogero.
+558	JANE                          	2849.459908	2852.462537	Calogero? What kind of name is that?
+559	CALOGERO                      	2852.462537	2854.452537	It's Sicilian. My family's from Sicily.
+560	JANE                          	2855.484185	2857.904185	I'm Jane. My family’s from two blocks down make a left.
+561	CALOGERO_JANE                 	2859.624295	2865.105813	Jane. I like that. Hey listen - Do you ever go out?,You mean like on a date?
+562	CALOGERO_JANE                 	2865.105813	2865.655813	Yeah.,With you?
+563	CALOGERO_JANE                 	2865.957405	2866.557405	Yeah.,No.
+564	CALOGERO_JANE                 	2868.416294	2870.216294	Why?,Whaddya think?
+565	CALOGERO                      	2870.726349	2873.886349	It's just a date. Who knows? You might get to like me. 
+566	JANE_CALOGERO                 	2876.089033	2877.679033	You’re funny.,So is that a yes? 
+567	JANE_CALOGERO                 	2878.93657	2881.08657	People will see us.,What about a movie? It'll be dark. 
+568	JANE                          	2883.145698	2884.065698	I don't think it’s a good idea.
+569	CALOGERO_JANE                 	2885.307716	2887.964457	Where are you going? ,Why do you wanna know?
+570	CALOGERO                      	2887.964457	2888.844457	In case I need to find you.
+571	JANE_CALOGERO                 	2890.298438	2892.478438	I'm going to work.,You got a job?
+572	JANE                          	2893.788919	2895.078919	I'm saving up for college. Aren't you? 
+573	CALOGERO                      	2895.473085	2897.431177	College? College? What're you kidding?
+574	JANE                          	2897.431177	2904.561954	Why not? My girlfriend Denise is in your English class. She says you're smarter than you look.
+575	CALOGERO_JANE                 	2904.561954	2908.881954	So you talk about me?,She says you can really write. 
+576	CALOGERO                      	2909.233842	2911.573842	Yeah, well, my friends would laugh their asses off if I told them I was going to college.
+577	JANE_CALOGERO                 	2912.1196	2916.3096	Maybe you need new friends. ,Maybe.
+578	JANE_CALOGERO                 	2918.206821	2919.166821	Cousins record store.,What?
+579	JANE_CALOGERO                 	2919.76608	2922.08608	That's where I work.,On Fordham Road? 
+580	JANE_CALOGERO                 	2922.520858	2924.030858	Yeah. I can't be late.,What about your brother?
+581	JANE_CALOGERO                 	2924.303061	2926.033061	Tell him I couldn't wait. ,I don't know what he looks like.
+582	JANE                          	2926.454098	2926.964098	He's black. 
+583	CALOGERO                      	2933.904689	2938.694689	I must be out o f my head, But I've got it as bad as can be.
+584	CALOGERO                      	2940.646817	2945.346817	God help me! She is so fine But it's crossing a line
+585	CALOGERO                      	2946.906001	2947.976001	Girls like her don’t happen— 
+586	CALOGERO                      	2949.199797	2959.919797	Girls like her c an't happen— Girls like Jane don’t happen to guys like –
+587	LORENZO                       	2960.592647	2961.936017	Calogero! What're you doin’?
+588	CALOGERO_LORENZO              	2961.936017	2966.944775	Hey, Dad, I got a question for you. You know Joey Lama from up the block?,Yeah.
+589	CALOGERO                      	2966.944775	2971.4847	Well, Joey's dating this black girl, and the guys are giving him a lot of shit. Whatta ya think about that?
+590	LORENZO                       	2971.4847	2975.9947	You know how I feel about that. I get along with everybody on the bus. There's good and bad in every kind.
+591	CALOGERO_LORENZO              	2977.210144	2979.270144	You really mean that, Dad?,Yeah.
+592	CALOGERO                      	2981.769087	2984.976624	Well what would you do if I ever dated a black girl, Dad? What would you do? 
+593	LORENZO                       	2984.976624	2985.666624	You would never do that.
+594	CALOGERO                      	2987.804345	2990.894345	Yeah, well. Sometimes you just gotta do what your heart tells you to do. 
+595	LORENZO_CALOGERO              	2991.697585	2993.55703	Who told you that?,Joey Lama.
+596	LORENZO                       	2994.371381	2999.051381	Well, you tell Joey Lama that sometimes in the heat of passion the little head tells the big head what to do. 
+597	LORENZO                       	2999.453084	3000.793084	And the big head should think twice.
+598	LORENZO                       	3002.141972	3003.051972	I’ll see you upstairs. 
+599	CALOGERO                      	3007.097601	3010.097601	Hey Louie! Louie Beans! Where's the twenty dollars you owe me! 
+600	CALOGERO                      	3011.472008	3013.322008	You can't dodge me forever, you rat bastard! 
+601	CALOGERO_SONNY                	3015.192008	3018.415543	Go ahead, run away! ,Hey! What are you yellin' about?
+602	CALOGERO                      	3018.415543	3022.014857	Louie Beans, Sonny. He owes me twenty dollars. It's been two weeks now. 
+603	CALOGERO                      	3022.014857	3028.079134	He's makin' me look bad in front of the other guys. I mean, should I whack this kid, or what?
+604	SONNY                         	3028.079134	3031.439134	Alright, first thing's first; this guy Louie Beans, is he a good friend of yours?
+605	CALOGERO                      	3031.604522	3034.574522	No, he's a jerk off. I can't stand the guy. But he owes me twenty dollars.
+606	SONNY_CALOGERO                	3035.005985	3036.135985	Forget the twenty.,Why? 
+607	SONNY                         	3036.604262	3039.334262	He's never gonna bother you again. He's never gonna ask you for money again.
+608	SONNY                         	3039.677873	3042.367873	He's out of your life for twenty dollars. You got off cheap. Forget about it.
+609	CALOGERO                      	3044.099946	3044.739946	You're right, Sonny.
+610	SONNY                         	3044.809575	3050.569575	What've I been teaching you? You're going to the best school in the whole world, kid - the University of Belmont Avenue.
+611	SONNY                         	3052.95587	3058.93587	But you gotta get two educations. One from the street, and one from school. That way you’ll be twice as smart as everybody else. 
+612	SONNY                         	3060.146647	3061.457072	Read a book once in a while...
+613	CALOGERO                      	3061.457072	3063.834979	Read a book? Yeah, like you read?
+614	SONNY                         	3063.834979	3067.824979	Course I read. They sent me away to college a few times, know what I'm sayin'? 
+615	SONNY                         	3075.372736	3079.0527915	I used to read philosophy... you ever hear of a guy named Machiavelli?
+616	CALOGERO_SONNY                	3079.0527915	3081.092847	Who?,Niccolo Machiavelli...
+617	SONNY                         	3081.842847	3083.872847	Lemme tell you something about this guy Nick Machiavelli.
+618	SONNY                         	3084.233753	3086.513753	If he was around today he would be my consiglieri.
+619	SONNY_<br                     	3088.240919	3095.043844	Nicky machiavelli lemme tell ya what he said:
+620	SONNY                         	3095.043844	3100.373844	You wanna use the reins of power, First you gotta use your head.
+621	SONNY                         	3102.010694	3107.440694	Nicky knew all t he angles. Nicky laid it out real clear: 
+622	SONNY                         	3108.977545	3115.067545	You gotta choose fear or love, kid You gotta choose love or fear.
+623	CALOGERO_SONNY                	3115.553599	3116.893599	Love or fear?,That's right, C.
+624	SONNY                         	3117.74758	3122.75758	Nicky's number- one secret Was availability
+625	SONNY                         	3124.509523	3130.159523	That's why I'm here on this corner, Right where all the world can see.
+626	SONNY                         	3131.576374	3137.276374	All my friends, They sleep easy Knowing that I'm always near.
+627	SONNY                         	3138.534206	3149.714206	My enemies know it, too, though- It ain't about love, it's fear.
+628	SONNY                         	3150.860611	3157.760776	And as far as those friends go, Nick suggests a real short leash.
+629	SONNY                         	3157.760776	3163.200776	Treat 'em well, but hey--not too well. Keep 'em in your debt, capisce?
+630	SONNY                         	3164.639405	3169.639405	Give too much, they won't need ya. Give too little and they'll sneer.
+631	SONNY                         	3171.360366	3179.790366	You wanna know what to give ‘ em? The answer ain’t love, it's fear. 
+632	SONNY                         	3180.140402	3185.080402	Frankie, Tony and JoJo- Look at how it is with them.
+633	SONNY                         	3186.49253	3191.89253	Sure, you'd think these fellas love me. Think again, says Nicky M. 
+634	SONNY                         	3193.399381	3196.923787	I make a joke they start laughin’
+635	SONNY                         	3196.923787	3198.983787	Hell, they nearly stand and cheer. 
+636	SONNY                         	3199.043787	3201.763787	I'm funny but I ain’t that funny.
+637	WISEGUYS                      	3203.193953	3207.073953	That laughter ain't love, it's fear.
+638	SONNY_WISEGUYS                	3208.68547	3211.921044	So then, which one is better? , Pah pah -dah
+639	SONNY_WISEGUYS                	3211.921044	3215.201525	Me, I take my cues from Nick., Pah pah -dah
+640	SONNY_WISEGUYS                	3215.201525	3218.703969	Kindness looks a lot like weakness,, Va -doo-dah
+641	SONNY_WISEGUYS                	3218.703969	3221.942486	Even when you spread it thick., Pah -doo- wah -doo- wah!
+642	SONNY_WISEGUYS                	3221.942486	3225.342967	Money can't buy you friendship,, Pah pah -dah!
+643	SONNY_WISEGUYS                	3225.342967	3228.857374	Love can always disappear., Pah pah -dah!
+644	SONNY_WISEGUYS                	3228.857374	3231.657374	But fear is cash in the bank, kid!, Bop bah...
+645	SONNY_WISEGUYS                	3232.06491	3234.84491	Fear puts gas in your tank, kid!, Bop bah...
+646	SONNY_WISEGUYS                	3235.36441	3238.15441	And now you got Nicky to thank, kid!, Bop bah...
+647	SONNY_WISEGUYS                	3238.733909	3239.623909	Forget about love!, Pah - pah -pow! 
+648	SONNY                         	3239.623909	3240.023909	Choose fear! 
+649	CALOGERO                      	3246.019593	3254.329593	In the Chez Bippy, any stranger that walked in was a big deal. This day, a motorcycle gang came in. They had a reputation.
+650	TONYTENTOTWO_GANGLEADER       	3256.879684	3260.759684	Excuse me. Youse can't come in. We're closed.,We just want a drink.
+651	SONNY                         	3263.518682	3264.428682	Is there a problem here? 
+652	GANGLEADER                    	3265.854626	3270.724626	No problem. We'd just like to get a few beers. Maybe you could help us out, sir? 
+653	SONNY                         	3275.69018	3285.111993	You spoke like a gentleman. I appreciate that. Rudy, give them their beers.
+654	GANGLEADER                    	3285.111993	3287.071993	Hey, thanks for the beers. 
+655	SONNY                         	3293.82301	3297.04301	That wasn't very nice. Now you and your friends gotta leave.
+656	GANGLEADER                    	3297.89625	3302.66625	Oh, we gotta leave? You hear that fellas? This dago says we gotta leave. 
+657	GANGLEADER                    	3303.28625	3308.74625	This is our place now guinea, we ain't leavin’. You make us leave. 
+659	SONNY                         	3324.713041	3325.603041	Now youse can't leave. 
+660	SONNY                         	3348.369352	3351.999352	Look at me! Look at my face! Remember me! My name is Sonny. 
+661	SONNY                         	3352.325536	3354.215536	And I'm the one who did this to you. 
+662	SONNY                         	3355.715536	3357.095536	And never mistake kindness for weakness again. 
+663	SONNY                         	3367.702607	3373.553939	Good job, fellas. Rudy, give everybody drinks on me. And make me something to eat.
+664	RUDYTHEVOICE                  	3373.553939	3375.673939	How 'bout linguini with clams, Sonny – 
+665	SONNY                         	3387.24077	3396.429639	Listen now what I tell ya. This advice is you- know-who’s.
+666	SONNY                         	3396.429639	3403.419639	Love or fear – it's up to you, kid. But you live with what you choose
+667	SONNY                         	3404.658878	3409.448878	Nicky told me his secret. I owe the guy my whole career.
+668	SONNY                         	3411.203951	3415.473951	So now I think it’s up to you kid You gonna choose love
+669	SONNY                         	3416.783951	3425.963951	Or fear?
+670	SONNY                         	3427.545559	3428.055559	Think about it. 
+671	CALOGERO                      	3442.238889	3447.028889	Nobody messes with us. You hear me? This is our neighborhood. Now get outta here. 
+672	LORENZO                       	3453.221924	3462.601924	When did it happen? How did I lose you? Why did I stand there and let that man use you?
+673	LORENZO                       	3463.918089	3469.218089	I won't watch it happen– Son, I refuse to. 
+674	LORENZO                       	3479.02829	3482.87829	I was there on the morning you first saw the light.
+675	LORENZO                       	3485.966122	3490.256122	I carried you on my shoulders, tucked you in bed every night. 
+676	LORENZO                       	3492.12138	3498.590269	Taught you how to play ball, And watched you grow tall – I've still got it all inside.
+677	LORENZO                       	3499.244119	3504.934119	And no matter the cost, I won't let that be lost-
+678	LORENZO                       	3506.088026	3512.248026	Son, these streets won't take you away from me. 
+679	LORENZO                       	3513.382728	3519.28652367	No, these streets won't break up this family. 
+680	LORENZO                       	3519.28652367	3529.487466	No how, I won’t lose you now, Not to these streets 
+681	LORENZO                       	3529.487466	3533.7523355	Didn't I tell you hanging around Sonny shit happens. Come upstairs.
+682	CALOGERO_LORENZO              	3533.7523355	3535.207205	No.,What did you say? 
+683	CALOGERO                      	3536.308613	3539.838613	What was I gonna do, Dad? Run away - make them think I got no heart?
+684	LORENZO                       	3540.512464	3541.112464	No heart? 
+685	LORENZO                       	3541.965834	3545.565834	On these streets, you mean nothing. Trust me, they don't care.
+686	CALOGERO_LORENZO              	3545.746129	3548.346129	You don't know Sonny.,I know how he thinks.
+687	LORENZO                       	3548.974647	3553.594647	Mess up once, watch what happens—They'll leave you bleeding somewhere.
+688	CALOGERO                      	3553.512609	3554.992609	You're wrong – Sonny trusts me!
+689	LORENZO                       	3555.388739	3561.655849	There's no honor, no trust— They do what they must, They'll kill if it's justified.
+690	LORENZO_CALOGERO              	3561.986756	3566.126756	They'll make you a pawn in their war...,C'mon, Dad...
+691	LORENZO                       	3566.339811	3568.159811	You were meant for much more! 
+692	CALOGERO                      	3567.970051	3571.310051	Yeah? What was I meant for? 
+693	LORENZO                       	3572.232124	3578.552124	I don't want you to have to look over your shoulder all the time, or owe anybody anything. I want you to have a better life than that.
+694	CALOGERO                      	3579.002104	3584.772455	Like yours? We got no car. No money. We got nothing.
+695	LORENZO                       	3584.772455	3589.222455	You've gotta look to your heart, Calogero.
+696	CALOGERO                      	3588.959806	3591.619806	What am I gonna be? A bus driver like you?
+697	LORENZO                       	3592.004213	3593.764213	Don't you get trapped here, be smart!
+698	CALOGERO_LORENZO              	3593.911324	3596.271324	Sonny's right- , Calogero!
+699	CALOGERO                      	3597.312786	3598.842786	The working man is a sucker!
+700	LORENZO_CALOGERO              	3599.206953	3600.956953	Calogero!,He's a sucker!
+701	LORENZO                       	3601.337989	3608.177989	These streets, they’ll take you away from me. 
+702	LORENZO                       	3610.007989	3614.237989	'Cause these streets, they'll break you eventually.
+703	LORENZO                       	3617.352727	3621.942727	You'll lose. So wise up and choose... 
+704	LORENZO                       	3624.792727	3630.421417	Remember the promise you made- Calogero...
+705	LORENZO                       	3630.421417	3634.585762	Don't let your life be mislaid
+706	LORENZO                       	3635.495762	3648.475761	You promised me... Promised me! Look to your heart!
+707	WISEGUYS_SONNY                	3650.238887	3658.1756306	Roll 'em! Roll ‘ em!, Roll 'em, C...
+708	ROSINA_WISEGUYS               	3658.1756306	3658.523219	Lorenzo..., Roll 'em!
+709	LORENZO_DOOWOPGROUP           	3658.523219	3661.017015	Calogero!, Wah -dah...
+710	WISEGUYS                      	3661.017015	3663.797015	Roll 'em!
+711	SONNY_DOOWOPGROUP             	3661.612719	3665.7892735	Hey C, c'mon, I need ya to throw my dice., Wah -dah...
+712	ROSINA_WISEGUYS               	3665.7892735	3669.010828	Listen to me..., Roll 'em!
+713	LORENZO_DOOWOPGROUP           	3669.010828	3671.723328	Remember the promise you made..., Wah -dah...
+714	WISEGUYS_SONNY                	3671.723328	3673.38570775	Roll ‘ em!, Come on and come with me...
+715	DOOWOPGROUP_ROSINA            	3673.38570775	3674.555347	Wah -dah..., Lorenzo...
+716	WISEGUYS_LORENZO              	3671.436309	3674.8608735	Roll ‘ em!, Calogero!
+717	DOOWOPGROUP_WISEGUYS          	3674.8608735	3678.305438	Wah -dah..., Roll 'em!
+718	SONNY_LORENZO                 	3676.611938	3686.411938	C! C'mon I need ya., Son! Look to your...heart! 
+722	JANE                          	4629.241428	4629.271428	Woah 
+723	JANE_DENISE_FRIEDA&JESSE      	4629.271428	4640.012951	Oh oh oh... Oh oh oh , Bm bm bm Ah boh bm bm ah boh, Bo bo bo bo
+724	CALOGERO_DENISE_FRIEDA&JESSE  	4640.012951	4655.618365	Oh – this is a Bronx tale. You know the story— , Sha na na na na boh Sha na na na na boh, bo bo
+725	CALOGERO_DENISE_FRIEDA&JESSE  	4655.618365	4661.560679	I went with Sonny, And ran with his crew. , Sha na na na na boh Ooo la loo bo bo bo bo boh
+726	CALOGERO_DENISE_FRIEDA&JESSE  	4661.560679	4667.99477	But I couldn’t stop lookin‘ At you- know-who , Ooo ooo ooo ooo Ooo ooo ooo ooo Oo! Oo!
+727	CALOGERO_DENISE_FRIEDA&JESSE  	4667.99477	4680.205621	A few blocks down on Webster Avenue , Sha na na na na dhoh dhoh dhoh
+728	CALOGERO_DENISE_FRIEDA&JESSE  	4680.205621	4680.217621	That's where Jane lived. It was just a couple of bus stops away. , Sha na na na na Dhoh dhoh dhoh 
+729	CALOGERO_DENISE_FRIEDA&JESSE  	4680.217621	4682.993989	But it was a whole different world. , Ooo la loo... Dhoh dhoh ooo...
+730	JANE                          	4682.993989	4684.753989	One! Two! One…
+731	JANE_DENISE_FRIEDA_TYRONE&JESSE	4685.003989	4691.766118	Oo oo oop , Oo oo oop
+732	JANE_GROUP                    	4691.766118	4692.64377379	Sittin' on my stoop, Sittin' on my stoop
+733	JANE_DENISE_FRIEDA_TYRONE&JESSE	4692.64377379	4693.06096074	Oo oo oop , Oo oo oop
+734	JANE_GROUP                    	4693.06096074	4693.61721	Sittin' on my stoop, Sittin' on my stoop
+735	JANE_GROUP                    	4693.61721	4698.043209	Webster Avenue! Sittin' with my crew!, Oo oo oop Sittin' on my stoop
+736	JANE_                         	4698.043209	4702.624115	Gotta love the view! Webster Avenue! GROUP, Oo oo oop Sittin' on my stoop
+737	JANE_GROUP                    	4702.624115	4707.929744	Webster Avenue- ue - ue-ue-ue - ue-ue..., Ooo ooo ooo... 
+738	JANE_GROUP                    	4707.929744	4713.069744	Webster Avenue! Hangin' with my crew!, Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, Boys are singin'
+739	JANE_GROUP                    	4714.040095	4717.450095	Gotta love the view! Oh Webster Avenue, Yeah, yeah, streets are sighin‘ Yeah, yeah, girls strut by in a group, 
+740	GROUP                         	4718.919835	4720.329835	Oo oo oop...
+741	JANE_GROUP                    	4719.941427	4729.675203	Strut on by Got to love that Ooo ooo ooo..., Oo oo oop... Oo oo oop... Ooo ooo ooo...
+742	JANE                          	4729.675203	4730.595203	Webster Avenue 
+744	JANE_GROUP                    	4773.21851	4778.89886	Webster Avenue! Hangin' with my crew!, Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, Boys are singin'
+745	JANE_GROUP                    	4778.89886	4782.94886	Gotta love the view! Oh, Webster Avenue!, Yeah, yeah, streets are sighin‘ Yeah, yeah, girls strut by in a group
+746	GROUP                         	4783.7286	4786.4086	Yeah, yeah, Sidewalk's swingin‘ Yeah, yeah, streets are sighin‘
+747	JANE                          	4787.474785	4796.392079	Sittin' on my… 
+748	ALL                           	4796.392079	4800.815726	Stoop! 
+749	ALL                           	4800.815726	4803.775726	Sidewalk's swingin‘ Boys are singin 'Streets are sighin’
+750	JANE_FRIEDA&DENISE            	4805.084059	4807.321985	Girls strut by in a...
+751	ALL_TYRONE&JESSE              	4807.321985	4810.174485	Grou - ou - ou -p, Sittin' on my... 
+752	FRIEDA_JANE                   	4810.547354	4812.887354	Jane we need to talk.,About what?
+753	DENISE                        	4813.15115	4816.48115	About you walkin' around thinkin' about someone you shouldn't be thinkin' about. 
+754	JANE                          	4817.167335	4817.967335	We just talked.
+755	DENISE_JANE                   	4818.359908	4821.379908	Oh, really? Remember Felicia, from down the block? ,What about her?
+756	DENISE_FRIEDA                 	4821.725297	4822.735297	She just talked. ,With a guinea.
+757	DENISE                        	4823.109648	4825.049648	When her boyfriend found out, she woke up in the hospital. 
+758	FRIEDA_JANE                   	4825.495592	4827.395592	So you better cool it.,I did...kind of. 
+759	DENISE_JANE                   	4830.486313	4833.476313	What do you mean, kind of?,I might have mentioned that I work here.
+760	FRIEDA_DENISE                 	4833.887776	4835.607776	Are you insane? ,You want him to show up.
+761	JANE                          	4835.977831	4836.703535	Maybe I do.
+762	FRIEDA                        	4836.703535	4839.713535	And then what? You gonna take him over to Webster Ave to hang out at the club? 
+763	DENISE_FRIEDA                 	4840.096469	4842.177571	Why look who's here.,Whatta surprise.
+764	CALOGERO_DENISE               	4847.35019	4850.415708	I was in the neighborhood-,Jane - you’re on your own.
+765	FRIEDA                        	4852.821217	4863.113641	You better do what’s right. Turn yourself around and walk your ass right outta here. 
+766	CALOGERO_JANE                 	4863.113641	4865.073641	She's right. I shouldn't be here.,You really shouldn't.
+767	CALOGERO                      	4865.464001	4866.939334	But I can't stop thinking about you.
+768	JANE                          	4866.939334	4867.939334	I've been thinking about you, too.
+769	CALOGERO_JANE                 	4868.187797	4869.847797	You know this is crazy and it's never gonna work.,Never.
+770	CALOGERO_JANE                 	4870.298343	4872.123491	And you know this is only gonna lead to trouble.,I know.
+771	CALOGERO_JANE                 	4872.123491	4875.7870415	So whatta we do?,I guess we'll have to go to the movies.
+772	CALOGER                       	4875.7870415	4878.220592	I guess so. 
+773	JANE_CALOGERO                 	4880.873035	4884.058118	Hey, can I ask you something? ,Sure, anything.
+774	JANE_CALOGERO                 	4884.058118	4888.024303	Why do you always wear that hat? ,You don't like it?
+775	JANE_CALOGERO                 	4888.024303	4890.346877	It's just...funny.,Every guy in my neighborhood wears a hat like this. 
+776	JANE                          	4890.893006	4892.263006	Yeah, that's why it’s funny. 
+777	JANE                          	4894.353006	4895.603006	Here, try it like this. 
+778	CALOGERO_JANE                 	4898.699977	4899.359977	No hat?,No hat.
+779	CALOGERO                      	4901.094939	4901.394939	How do I look?
+780	JANE                          	4902.120948	4904.080948	Like you're different from every guy in your neighborhood.
+781	JANE_CALOGERO                 	4905.292596	4909.692596	And now I can see your eyes. They're very nice.,Thanks. So are yours. 
+782	CALOGERO                      	4914.407048	4917.227048	But hey, don't knock my neighborhood! I love my neighborhood!
+783	JANE                          	4917.737529	4921.566167	I love mine, too! The rumble of the el train... the smell of home cookin'...
+784	CALOGERO                      	4921.566167	4923.145426	Sounds like a great place to grow up in.
+785	JANE                          	4923.145426	4925.445426	Yeah, it'll also be a great place to get out of. Know what I'm sayin'?
+786	CALOGERO                      	4928.185656	4930.965656	Maybe you'll show me around when I come pick you up.
+787	JANE                          	4931.198285	4934.772201	Are you crazy? You can't come to Webster. Why don't I come to you?
+788	CALOGERO                      	4934.772201	4936.502201	To Belmont? Are you crazy?
+789	JANE_CALOGERO                 	4938.697895	4941.567895	How bout school? It’ll be late and everybody'll be gone. ,Okay.
+790	JANE                          	4946.750755	4947.660755	Are you sure we should do this?
+791	CALOGERO                      	4949.126208	4951.866208	No. But I want to. 
+792	JANE                          	4960.273169	4968.203169	I guess I'm out of my head' Cause I'm dying to see where this goes.
+793	JANE                          	4968.927315	4974.207315	Can't fight it— Maybe it's wrong, but the feeling's so strong. 
+794	JANE                          	4975.231407	4981.661407	Things like this can't happen, but hey, who knows?
+795	JANE                          	4982.117276	4986.827276	Things like us can't happen, but hey, who knows 
+796	CALOGERO                      	4992.659024	4995.039024	Sonny, Sonny, I gotta talk to you – it's important.
+797	SONNY_CALOGERO                	4995.714782	4997.484782	What's the matter, you need some money?,No, no, it's not that. 
+798	SONNY                         	4998.888208	5000.8463	Somebody bothering you? You want me to straighten somebody out?
+799	CALOGERO                      	5000.8463	5003.3363	No I just need to talk to you. 
+800	SONNY                         	5004.901503	5007.791503	Eddie, Tony, give us a minute…
+801	SONNY_CALOGERO                	5013.791503	5015.471168	So, what is it?,I met a girl.
+802	SONNY                         	5015.471168	5020.981168	Ho! Lemme hear! Lemme hear!
+803	CALOGERO_SONNY                	5023.09924	5030.36924	C'mon, Sonny, don’t laugh. I met this girl – ,HO!
+804	CALOGERO                      	5036.787052	5038.617052	Sonny! I really like her. But she's... 
+805	SONNY                         	5042.196792	5047.180458	What? Just say it!
+806	CALOGERO                      	5047.180458	5047.750458	She's black.
+807	SONNY                         	5055.626567	5056.956567	Okay. So.
+808	CALOGERO                      	5057.728586	5061.148586	So - if the guys find out it's gonna be bad.
+809	SONNY                         	5062.234585	5067.154585	Look C, this neighborhood's got one big personality. 
+810	SONNY                         	5068.524585	5074.704584	All these heads they mesh together into like one brain. And not a very smart one. 
+811	SONNY                         	5075.96436	5082.46436	Like a minus four sometimes. What do I always tell you? You gotta do what your heart tells you to do
+812	SONNY                         	5083.956729	5088.956729	because you go against your heart, you’re automatically wrong. Listen... 
+813	SONNY                         	5089.940024	5093.730024	There's a kind of a girl Who can send your heart whirling away.
+814	CALOGERO_SONNY                	5096.00743	5102.308837	I know., But those are the kind You don't happen to find every day.
+815	SONNY                         	5103.791762	5110.228928	You'll meet smart ones and tough ones, Just-good-enough ones— They're fine, kid, Go out there, Enjoy.
+816	SONNY                         	5110.858928	5116.584742	But in all of your life You get only three shots at the real McCoy. 
+817	SONNY                         	5117.848408	5123.108408	And this one could be One of the great ones.
+818	SONNY                         	5125.307036	5130.767036	This one could be One of the ones you won't forget.
+819	SONNY                         	5132.027036	5137.711182	If the stars in her eyes Make your confidence rise Like a rocket that’s ready to blow,
+820	SONNY                         	5138.686015	5143.356015	Then she might be One of your great ones— Don't let her go. 
+821	SONNY_CALOGERO                	5144.281458	5146.881458	Because three, C. Three. ,What? 
+822	SONNY                         	5147.723902	5150.443902	You're only allowed three great women in your lifetime.
+823	SONNY                         	5151.330272	5157.330272	That's all you get. They come along like the great fighters. Once every ten years.
+824	SONNY                         	5157.678474	5161.868474	Rocky Marciano, Sugar Ray Robinson, Joe Lewis. 
+825	SONNY                         	5162.588474	5166.728474	Sometimes you get them all at once. I had my three when I was sixteen. Hey, that happens.
+826	CALOGERO_SONNY                	5169.034268	5176.414268	Come on Sonny, don't joke. You never had a great one?,Almost. Once.
+827	SONNY                         	5177.804304	5182.704304	Now you know instantly When one of your three comes along.
+828	CALOGERO                      	5183.787599	5184.187599	How?
+829	SONNY                         	5184.814284	5190.724284	'Cause she gazes at you, And it's like you can do nothing wrong.
+830	SONNY                         	5192.028005	5198.108115	All the sweet ones, The slight ones, The close-but-not -quite ones- With them you just get what you see.
+831	SONNY                         	5199.128115	5205.698115	But the great ones, kid, What they’re showin' you is The man you could be.
+832	SONNY                         	5206.245446	5211.355446	And this girl could be one of the great ones.
+833	SONNY                         	5213.458186	5219.018186	This one could be One of the ones on who you bet. 
+834	SONNY                         	5220.108186	5226.256258	Do you fly off the rails With the wind in your sails Whenever she sends you a glance?
+835	SONNY                         	5226.878146	5231.768146	Then she might be one of your great ones— Don't blow your chance. 
+836	SONNY_CALOGERO                	5233.252238	5239.772238	This girl–is she a good kid? Can you trust her?,I think so. I just met her. 
+837	CALOGERO                      	5240.301051	5242.771051	I'm picking her up at school and taking her to the movies tonight.
+838	SONNY_CALOGERO                	5243.260736	5245.490736	Then you give her the test.,The Mario test? 
+839	SONNY                         	5248.834216	5258.984216	Mario? That guy's a nut job. He's on a weekend pass. You give her the Sonny test.
+840	SONNY                         	5259.652344	5265.996435	It's fool proof. Here’s what you do. I'm gonna lend you my car—
+841	CALOGERO_SONNY                	5265.996435	5268.464713	But you never lend anybody your car.,Never mind that, 
+842	SONNY                         	5270.364713	5277.704713	you drive up to school, you get out of the car, you lock both doors. 
+843	SONNY                         	5278.834713	5288.292951	Then you take the keys from your right hand, throw them up in the air, catch them in your left hand, shake 'em like this– 
+844	SONNY                         	5288.592951	5300.093021	Women, they like that, I don't know why, but they like that. 
+845	SONNY                         	5300.093021	5305.033021	You walk up to her nice and cool, and you give her the arm. 
+846	SONNY                         	5306.226317	5317.506317	She puts her arm through yours. You walk her back to the car. Then you open the door for her. Then you let her get in. 
+847	SONNY                         	5319.743147	5327.633147	Then you close the door for her. Then you walk around the back of the car, and you look through the rear window. 
+848	SONNY                         	5329.353794	5334.883794	If she don't reach over and lift up that button for you so you can get in... you dump her.
+849	CALOGERO_SONNY                	5341.364495	5343.656328	What?,Listen to me!
+850	SONNY                         	5343.656328	5350.446328	If she don't reach over and lift up that button for you, then she’s a selfish broad and all you're seeing is the tip of the iceberg.
+851	SONNY_CALOGERO                	5357.596103	5361.913084	You dump her and you dump her fast.,But what if she opens it?
+852	SONNY                         	5361.913084	5367.223084	Then this one could be One of the great ones
+853	SONNY                         	5368.655027	5371.335027	Yeah this one could be
+854	SONNY                         	5371.995027	5374.605027	One of the ones you won't regret
+855	SONNY                         	5375.580896	5381.850896	If she's smiling at you Like she knows you'll come through And makes you believe it somehow
+856	SONNY                         	5382.470876	5388.021172	Then, kid, you found One of those great ones Go to her now
+857	SONNY                         	5389.501172	5394.611172	Go to her now Kid, Go to her now
+858	CALOGERO                      	5397.921873	5400.031873	Alright Sonny, I'm gonna go for it!
+859	SONNY                         	5401.940206	5407.670206	Yeah this one could be one of those great ones.
+860	SONNY                         	5409.800427	5416.080427	This one could be One of the ones you won't regret 
+861	SONNY                         	5419.015369	5425.125369	Let your three slip away, And you’ll wonder one day,
+862	SONNY                         	5426.02909	5435.90909	If maybe...If only... But, oh! 
+863	SONNY                         	5439.17218	5443.62218	You don't forget one of the great ones,
+864	SONNY                         	5446.894735	5457.284735	Trust me...I know. Trust me, I know. 
+866	JESSE_TYRONE                  	5473.662693	5475.882693	Whoa, whoa, whoa! I’m not going through Belmont.,Don't worry about it.
+867	JESSE                         	5476.865136	5478.626821	Let's just walk around the other way. 
+868	TYRONE                        	5478.626821	5480.798506	No-no dago is gonna tell me where to walk. 
+869	TYRONE                        	5481.599969	5484.189969	You think I'm scared of some Knuckle-draggers? Brother, please!
+870	TYRONE                        	5486.116949	5488.986949	These wops ain’t no better than I.
+871	JESSE                         	5489.755282	5493.295282	They are dumber than a lumpa mozzarella cheese—
+872	JESSE                         	5493.730485	5496.250485	And greasy as a pizza pie
+873	TYRONE_JESSE                  	5497.232929	5500.793965	Ah they mama smells like garlic—, And they daddy's alcoholic—
+874	BOTH                          	5501.127641	5503.607641	And they sister’s got a fat mustache.
+875	JESSE_TYRONE                  	5505.244807	5506.464807	They talk tough--, But it's baloney—
+876	JESSE                         	5506.925047	5508.365047	'Cause they soft as macaroni—
+877	BOTH_JESSE                    	5508.758232	5512.438528	Just punk-ass immigrant trash., Oh...
+878	BOTH_TYRONE                   	5512.438528	5515.598528	And that's the truth!, You know it, ev'ry word is true
+879	BOTH_JESSE                    	5516.147351	5519.367351	And that's the truth!, Ain't scared what some dumb wops'll do.
+880	TYRONE                        	5520.204517	5523.724517	No way that I'll surrender To some jive spaghetti-bender.
+881	JESSE                         	5523.954322	5527.614322	The dagos want some action, We'll put all of ‘em in traction.
+882	BOTH                          	5527.909034	5529.999034	Them guinea sons-a-bitches Gonna need a dozen stitches. And that's the truth. 
+883	SLICK                         	5535.039811	5536.759811	You spooks just don't listen, huh?
+884	NICKY                         	5538.277347	5539.787347	Hey, look who's back!
+885	CRAZYMARIO                    	5540.367402	5541.237402	Maybe we should teach 'em a lesson.
+886	NICKY                         	5541.574883	5546.3560925	Guys guys let me talk to 'em. Listen fellas – 
+887	CRAZYMARIO_CALOGERO           	5546.3560925	5558.21214	Come on, C! Come on!,No!
+888	CALOGERO                      	5558.21214	5558.44214	That's enough!
+889	SLICK_CALOGERO                	5560.590287	5562.536972	What the hell’s wrong with you?,You're gonna kill him!
+890	SLICK_CALOGERO                	5562.536972	5566.399657	I want to! ,That's enough!
+892	CALOGERO                      	5566.399657	5567.569657	Come on, Slick. The cops.
+893	CALOGERO                      	5568.407749	5568.847749	Get outta here!
+894	CALOGERO                      	5572.490989	5573.040989	Get outta here! 
+895	LORENZO_ROSINA                	5581.799672	5584.539672	What's goin' on out there?,I dunno. Something ain't right.
+896	LORENZO_CALOGERO              	5586.225671	5589.175671	Whoa whoa whoa who is this who just walked in?,Not now, Dad.
+897	LORENZO_ROSINA                	5589.725171	5592.135171	Rosina, doesn't that look like our son?,Stop.
+898	LORENZO                       	5592.536818	5597.63754	No really is that Calogero? 'Cause if it is him, I just wanna know. Does he ever have dinner with us anymore?
+899	ROSINA                        	5597.63754	5598.806984	Come on he’s with his friends.
+900	LORENZO                       	5598.806984	5602.006984	Yeah friends. Which friends? He should have dinner with us!
+901	ROSINA                        	5602.249428	5603.999428	Why - You were any different at his age?
+902	LORENZO                       	5604.450464	5607.980464	Oh my god, it is you! Sit down - eat with us!
+903	CALOGERO_LORENZO              	5608.191741	5610.330815	I'm in a rush.,Where you goin'?
+904	CALOGERO                      	5610.330815	5610.790815	I got a date.
+905	ROSINA_CALOGERO               	5611.060444	5612.660444	Is she from the neighborhood?,No.
+906	LORENZO_CALOGERO              	5612.986574	5613.986574	Is she Italian?,No.
+907	LORENZO_CALOGERO              	5614.584851	5616.404481	What's with the secrets?,What's with the questions?
+908	CALOGERO                      	5619.054481	5620.514481	She’s a nice girl, what do you want me to say?
+909	LORENZO                       	5620.855017	5621.785017	Where's she from?
+910	CALOGERO                      	5623.764701	5624.364701	Webster Avenue. 
+911	CALOGERO                      	5628.395608	5633.577311	Is there a problem with that? Cause I don't think so. There's good and bad in every kind. That’s what you told me right?
+912	LORENZO                       	5633.577311	5637.307311	I know what I said but going out with a colored is wrong. Now, I’m not prejudiced – 
+913	CALOGERO                      	5637.850365	5644.624271	Dad, don't say you’re not prejudiced, 'cause you say something like that, you are. Because it's me now, that's why you feel different?
+914	LORENZO                       	5644.624271	5646.434271	That's right. I don’t want you to have go through that bullshit.
+915	CALOGERO                      	5646.878252	5650.118252	Maybe I want to. Besides this girl could be one of my great ones.
+916	LORENZO_CALOGERO              	5655.388473	5659.292695	Great ones? Did your friend Sonny tell you that?,So what if he did.
+917	LORENZO_CALOGERO              	5659.292695	5660.682695	I know what’s best for you.,Maybe he does.
+918	LORENZO_ROSINA                	5660.975879	5663.875879	HE'S NOT YOUR FATHER, I AM!,Lorenzo, please.
+919	LORENZO                       	5667.205063	5668.085063	I'm going for a walk.
+920	LORENZO                       	5673.791118	5674.321118	I'm done with you.
+921	ROSINA_CALOGERO               	5677.368469	5679.018469	What the hell is wrong with you?,What?
+922	ROSINA                        	5680.358154	5687.118154	Your father puts up with shit all day long on the bus, he doesn't need to come home and get it from you. Why do you hurt him like that?
+923	CALOGERO                      	5687.556967	5689.477022	Everything I say he has a problem with, Ma.
+924	ROSINA                        	5689.477022	5693.707022	I'll tell you what the problem is. You look at him and all you see is someone you don't want to be.
+925	CALOGERO                      	5694.015966	5696.055966	You're right - I don’t wanna be a bus driver.
+926	ROSINA                        	5697.212521	5700.686928	You don't get it. He doesn't want that for you.
+927	ROSINA                        	5700.686928	5702.626928	What does he always tell you? The saddest thing in life—
+928	CALOGERO                      	5703.243853	5703.723853	I know...I know... wasted talent.
+929	CALOGERO                      	5705.069001	5709.379001	I heard it a thousand times. Why does he keep telling me that? Why? 
+930	ROSINA                        	5710.896407	5714.726407	Picture him at seventeen- Go on, try. 
+931	ROSINA                        	5716.486407	5720.946407	Looks that could rival James Dean. Girls would cry.
+932	ROSINA                        	5721.832387	5731.592386	Played sax, great dancer, and what a romancer! But I saw something more there from the start—
+933	ROSINA                        	5732.775422	5737.175422	That boy had heart. God, he had heart.
+934	CALOGERO                      	5737.538291	5741.118291	Dad played the saxophone? Really?
+935	ROSINA                        	5742.395272	5745.665272	Think that he didn't think big? Sure he did.
+936	ROSINA                        	5747.855272	5751.683344	Dragging that horn to each gig. Bright-eyed kid.
+937	ROSINA                        	5751.683344	5757.703344	That dream, he chased it. So close he could taste it.
+938	ROSINA                        	5759.835342	5769.375342	And ev'ry note he played, a work of art. Straight from his heart. Boy, he had heart.
+939	ROSINA                        	5773.633951	5776.823951	Ask me what happened? Well really, it wasn't dramatic.
+940	ROSINA                        	5779.16645	5783.08645	You came along and were kind of a sort of surprise.
+941	ROSINA                        	5785.02645	5789.575744	Somehow the sax ended up in a box in the attic.
+942	ROSINA                        	5789.575744	5795.095744	I'll tell you the reason. One look in your eyes.
+943	ROSINA                        	5796.438669	5800.228669	Each day he gets on that bus. No one cheers. 
+944	ROSINA                        	5801.870186	5806.570186	Know why he does it? For us. All these years.
+945	ROSINA                        	5807.493667	5812.743667	Sure, he's tough. You can't budge him. But don't you dare judge him.
+946	ROSINA                        	5814.041684	5826.761684	Unless you judge him by his greatest part: Look to his heart. Then look to your heart.
+947	CALOGERO_ROSINA               	5830.393292	5837.108162	I'm sorry Ma.,Don't tell me, tell him.
+948	CALOGERO                      	5837.108162	5840.323032	Okay…Mom, I really like this girl. 
+949	ROSINA                        	5842.635771	5845.035771	Then have a good time. Just be careful. 
+950	CALOGERO                      	5848.671029	5853.211029	This one could be One of the great ones.
+951	CALOGERO                      	5855.883769	5860.943769	This one could be one of the ones I won't forget...
+952	CALOGERO                      	5862.440805	5866.230805	When I see her tonight, there Won't be black or white,
+953	CALOGERO                      	5866.762878	5868.642878	There's gonna be no one but her.
+954	CALOGERO                      	5869.243729	5872.323729	And if she is One of my great ones—
+955	JANE                          	5872.977154	5874.46382067	Where were you this afternoon?
+956	CALOGERO_JANE                 	5874.46382067	5877.13919133	What? What do you mean?,My brother got beat up in your neighborhood.
+957	CALOGERO_JANE                 	5877.13919133	5879.744005	What are you talking about?,Some Italian guys just beat up my brother. 
+958	CALOGERO                      	5879.744005	5880.784005	So, what's that have to do with me?
+959	JANE_CALOGERO                 	5881.128357	5885.471411	You were there. ,Just calm down. Let me tell you what happened.
+960	JANE                          	5885.471411	5885.971411	Tell my brother. 
+961	CALOGERO_TYRONE               	5887.931281	5889.931281	This is your brother!,He's the one.
+962	CALOGERO_TYRONE               	5890.295262	5891.585262	Hey, wait a minute.,You hurt me.
+963	CALOGERO_JANE                 	5892.111392	5894.739484	Hey, don't you tell her that...,Are you sure it was him?
+964	TYRONE_CALOGERO               	5894.739484	5895.519484	It was him, I saw him.,He's lying, Jane.
+965	TYRONE_CALOGERO               	5895.787761	5898.087761	Jane, listen to me-,I was trying to help him, I didn't touch him! 
+966	TYRONE_CALOGERO               	5898.636464	5899.886464	I'm tellin' you it was him!,It wasn't me!
+967	TYRONE                        	5900.234742	5901.384742	So how did my eye get like this? 
+968	CALOGERO                      	5901.571732	5902.461732	You know I didn’t do anything!
+969	TYRONE_CALOGERO               	5902.652649	5904.752704	You don't go near my sister! ,Don't tell me what to do!
+970	TYRONE_CALOGERO               	5904.752704	5907.022704	Keep your greasy guinea hands off her. ,You fuckin' nig—
+971	JANE_TYRONE                   	5910.368147	5911.948147	Calogero...?,What did I tell you?
+972	TYRONE                        	5912.862128	5918.202128	He's just like all the rest! You can't trust him.
+973	JANE                          	5918.544442	5919.654442	I thought you were different.
+974	CALOGERO_TYRONE               	5920.404683	5924.624683	Jane—, He's just like all the rest!
+975	TYRONE                        	5924.937552	5930.087552	Yeah, he's just like all the rest! You can't trust him.
+976	TYRONE                        	5930.693977	5931.363977	Let’s go.
+977	CALOGERO                      	5936.093531	5939.533531	Feel that pain inside you, Burning hot and white?
+978	CALOGERO                      	5939.854808	5943.744808	You wanna make it stop? Go hurt someone.
+979	CALOGERO                      	5944.794808	5948.230678	All that shame and anger, Bottled up real tight.
+980	CALOGERO                      	5948.240678	5951.410678	You gotta let it pop, And hurt someone.
+981	SONNY                         	5951.903362	5954.413362	Hey C! Why you back so fast?
+982	CALOGERO                      	5954.447343	5957.557343	Here's your keys, Sonny. Thanks for the car but it just didn't work out, okay?
+983	SONNY_CALOGERO                	5958.009601	5960.364564	Whaddya mean?,Listen, I can’t talk right now.
+984	SONNY                         	5960.364564	5962.70789733	Alright well, we’re going to the track, come on let's go.
+985	CALOGERO                      	5962.70789733	5964.194564	Leave me alone. I gotta go.
+986	SONNY_CALOGERO                	5964.534674	5966.314674	What the hell’s the matter with you?,I can't talk. I just gotta go!
+987	SONNY                         	5967.107489	5968.257489	What the hell happened to him? 
+988	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	5970.017173	5975.077173	It's like a fist within you, Can't you feel it pound?
+989	NICKY_MARIO_SLICK&DOOWOPGROUP 	5974.626117	5977.786117	Pounding like a hammer!
+990	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	5976.12145	5977.19145	Feel it pound?
+991	NICKY_MARIO_SLICK&DOOWOPGROUP 	5976.921079	5978.281079	Pounding like a hammer!
+992	CALOGERO_TYRONE_JESSE&DOOWOPGROUP	5978.816227	5984.596227	It's gonna rip you up unless you let it out, And spread it 'round.
+993	ALLMEN                        	5984.963448	5987.293448	Don't you wanna hurt somebody now? 
+994	CRAZYMARIO                    	5988.458836	5991.45754	C, we been lookin' all over the neighborhood for you. Where you been?
+995	CALOGERO                      	5991.45754	5991.92754	What's goin' on?
+996	SLICK_CRAZYMARIO              	5991.90128	5995.49128	Those moulinyams trashed my car!,They're gonna pay, big time.
+997	NICKY_SLICK                   	5996.269428	5999.59439	Things have gotten crazy, Things are out of hand.
+998	CRAZYMARIO                    	5999.974631	6001.694631	And where the hell you been?
+999	CALOGERO                      	6001.775852	6004.788481	I've been out. But I’m here now. What do you wanna do?
+1000	NICKY&SLICK                   	6004.788481	6008.268481	Time to send a message Those moulis understand
+1001	CRAZYMARIO                    	6008.58074	6010.78074	So can we count you in?
+1002	CALOGERO                      	6011.244536	6012.644536	Yes! Count me in!
+1003	NICKY_SLICK&CRAZYMARIO        	6012.965758	6019.072738	We got a neighborhood and people to protect—, C, they got it coming.
+1004	NICKY_SLICK&CRAZYMARIO        	6018.754145	6019.164145	Less you object?, Man, they got it coming
+1005	NICKY                         	6021.489904	6026.029904	And there’s a debt outstanding, Why not go collect?
+1006	NICKY_SLICK&MARIO             	6026.918477	6029.848477	Let's teach 'em some respect! 
+1007	CHORUS_NICKY_SLICK&MARIO      	6030.360921	6033.408292	Feel that rage inside you, Gettin' set to blow?, We're gonna hurt someone!
+1008	CRAZYMARIO                    	6033.33355	6035.47355	Yeah, I wanna hurt someone!
+1009	CHORUS                        	6034.644957	6037.984957	Wouldn't it feel better if you simply let it go?
+1010	SLICK_CHORUS                  	6038.598197	6042.335068	It's time to hurt someone!, Give in to the feeling, let it burst on through—
+1011	CRAZYMARIO_CALOGERO           	6042.696345	6043.836345	An' how bout you?,Me?
+1012	SLICK&CRAZYMARIO              	6044.070696	6044.860696	Yeah, you—
+1013	SLICK_MARIO&NICKY             	6045.094252	6047.544252	Don't you wanna hurt somebody too?
+1014	TONYTENTOTWO                  	6047.963936	6049.163936	Hey, C. Come with us.
+1015	CALOGERO_TONYTENTOTWO         	6049.316325	6052.686325	Not now.,I said now! Sonny wants you. Let's go.
+1016	TYRONE                        	6053.660361	6057.390361	You still moonin’ round about that greasy little wop?
+1017	TYRONE_WOMEN&JESSE            	6057.635564	6059.19286	I told you what he did—, You can't trust him.
+1018	TYRONE_WOMEN&JESSE            	6059.19286	6060.79286	And you heard what he said. , You can't trust him.
+1019	JANE                          	6060.490341	6063.170341	But he's not like all the rest...
+1020	TYRONE                        	6062.900211	6066.040211	Even though he tried to get the other ones to stop—
+1021	JANE_FRIEDA&DENISE            	6066.282655	6066.482655	What??
+1022	TYRONE                        	6066.865414	6070.215414	I'm in the mood to go hurt someone, And he's the one— 
+1023	JANE_TYRONE                   	6070.380802	6072.694784	Wait - he tried to get them to stop?,So what if he did?
+1024	JANE_TYRONE                   	6072.694784	6075.104784	But you told me he beat you up. ,What's the difference?
+1025	JANE                          	6075.430542	6076.110542	It makes all the difference! 
+1026	TYRONE_JANE                   	6076.414098	6078.104098	Where you goin’?,I gotta go find him.
+1027	TONYTENTOTWO                  	6079.630653	6080.760653	Tell us the truth!
+1028	SONNY                         	6081.576782	6083.882726	After you picked up my car, where did you go?
+1029	CALOGERO_SONNY                	6083.882726	6087.142726	I went to pick up Jane. Why?,Jane. Was there really a Jane?
+1030	CALOGERO_SONNY                	6087.71204	6092.314799	What do you mean?,After you dropped off my car and ran away, we stopped to get some gas. 
+1031	SONNY                         	6092.920613	6097.820613	The guy pops the hood to check the oil there was a device on my engine kid. A device. 
+1032	SONNY                         	6098.12526	6100.680223	It didn't blow because it was put together by an amateur.
+1033	SONNY                         	6100.680223	6102.450908	So you tell me the truth! Where did you go with my car?
+1034	CALOGERO                      	6102.450908	6103.343408	I went to go pick up Jane!
+1035	SONNY_CALOGERO                	6103.195	6105.325	Don't lie to me! Tell me the truth! ,I'm telling the truth!
+1036	SONNY                         	6105.378981	6106.148981	Stop lying! 
+1037	SONNY                         	6106.391555	6107.160759	How did it get on my car!
+1038	CALOGERO                      	6106.822351	6112.912351	What are you trying to say. You don't trust me? You think I would hurt you? You been like a father to me!
+1039	SONNY_CALOGERO                	6114.681776	6115.991776	I'm not your father!,Fuck you Sonny.
+1040	JANE                          	6120.239367	6122.969367	Calogero! Calogero!
+1041	BYSTANDER1                    	6123.832792	6124.842792	What the hell is she doin' here?
+1042	BYSTANDER2                    	6125.132051	6127.132051	Makin' trouble like they all do.
+1043	JANE                          	6127.713884	6132.183884	Knew he wasn’t like that, Despite those things he said...
+1044	CHORUS                        	6132.320069	6135.930069	She's gonna hurt someone...
+1045	JANE                          	6136.395086	6138.200234	Gotta somehow tell him
+1046	JANE                          	6138.200234	6139.640234	I know the truth instead...
+1047	CHORUS                        	6140.950289	6144.020289	She's gonna hurt someone...
+1048	JANE                          	6144.2704	6148.2104	We shoulda known, with things the way they are,
+1049	JANE                          	6148.2104	6152.0404	We shoulda never let things get this far
+1050	JANE                          	6152.756694	6158.326694	I gotta find him now, And try to make things right—
+1051	JANE                          	6159.656694	6163.89661867	Or someone's gonna hurt someone tonight.
+1052	NICKY_CRAZYMARIO              	6163.89661867	6167.70647	C!, We tried to find you!
+1053	NICKY                         	6167.842784	6168.552784	Let's go!
+1054	SLICK_CALOGERO                	6168.540451	6170.490451	Guess what's goin' down?,What's that smell?
+1055	CRAZYMARIO_NICKY              	6170.744432	6174.86256067	We're gonna serve some cocktails To the colored side of town, Check 'em out, C!
+1056	SLICK_CRAZYMARIO              	6174.86256067	6176.471598	Here—, Got somethin' for ya.
+1057	SLICK_CRAZYMARIO&NICKY        	6176.487912	6178.247912	Take this., Might need it, never know.
+1058	CALOGERO_SLICK                	6178.590912	6180.480912	Holy shit..., Those spooks have gotta go.
+1059	CRAZYMARIO                    	6181.213726	6183.30705933	Let's give 'em an Italian-style hello
+1060	CHORUS                        	6183.30705933	6184.343726	Hurt someone!
+1061	CHORUS_SLICK_MARIO_NICKY&DOOWOP	6183.694577	6183.94124367	So mad,, Things have gotten crazy
+1062	CHORUS_SLICK_MARIO_NICKY&DOOWOP	6183.94124367	6186.787206	It'll feel so good to hurt somebody bad. , Things have gotten out of hand.
+1063	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	6186.787206	6189.63053933	Time to speak the language, They’re just like all the rest,
+1064	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	6189.63053933	6191.157206	That those moulis understand., You can't trust 'em.
+1065	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	6192.445965	6192.915965	Shoulda kept their distance,, It'll feel so good
+1066	SLICK_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	6192.915965	6196.23126557	Now let's make 'em wish they had., To hurt somebody bad!
+1067	SLICK_MARIO_NICKY&DOOWOPGROUP 	6196.23126557	6201.042149	So mad! It'll feel so good to hurt somebody bad. 
+1068	CALOGERO                      	6204.972981	6208.322981	How the hell'd I get here? How did all this start?
+1069	CHORUS                        	6209.040147	6213.180147	You're gonna hurt someone. You're gonna hurt someone.
+1070	CALOGERO                      	6213.406146	6217.006146	There's no goin’ back now- They'd say I got no heart.
+1071	CHORUS                        	6217.463312	6221.463312	You're gonna hurt someone. You're gonna hurt someone. 
+1072	CALOGERO                      	6221.274589	6229.174589	Somehow I lost my way and lost my mind Until I left my one way out behind
+1073	CALOGERO                      	6229.798735	6234.688735	And I've been running scared and running blind, But now I see
+1074	CALOGERO                      	6236.60166	6237.72166	Wanted to hurt someone,  
+1075	CALOGERO_CHORUS               	6237.954049	6239.639049	But all I hurt was me., You're gonna hurt someone.
+1076	CALOGERO_CHORUS               	6239.639049	6241.85071567	All I hurt was me., You're gonna hurt someone.
+1077	CALOGERO_CHORUS               	6241.85071567	6244.104049	All I hurt was me., You're gonna hurt someone.
+1079	SONNY_CALOGERO                	6252.99425	6254.65425	Hey, hey, hey! C, get out of the car. ,Sonny!
+1080	SONNY_SLICK                   	6255.134305	6256.684305	Get out of the car! ,He's with us.
+1081	SONNY                         	6256.896508	6260.616804	Mind your business, Slick! Get out of the car! 
+1082	CALOGERO_SONNY                	6260.616804	6261.95447	Sonny don’t embarrass me–,Shut up!
+1083	SONNY                         	6263.740414	6270.020414	Now you punks stay away from my boy. You pull this shit you leave him out of it or next time you're all dead. 
+1084	SONNY                         	6271.884746	6274.474746	You been warned. Now get the fuck outta here! 
+1085	SONNY                         	6281.558337	6284.998337	What the hell is wrong with you? Those guys are gonna get you killed.
+1086	CALOGERO                      	6285.409614	6286.969614	They're my friends. They told me not to worry.
+1087	SONNY                         	6287.254762	6290.004762	Friends like that tell you not to worry, that's the time to start worrying, kid.
+1088	CALOGERO                      	6290.725242	6298.545242	Why, you care? You were ready to kill me before. You ever think maybe the bomb was already in the car when I picked it up?
+1089	CALOGERO                      	6298.770556	6303.880556	That I coulda got killed? I started the car before you Sonny. You ever think of that?
+1090	SONNY                         	6304.24011	6306.41011	It's always a friend who does the deed.
+1091	CALOGERO                      	6307.171758	6309.621758	What? Don't you trust anybody?
+1092	SONNY                         	6311.491868	6314.311868	No. I can't. 
+1093	CALOGERO                      	6316.155719	6317.376145	That's a sad way to live Sonny.
+1094	SONNY_CALOGERO                	6317.376145	6319.046145	For me it's the only way. ,Well, not for me.
+1095	SONNY_CALOGERO                	6320.401904	6329.211904	That's right. This life ain’t for you. People die. Remember? ,Yeah I remember.
+1096	SONNY                         	6331.346902	6336.520207	You're better than this. Do something with your life. You hear me? 
+1097	CALOGERO                      	6336.520207	6337.993512	Yeah.
+1098	SONNY_CALOGERO                	6337.993512	6338.843512	Now go home, C.,Alright.
+1099	SONNY                         	6340.303807	6348.645009	I'll be at the bar. 
+1100	JANE                          	6348.645009	6349.355009	Calogero! 
+1101	CALOGERO                      	6350.415009	6351.895009	Jane! What are you doing here? 
+1102	JANE                          	6352.374323	6353.745731	My brother told me the truth, you tried to help him. 
+1103	CALOGERO                      	6353.745731	6356.955731	Look I'm sorry what I called him. It just came out of me.
+1104	CALOGERO_JANE                 	6357.374063	6360.753563	I didn't mean it. I swear to God I didn't mean it.,I know.
+1105	MAN                           	6360.753563	6364.124043	Hey you! Get outta the neighborhood and go back to your own!
+1106	CALOGERO                      	6364.124043	6365.859377	Why don't you mind your own business!
+1107	MAN_CALOGERO                  	6365.859377	6368.399377	Don't make me come down there!,Come on down!
+1108	JANE                          	6368.490228	6374.030228	No Calogero. Maybe he's right. This is never gonna work.
+1109	CALOGERO_JANE                 	6375.396097	6379.486097	Don't worry about him. Give me your hand.,No. Not here.
+1110	CALOGERO                      	6380.897429	6385.347429	Yes here. I don't care what anybody says. I think you're perfect…
+1111	CALOGERO                      	6387.331521	6392.034971	Wait, do you know how to make sauce?
+1112	JANE                          	6392.034971	6395.448421	What? 
+1113	CALOGERO                      	6395.448421	6400.691481	Nevermind. Give me your hand.
+1114	CALOGERO                      	6400.691481	6406.561481	In a world like this, Where everything seems black and white,
+1115	CALOGERO                      	6410.281146	6417.481146	In a world like this They're so quick to tell you what's wrong and what's right.
+1116	CALOGERO                      	6420.060811	6424.680811	Well, let 'em talk, talk, talk Who cares what they say?
+1117	CALOGERO                      	6425.649199	6429.159199	Now that you're here, Well, it's clearer than day
+1118	CALOGERO_JANE                 	6429.501457	6432.101457	That those words, Those words
+1119	CALOGERO_JANE                 	6432.101457	6435.821457	They’re not true, No, no 
+1120	CALOGERO_JANE                 	6435.821457	6436.471457	Not for me,, Not me
+1121	CALOGERO_JANE                 	6436.471457	6439.231457	Not for you., Not you.
+1122	CALOGERO&JANE                 	6439.801918	6446.541918	'Cause in a world like this Where so much can keep us apart
+1123	CALOGERO&JANE                 	6448.639805	6457.689805	Yes, in a world like this, You just have to trust in the beat of your heart.
+1124	CALOGERO&JANE                 	6458.311433	6467.121433	So put your hand in mine Let's give it a shot. Why should we care if they're ready or not?
+1125	CALOGERO&JANE                 	6467.819135	6472.449135	What we feel, That's what's real In this world.
+1126	OFFSTAGEVOICES                	6471.114709	6473.154709	Ah... In a world like this I got you.
+1127	JANE_CALOGERO                 	6482.46854	6485.55854	In a world like this Where everyone sticks with their own, There's nothing gonna keep us apart
+1128	CALOGERO                      	6488.754779	6491.254779	Just trust in the beat of your heart
+1129	CALOGERO_JANE                 	6491.957223	6498.757223	In a world like this They're all so afraid of what's new or unknown, I say we're gonna give it a shot
+1130	JANE                          	6497.735611	6501.455611	Why should we care if they’re ready or not?
+1131	CALOGERO_CALOGERO&JANE        	6501.550999	6506.57848	So let ‘em, Shake their heads, 'Cause what do they know? 
+1132	CALOGERO&JANE                 	6506.915461	6512.185461	There ain't no way that I'm letting you go. And who cares
+1133	OFFSTAGEVOICES_CALOGERO&JANE  	6512.185461	6513.455461	Ah…, What they see
+1134	CALOGERO_JANE                 	6516.072367	6518.294802	It's just you, It's just you
+1135	CALOGERO_JANE                 	6518.294802	6520.972107	It's just me, It's just me
+1136	CALOGERO&ENSEMBLE             	6520.972107	6523.572107	And in a world like this
+1137	JANE_CALOGERO                 	6523.758847	6526.568847	Hey baby, You've got to hold on to what's good
+1138	JANE                          	6526.98755	6529.94755	We gotta hold on To what we know is good
+1139	CALOGERO&ENSEMBLE_JANE        	6530.192938	6534.159678	And I can tell you this, This world...
+1140	CALOGERO_JANE                 	6533.36753	6539.72753	The world doesn't end at the edge of your own neighborhood, This world doesn’t end at my neighborhood
+1141	CALOGERO&JANE_OFFSTAGEVOICES  	6540.233399	6545.463399	And it'll still spin round Whatever we do,, Ah...
+1142	CALOGERO&JANE_OFFSTAGEVOICES  	6545.463399	6549.413249	But I know I'd rather be in it with you-, Ah...
+1143	CALOGERO&JANE_OFFSTAGEVOICES  	6549.413249	6559.043896	So hold tight If you dare, Let 'em sneer Let 'em stare, Ah... Ah...
+1144	CALOGERO&JANE                 	6559.043896	6566.393896	If you're mine We'll be fine
+1145	OFFSTAGEVOICES                	6567.70332	6568.88332	In a world like this
+1146	JANE_OFFSTAGEVOICES           	6568.737672	6569.417672	Let's get outta here., I got you
+1147	CALOGERO                      	6570.743801	6573.343801	Gimme your keys. Let me drive. 
+1148	CALOGERO                      	6585.640872	6586.230872	Yes!
+1149	JANE                          	6587.607983	6588.367983	Are you alright?
+1150	CALOGERO_JANE                 	6588.005835	6590.015835	I knew you were one of the great ones!,What?
+1151	CALOGERO                      	6591.460241	6592.970241	Never mind, It’s an Italian thing!
+1152	OFFSTAGEVOICES                	6595.107593	6597.707593	In a world like this
+1153	CALOGERO&JANE_CALOGERO_JANE&OFFSTAGEVOICES	6600.64911	6606.31911	I got – , You. 
+1154	CALOGERO_JANE                 	6619.860403	6621.060403	Holy shit! ,What?
+1155	CALOGERO                      	6621.354754	6622.999782	My friends. They’re on the way down to your brother's club. 
+1156	JANE                          	6622.999782	6623.38481	What?
+1157	CALOGERO                      	6623.38481	6625.966642	They've got Molotov cocktails, they’re gonna torch the joint. 
+1158	JANE                          	6625.966642	6626.766642	My brother's at the club.
+1159	CALOGERO_JANE                 	6627.032161	6628.692161	We gotta stop them. We gotta get there. ,Let's go. 
+1162	JANE_JANE                     	6658.080229	6663.276839	Oh my god. Calogero – my brother.,Tyrone!!!
+1163	CALOGERO_COP                  	6663.276839	6670.276634	Jesus Christ! Officer, what happened?,Stupid kids. Came here with Molotov cocktails.
+1164	COP                           	6670.276634	6688.422408	There was gasoline all over the place. The whole car blew up. They're all dead. 
+1165	JANE                          	6688.422408	6689.002408	What happened Calogero?
+1166	CALOGERO                      	6691.156204	6702.64298	My friends are dead. They're all gone. Slick, Nicky, Mario. They're all dead. They were in that car.
+1167	JANE_CALOGERO                 	6702.64298	6705.36298	Are you sure?,Yes. I was just in that car. That coulda been me!
+1168	JANE                          	6705.757572	6705.997572	What do you mean?  
+1169	CALOGERO                      	6706.053461	6712.664515	Sonny saved my life. I gotta tell him. He doesn't even know he saved my life! 
+1170	CALOGERO_JANE                 	6712.664515	6713.859515	I gotta go, Jane.,Then go. 
+1171	CALOGERO                      	6715.459385	6721.929385	I started running back to the neighborhood. I had to see Sonny. I wanted to hug him and thank him for saving my life.
+1172	CALOGERO                      	6722.482124	6725.572124	I ran down the block and I busted through the front door of the Chez Bippy.
+1173	CALOGERO                      	6726.822049	6735.919937	When I got to the bar, they were all there. I saw all these smiling faces and I'm tellin' ya I was happy because I was alive! 
+1174	CALOGERO                      	6735.919937	6740.429937	Sonny saved me and he didn't even know! I looked and there he was on the other side of the bar.
+1175	SONNY                         	6740.796732	6743.116732	Hey C...get over here!
+1176	CALOGERO                      	6742.782861	6743.852861	Sonny! You saved my life!
+1177	SONNY_CALOGERO                	6744.239176	6745.739176	What?,You saved my life, Sonny!
+1178	SONNY_CALOGERO                	6746.165305	6746.915305	I can't hear you.,Sonny!
+1179	SONNY_CALOGERO                	6747.280823	6748.392323	I love this kid!,Sonny!
+1180	SONNY_CALOGERO                	6748.392323	6750.550323	I can't hear you!,All of a sudden...
+1181	SONNY                         	6750.550323	6751.270323	I love this kid!
+1183	CALOGERO                      	6751.725841	6754.615841	Noooooo!
+1184	CALOGERO                      	6769.524745	6774.774745	The man that killed Sonny was the son of the man that Sonny killed eight years earlier in front of my stoop.
+1185	CALOGERO                      	6778.171836	6784.331836	When I got to the funeral there were flowers all over the place. Wise guys have this thing about flowers.
+1186	CALOGERO                      	6785.015742	6788.125742	They think who ever sends the biggest assortment of flowers cares the most.
+1187	CALOGERO                      	6794.672463	6796.062463	Everybody was laughing and joking 
+1188	CALOGERO                      	6798.472463	6802.612463	and it was just like Sonny said it would be. "Nobody cares, C." 
+1189	CALOGERO                      	6804.752924	6812.8602	Nobody cares - Sonny was always right. Always. I couldn't even go over to the coffin. 
+1190	CALOGERO                      	6812.8602	6815.4102	I had to wait until everybody left and I was all alone with Sonny. 
+1191	CALOGERO                      	6829.303771	6846.523771	How ya doin' Sonny... not too good, huh?... I read in the papers Mickey Mantle's gonna retire... Who cares, right?...
+1192	CALOGERO                      	6853.697748	6861.517748	Jane passed the test Sonny, I wanted to tell you that... She could be one of my great ones...who knows...
+1193	CALOGERO                      	6867.101634	6876.141634	Sonny, I just want to thank you for saving my life. My friends, they're all dead, and I would've been dead too if it wasn't for you.
+1194	CALOGERO                      	6877.469947	6892.559947	You pulled me out of that car. I never got a chance to thank you. I told my father what you did and he...
+1195	CALOGERO                      	6896.650443	6898.400443	Oh, I'm sorry, I thought I was alone.
+1196	CARMINE                       	6899.424054	6900.874054	That's okay, kid. It's understandable.
+1197	CALOGERO                      	6901.545091	6907.600349	This guy here, he's a great man. I loved him. He saved my life. 
+1198	CARMINE                       	6907.600349	6909.610349	You're C. Sonny told me about you.
+1199	CALOGERO                      	6910.079237	6916.320384	What? Sonny told you about me? I'm sorry, I don’t know who you are. 
+1200	CARMINE                       	6916.320384	6920.130384	I've been away awhile. My name's Carmine, kid. 
+1201	CARMINE                       	6921.727976	6927.797976	You don't remember me do you? Seven, eight years ago in front of your house. You were just a little boy.
+1202	CALOGERO_CARMINE              	6928.491882	6932.889363	I'm sorry I don't know you.,Yes you do. You know me very well. Now look at my face.
+1203	CALOGERO_CARMINE              	6934.176344	6936.706344	I don't know you.,Remember this?
+1204	CALOGERO                      	6940.376509	6945.816509	The baseball bat! You were the guy that got hit with the baseball bat. I was there, Carmine.
+1205	CALOGERO                      	6946.283915	6948.953915	I saw the whole thing. The cops they wanted me to rat.
+1206	CARMINE                       	6948.490841	6955.170841	I know, kid. Sonny told me what you did. I wanna thank you. Listen, I'm gonna be taking over things for a while here.
+1207	CARMINE                       	6956.154377	6960.874377	If you need anything, ANYTHING, you come by the bar and see me. Okay?
+1208	CALOGERO                      	6963.408097	6971.848318	That's okay, Carmine. I think I'm gonna give the neighborhood a rest for a while...you understand right?
+1209	CARMINE                       	6971.848318	6974.958318	I understand, kid. Sonny would be happy to hear that.
+1210	CALOGERO                      	6977.596706	6982.975464	Carmine, he never saw it coming. I tried to warn him but he never knew.
+1211	CARMINE_CALOGERO              	6982.975464	6983.785464	He knew.,But it was eight years ago.
+1212	CARMINE                       	6986.130852	6991.870852	It's like Sonny used to say, "Revenge is a dish best served cold. So why worry?"
+1213	CARMINE                       	6994.758925	6999.478925	So long my friend...and don't worry, I got it.
+1214	CARMINE                       	7007.4222	7010.9222	You know where to find me if you need anything. Take care of yourself kid. 
+1215	CALOGERO                      	7015.044754	7024.784754	Nobody cares? Ha... I guess you were wrong about that one. I'm gonna miss you, Sonny.
+1216	CALOGERO                      	7027.421159	7035.901159	You said that you had things to teach me. And now, I see it all so clear.
+1217	CALOGERO                      	7038.404194	7043.934194	We're led, each moment that we live in, To the only choice we're given—
+1218	CALOGERO                      	7044.756323	7049.296323	Will we live by love or fear? 
+1219	CALOGERO                      	7053.936173	7057.056173	And you -- you knew it's never easy.
+1220	CALOGERO                      	7059.468672	7068.188672	It's never black or white, just shades of grey. All we do, is face up to those choices,
+1221	CALOGERO                      	7068.976374	7073.376374	And obey our inner voices And hope we find our way.
+1222	CALOGERO                      	7075.164576	7080.334576	And all the choices we make Will shape our lives forever,
+1223	CALOGERO                      	7081.03002	7088.53002	Ev'ry path we take When push comes down to shove, Ev'ry moment counts—
+1224	CALOGERO                      	7089.672018	7096.352018	It’s always now or never. And although, God knows, You chose the life you chose,
+1225	CALOGERO                      	7097.950276	7102.940276	I'm here because, just once, You chose to love. 
+1226	CALOGERO                      	7105.468904	7107.438904	Dad, what are you doing here?
+1227	LORENZO                       	7108.810366	7110.580366	I'm here to pay my respects to your friend, son. 
+1228	LORENZO                       	7117.513531	7121.143531	Thanks for saving my boy's life, Sonny. I never hated you. 
+1229	LORENZO                       	7122.498179	7128.438179	I guess I just never forgave you for making my son grow up so fast. May God have mercy on your soul. 
+1230	LORENZO                       	7133.387473	7141.777473	And now, your whole life lies before you. It's time that you become a man.
+1231	LORENZO                       	7143.776582	7147.196582	You'll know how Just look at what’s inside you, 
+1232	LORENZO                       	7147.826582	7152.876582	And let your talent guide you Like I've always known you can.
+1233	LORENZO&CALOGERO              	7154.135876	7159.055876	And all the choices we make Will shape our lives forever,
+1234	LORENZO&CALOGERO              	7159.728375	7164.778375	Even one mistake Can tear your world apart.
+1235	LORENZO&CALOGERO              	7165.368375	7170.228596	But we have a bond That nothing’s gonna sever
+1236	LORENZO&CALOGERO              	7170.448596	7177.418596	Through the good and bad, The happy and the sad, Everywhere you go—
+1237	LORENZO                       	7178.516909	7180.106909	Look to your heart.
+1238	CALOGERO_LORENZO              	7180.405001	7186.105001	I love you Dad and I'm sorry if I hurt you.,I love you too son.
+1239	CALOGERO                      	7193.642017	7196.722017	I left the old neighborhood after that. It wasn't the same without Sonny.
+1240	LORENZO_ENSEMBLE              	7197.535257	7202.330089	This is a Bronx tale It's just another story, Ooo...
+1241	CALOGERO_ENSEMBLE             	7202.330089	7208.928107	I had to say goodbye to Jane, but she'll always be my first great one., Ooo...
+1242	JANE_ENSEMBLE                 	7208.928107	7213.804902	This is the kind of tale that makes you laugh and cry, Ooo...
+1243	CALOGERO_ENSEMBLE             	7213.804902	7219.544902	I went out into the world and I kept my promise. I became somebody. , Ooo...
+1244	CALOGERO_ENSEMBLE             	7219.544902	7221.487456	I owed that to my parents and to Sonny., Ooo...
+1245	ROSINA&LORENZO_ENSEMBLE       	7221.487456	7226.345233	Out on the street They're singing it together, Ooo...
+1246	ROSINA_LORENZO&JANE_ENSEMBLE  	7226.345233	7233.894047	They'll be singing it forever You can hear 'em if you try., Ooo...
+1247	ALL(EXCEPTCALOGERO)           	7233.894047	7240.074027	Ah Ah 
+1248	CALOGERO_ALL(EXCEPTCALOGERO)  	7240.074027	7246.285277	I still come back from time to time.  Ah Ah
+1249	CALOGERO_ALL(EXCEPTCALOGERO)  	7246.285277	7246.314027	The neigh-borhood's changed, and so have I.  Ah Ah
+1250	CALOGERO_ALL(EXCEPTCALOGERO)  	7247.409711	7250.689711	But I'll never forget what I learned from these two men.  Ah Ah 
+1251	CALOGERO_ALL(EXCEPTCALOGERO)  	7251.302951	7255.092951	The saddest thing in life is wasted talent  Ah Ah 
+1252	CALOGERO_ALL(EXCEPTCALOGERO)  	7255.092951	7259.149431	and the choices you make will shape your life forever.  Ah Ah 
+1253	CALOGERO_ALL(EXCEPTCALOGERO)  	7259.149431	7261.169431	But you could ask anybody from my neighborhood  Ah Ah 
+1254	CALOGERO_ALL(EXCEPTCALOGERO)  	7261.169431	7265.482541	and they'll tell you, this is just another Bronx tale.  Ah Ah  
+1255	FULLCAST                      	7265.482541	7271.082541	And all the choices we make Become part of our story.
+1256	FULLCAST                      	7272.862891	7276.492891	Ev'ry joy and ache They're never truly gone.
+1257	FULLCAST                      	7276.802891	7282.068205	Ev'ry name, ev'ry face, All the hope, the tears, the glory—
+1258	FULLCAST                      	7282.328205	7287.418205	Ev'ry stoop and street, Each win and each defeat,
+1259	FULLCAST                      	7287.940388	7293.060388	The sinners and the saints, The sweet and bittersweet,
+1260	FULLCAST                      	7293.472887	7300.562887	And when the tale's complete, You've chosen who you are
+1261	CALOGERO_ALL(EXCEPTCALOGERO)  	7302.898626	7312.198626	And those choices you made  Live on.
+1262	CALOGERO                      	7311.176884	7314.856884	This is a Bronx tale. And that's my story...
+1263	CALOGERO                      	7314.856884	7323.59427	The world I lived in, The people I knew.
+1264	CALOGERO_DOOWOPGROUP          	7323.59427	7324.92177	It's just a Bronx tale, And, like they all do,, Ooo... 
+1265	CALOGERO_DOOWOPGROUP          	7324.92177	7326.61427	It happened here On Belmont Avenue., Ooo... 
+1266	FULLCAST                      	7336.954231	7346.384231	Woah... Woah...
+1267	DOOWOPGROUP                   	7348.193155	7348.283155	Ooo-wah Wah-ooo... 
+1269	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7458.278412	7459.47507867	Belmont Avenue,, Yeah yeah 
+1270	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7459.47507867	7463.678412	Hangin' with my crew,, And the noise is growin‘
+1271	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7464.251707	7471.004632	Gotta love the view, Belmont Avenue., Yeah yeah and the boys are goin' shoop
+1272	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7471.004632	7472.05496774	Belmont Avenue., Shoop shoop shoop shoop 
+1273	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7472.05496774	7473.43150493	Hangin' with my crew,, Shoop shoop shoop shoop 
+1274	CALOGERO&WISEGUYS_WOMEN&DOOWOPGROUP	7473.43150493	7474.80804211	Gotta love the view,, Shoop shoop shoop shoop 
+1275	WOMEN&DOOWOPGROUP             	7474.80804211	7481.609019	No no cause the world's a-go-go Whoa whoa and the girls all sing in a Group! Oop! Oop!
+1276	ALL                           	7481.609019	7482.289019	Belmont Avenue! 

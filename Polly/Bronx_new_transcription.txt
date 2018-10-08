@@ -1,0 +1,1256 @@
+5	DOOWOPGRUPO                   	begin_time	end_time	Woo-hoo-oo Lao lao lao Ah-ah-ah Woo hoo, duh duh Dah-ah-ah Oo hoo hoo hoo
+6	DOOWOPGROUP                   	begin_time	end_time	Hoo, hoo hoo hoo Hoo hoo oo hoo Hoo hoo hoo hoo hoo Hoo hoo hoo hoo
+7	DOOWOPGRUPO                   	begin_time	end_time	Doh doh doh Ooo Ooo Ooo 
+8	CALOGERO                      	begin_time	end_time	Son las 3 AM en el Bronx, Nueva York. Estoy en la esquina de la calle 187 y la Avenida Belmont . Este era mi barrio.
+9	CALOGERO                      	begin_time	end_time	Todavía puedo escuchar un millón de voces en mi cabeza. Escuchar un millón de historias. 
+10	CALOGERO                      	begin_time	end_time	Esta es una historia del Bronx. Y es mi historia ... El mundo en el que viví, La gente que conocí
+11	CALOGERO                      	begin_time	end_time	Es solo un cuento del Bronx Y como todos lo hacen, Comienza aquí En la avenida Belmont. 
+12	CALOGERO_                     	begin_time	end_time	My n ombre e s Calogero Lorenzo Alfredo Romano Anello. Hombres & Mujeres, Ooh
+13	CALOGERO_                     	begin_time	end_time	Este es mi edificio. Y esa es mi entrada. Mi entrada. Crecí justo sobre un bar llamado Chez Bippy. HOMBRES & MUJERES, Ooh
+14	CALOGERO_                     	begin_time	end_time	Es donde todos los listillos se reunían. Y en las cálidas noches de verano en todo el barrio 
+15	CALOGERO_                     	begin_time	end_time	Escucharías a los jóvenes italianos romancear a sus mujeres. 
+16	MEN                              	begin_time	end_time	Marie, entra en el maldito coche!
+17	CALOGERO                      	begin_time	end_time	Mi barrio. Era un paraíso para mí. 
+18	CALOGERO_                     	begin_time	end_time	Puedo escuchar las campanas de la iglesia y oler el pan recién horneado. HOMBRES & MUJERES, Ah-oo
+19	CALOGERO_                     	begin_time	end_time	Ver los toldos de las tiendas, el neón, verde blanco y rojo 
+20	CALOGERO_                     	begin_time	end_time	Cannolis en bandejas tras bandejas, salamis colgados en exhibición, HOMBRES & MUJERES, Ah Ah Ah 
+21	CALOGERO                      	begin_time	end_time	Los Italianos son todos que has visto 
+22	                              	begin_time	end_time	Yeah, yeah Y las aceras se balancean - 
+23	                              	begin_time	end_time	Yeah, yeah Y las chicas estan cantando shoop shoop! 
+24	_CALOGERO                     	begin_time	end_time	Shoop shoop shoop Shoop shoop shoop Ah..., A medida que pasan mi entrada. 
+25	CALOGERO                      	begin_time	end_time	Y los vendedores ambulantes con sus carretas, Venden su mercancía de puerta en puerta
+26	PHIL                          	begin_time	end_time	Pesc ado Fresco! Pesc ado Fresco!
+27	CALOGERO_                     	begin_time	end_time	Mientras en la Vitrola, los jinetes bailaban en la tienda de golosinas dada!
+28	                              	begin_time	end_time	Baba dada, Ba ba ba Dada!
+29	CALOGERO_                     	begin_time	end_time	Las abuelas llamando desde enfrente — ABUELA,Ciao, bambini!
+30	CALOGERO                      	begin_time	end_time	Mientras remueve la Salsa del domingo — DOO WOP GROUP O Ciao, Nonna!
+31	CALOGERO                      	begin_time	end_time	Y en el medio,estaba yo 
+32	HOMBRES&GRUPODOOWOP           	begin_time	end_time	Oh, oh, y las calle comienzan a suspirar 
+33	HOMBRES&GRUPODOOWOP           	begin_time	end_time	Whoa whoa - Cuando las chicas se pavonean en un grupo. 
+34	HOMBRES&GRUPODOOWOP_CALOGERO  	begin_time	end_time	Vamos, vamos, vamos, Pavoneandose justo más allá de mi entrada. Vamos, vamos, vamos
+35	_                             	begin_time	end_time	Juego de pelota, patear la lata, MUJERES, Playa de Orchard en la arena,
+36	                              	begin_time	end_time	Encuentra una chica y disfrútala
+37	                              	begin_time	end_time	Brillantina, sueño húmedo, tráela a casa y cierra el trato
+38	                              	begin_time	end_time	No no no, No no no, No no no
+39	GRUPODOOWOP_DOOWOPTENOR       	begin_time	end_time	El año que viene Frankie Vallis Canturreando en los callejones,, Oo wee 
+40	DOOWOPTENOR_DOOWOP            	begin_time	end_time	Oo oo Oo wah GRUPO , Consiguiendo esos falsettos al máximo
+41	                              	begin_time	end_time	Mientras que las Hermanas carmelitas Gritan a sus transistores
+42	                              	begin_time	end_time	Cada vez que los bombarderos puntúan
+43	MELALLEN                      	begin_time	end_time	Esa pelota se vá - se vá – ¡se fue! 
+44	CALOGERO&GRUPODOOWOP_         	begin_time	end_time	Pasando el rato con la pandilla MUJERES & OT ROS HOMBRES, En la entrada, En la entrada,
+45	CALOGERO&GRUPODOOWOP_MUJERES&OTROSHOMBRES	begin_time	end_time	En la Avenida Belmont., En la entrada, En la entrada,
+46	CALOGERO&GRUPODOOWOP_MUJERES&OTROSHOMBRES	begin_time	end_time	Te tiene que gustar la vista, En el porche, En el porche,
+47	CALOGERO&GRUPODOOWOP          	begin_time	end_time	Avenida Belmont 
+48	                              	begin_time	end_time	Y en las noches sofocantes de verano, Hombre, ¡la esquina se estremecería!
+49	                              	begin_time	end_time	El romance,las risas, las peleas... Un universo en un pequeño bloque — 
+50	                              	begin_time	end_time	Ay-oh! Por todas partes HOMBRES:  Doo doo, doo doo doo Wah dah doo doo
+51	                              	begin_time	end_time	¡A cualquier lugar a donde vaya! 
+52	CALOGERO&LISTILLOS            	begin_time	end_time	Avenida Belmont,
+53	MUJERES&GRUPODOOWOP           	begin_time	end_time	Yeah yeah y el ruido está creciendo 
+54	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Pasando el rato con, mi pandilla, MUJERES & GRUPO , Sí, sí, y los chicos se van 
+55	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Te tiene que gustar la vista MUJERES & GRUPO , Shoop shoop shoop shoop 
+56	                              	begin_time	end_time	Avenida Belmont Woh-oh... Woh-oh... Woh-oh...
+57	CALOGERO                      	begin_time	end_time	Y luego estaba Sonny. Él era el hombre número del vecindario.
+58	CALOGERO                      	begin_time	end_time	Sonny tenía cinco dedos. Pero sólo usaba tres.
+59	CALOGERO                      	begin_time	end_time	Todo el día y toda la noche, él estaría justo en la esquina. 
+60	CALOGERO                      	begin_time	end_time	Él se paraba aquí asintiendo con la cabeza a todas las ancianas que pasaban con sus compras,
+61	CALOGERO                      	begin_time	end_time	y lo trataban como a un dios. Y en mi barrio, él era un dios
+62	CALOGERO                      	begin_time	end_time	No podía dejar de mirarlo.
+63	CALOGERO                      	begin_time	end_time	Pero él nunca jamás me miró. Nunca. Hasta que un día... Tenía 9 años. 
+64	_CARMINE                      	begin_time	end_time	¡Regresa aquí! Tienes algun problema conmigo?,Sí, tengo un problema.
+65	                              	begin_time	end_time	Oh si ?
+68	TONYDIEZADOS                  	begin_time	end_time	Vamos
+69	CALOGERO                      	begin_time	end_time	Esto es un cuento del Bronx. Y es mi historia.
+70	CALOGERO                      	begin_time	end_time	El que destrozó El mundo que yo conocía.
+71	CALOGERO                      	begin_time	end_time	Así es como sucedió, y todo es verdad.
+72	CALOGERO                      	begin_time	end_time	Empieza aquí, En la avenida Belmont. 
+73	LORENZO&ROSINA_ROSINA         	begin_time	end_time	Calogero!,¿Estás bien? ¿Estás bien?
+74	YOUNGCALOGERO_ROSINA          	begin_time	end_time	Estoy bien mami.,Gracias a Dios.
+75	CALOGERO                      	begin_time	end_time	Papá, estaban peleando por un espacio de estacionamiento. Sonny le disparó.
+76	CALOGERO                      	begin_time	end_time	¿Por qué? Era sólo una plaza de aparcamiento. ¿Por qué?
+77	LORENZO                       	begin_time	end_time	No era el espacio de aparcamiento, hijo. Quién sabe por qué.
+78	LORENZO                       	begin_time	end_time	Tal vez se conocieron en el momento equivocado en sus vidas. Vamonos a subir las escaleras.
+79	_LORENZO                      	begin_time	end_time	Hola Hola. ¿ Alguien ha visto algo?,No vimos nada, oficial.
+80	COP_ROSINA                    	begin_time	end_time	¿Y el niño? ¿ Él vio algo?,No.
+81	LORENZO_                      	begin_time	end_time	Mi hijo no sabe nada. POLICÍA,Tal vez si sabe.
+82	LORENZO                       	begin_time	end_time	Bueno, estás equivocado. Él no sabe nada.
+83	CALOGERO                      	begin_time	end_time	Lo sé todo Papi. Lo ví todo.
+84	LORENZO                       	begin_time	end_time	Ya sabes a los chicos les gusta exagerar.
+85	ROSINA_                       	begin_time	end_time	No lo quiero involucrado en esto. POLICÍA,Ven aquí chico. 
+86	_CALOGERO                     	begin_time	end_time	¿ Crees que puedes señalar al tipo que apretó el gatillo? JOVEN,Por supuesto.
+87	CALOGERO_DOOWOP               	begin_time	end_time	Enfrente de mi edificio había cinco muchachos. GRUPO , Ooo ooo ooo ooo Ooo ooo 
+88	CALOGERO_DOOWOP               	begin_time	end_time	Ellos eran la pandilla de Sonny. Y yo conocía a cada uno de ellos. GRUPO , Ooo ooo ooo ooo Ooo ooo 
+89	                              	begin_time	end_time	Quítate el sombrero.
+90	CALOGERO                      	begin_time	end_time	Eddie Mush.
+91	YOUNGCALOGERO                 	begin_time	end_time	No, no era él ...
+92	CALOGERO                      	begin_time	end_time	JoJo la Ballena.
+93	YOUNGCALOGERO                 	begin_time	end_time	No, él no.
+94	CALOGERO                      	begin_time	end_time	Frankie Pastel de Café.
+95	JOVENCALOGERO                 	begin_time	end_time	Él no.
+96	CALOGERO                      	begin_time	end_time	Tony Diez a Dos.
+97	YOUNGCALOGERO                 	begin_time	end_time	No.
+98	                              	begin_time	end_time	¿Qué hay de él?
+99	CALOGERO                      	begin_time	end_time	No, no fué él. 
+100	LORENZO                       	begin_time	end_time	¿ Estás satisfecho ahora, oficial? Vamos, hijo. Vamos a casa.
+101	GRUPODOOWOP                   	begin_time	end_time	Oo oo oo oo ooo oo oo oo  
+102	CALOGERO                      	begin_time	end_time	En mi barrio lo más bajo que alguien podría ser es una rata. Y Yo no era una rata.
+103	CALOGERO                      	begin_time	end_time	El día después del asesinato mi padre insistió en que yo viajar en el autobús con él. Me encantaba montar el autobús con mi padre.
+104	CALOGERO                      	begin_time	end_time	Me sentaría justo detrás de él y él escucharía jazz en una pequeña radio transistor. Todos lo querían. 
+105	CALOGERO                      	begin_time	end_time	Su uniforme estaba siempre ordenado y limpio y el botón de arriba lo llevaba siempre cerrado, incluso si hacía noventa y nueve grados.
+106	CALOGERO_Últimaparada         	begin_time	end_time	Mi padre nunca quiso parecer descuidado yo estaba muy orgulloso de él.,
+107	LORENZO&CALOGERO              	begin_time	end_time	City Island.
+108	LORENZO_CALOGERO              	begin_time	end_time	¿Cómo te sientes Calogero? JOVEN ,Estoy bien.
+109	LORENZO_CALOGERO              	begin_time	end_time	Estabas muy calado en el autobús. JOVEN,Sólo de pensaba.
+110	LORENZO                       	begin_time	end_time	Acerca de lo que sucedió ayer?
+111	CALOGERO                      	begin_time	end_time	Pensé que hice una cosa buena, pero ahora no estoy muy seguro, papá.
+112	LORENZO                       	begin_time	end_time	Hicistes algo bueno por un hombre malo, hijo. Lo que hicistes fué correcto. ¿Vale?
+113	CALOGERO_LORENZO              	begin_time	end_time	Gracias Papá.,Bien!
+114	LORENZO_CALOGERO              	begin_time	end_time	¿Quién es el mejor jugador de pelota que haya existido? JOVEN,Mickey Mantle!
+115	LORENZO                       	begin_time	end_time	De ninguna manera. Joe DiMaggio. El Yankee Clipper. Y sabes por que él era tan bueno?
+116	CALOGERO_LORENZO              	begin_time	end_time	Porque era italiano?,En parte por eso.
+117	LORENZO_CALOGERO              	begin_time	end_time	Es porque él tenía talento y lo usó. JOVEN ,¿Yo tengo talento?
+118	LORENZO_CALOGERO              	begin_time	end_time	Por supuesto que sí. JOVEN,Al igual que Joe D.
+119	LORENZO                       	begin_time	end_time	Sí, igual que Joe D.  
+120	LORENZO                       	begin_time	end_time	Cincuenta y seis juegos seguidos No se puede superar eso.
+121	CALOGERO_LORENZO              	begin_time	end_time	Ese es el récord, Papá!, Casándose con Marilyn Monroe
+122	CALOGERO_LORENZO              	begin_time	end_time	Ho ho ho!, Inclina tu sombrero.
+123	LORENZO_CALOGERO              	begin_time	end_time	¿El mejor? JOVEN,Joe D!
+124	LORENZO                       	begin_time	end_time	Lo hizo parecer fácil. Pero el Yankee clíper – se mantuvo aparte
+125	CALOGERO_LORENZO              	begin_time	end_time	¿Por qué?, Por su corazón
+126	CALOGERO_LORENZO              	begin_time	end_time	Por su corazón, Mira a tu corazón
+127	LORENZO_CALOGERO              	begin_time	end_time	¿Qué te parece el guante nuevo? JOVEN,Me encanta, papá.
+128	LORENZO                       	begin_time	end_time	Espera hasta que estén amoldados. Oye –
+129	LORENZO_CALOGERO              	begin_time	end_time	Quién ganó la última corona triple? JOVEN,Mickey Mantle!
+130	LORENZO                       	begin_time	end_time	Sí, el Mick. Con dolor que podría derribar a un hombre...
+131	CALOGERO_LORENZO              	begin_time	end_time	¿Y que?, Entonces, ¿cuál es su truco?
+132	CALOGERO                      	begin_time	end_time	Bueno, él es fuerte, y rápido -
+133	LORENZO                       	begin_time	end_time	Oh seguro, el hombre está dotado. Sus dones, sin embargo, se levantan
+134	LORENZO                       	begin_time	end_time	Por lo que ha tenido dentro Desde el comienzo - Estoy hablando del corazón Mira tu corazón.
+135	LORENZO                       	begin_time	end_time	Ser un hombre significa que tomas lo que tienes, Y lo usas
+136	LORENZO                       	begin_time	end_time	No, no es fácil, Pero úsalo con Honor y Orgullo 
+137	LORENZO                       	begin_time	end_time	Alguien te muestra un atajo, Sonríes y lo rechazas.
+138	LORENZO                       	begin_time	end_time	El único camino que vale la pena tomar - 
+139	LORENZO                       	begin_time	end_time	Comienza aquí dentro. 
+140	LORENZO                       	begin_time	end_time	Imagina el hombre que podrías ser, Entonces persigue el objetivo verdadero.
+141	LORENZO                       	begin_time	end_time	Si te pierdes, mírame. Estoy aquí para ti. 
+142	LORENZO                       	begin_time	end_time	Tienes un futuro - Hijo, puedo saborearlo
+143	LORENZO                       	begin_time	end_time	Tu puedes ser cualquier cosa. Una vez que lo hayas adoptado. 
+144	LORENZO                       	begin_time	end_time	Sólo usa tu talento - Y no te atrevas a desperdiciarlo
+145	LORENZO                       	begin_time	end_time	Prométeme en este momento, Que serás inteligente.
+146	LORENZO_CALOGERO              	begin_time	end_time	¿ Entiendes lo que estoy diciendo hijo? JOVEN,Creo que si.
+147	LORENZO                       	begin_time	end_time	Lo más triste de la vida es desperdiciar el talento. Prométeme que no desperdiciarás el tuyo.
+148	CALOGERO                      	begin_time	end_time	Lo prometo, papá.
+149	LORENZO                       	begin_time	end_time	Mi muchacho tiene corazón. Mira a tu corazón.
+150	LORENZO                       	begin_time	end_time	Vamos a tomar un helado. 
+151	DOOWOP                        	begin_time	end_time	Bomb sha-bomp
+152	CALOGERO_DOOWOP               	begin_time	end_time	Esa noche seguí pensando en lo que sucedió en el porchela entrada GRUPO , Bomb sha-bomp Bomb sha-bomp 
+153	CALOGERO_DOOWOP               	begin_time	end_time	y me di cuenta de que mentí y un hombre murió. GRUPO , Bomb sha-bomp Bomb sha-bomp 
+154	CALOGERO_DOOWOP               	begin_time	end_time	Me había cometido un pecado mortal y no quería quemarme en el infierno. GRUPO , Bomb sha-bomp Bomb sha-bomp bien
+155	CALOGERO_DOOWOP               	begin_time	end_time	Entonces pensé- Eh! GRUPO , Bomb sha-bomp Bien
+156	CALOGERO_DOOWOP               	begin_time	end_time	Voy a confesarme y limpiar mi alma. GRUPO , Bomb sha-bomp Bomb sha-bomp 
+157	CALOGERO_DOOWOP               	begin_time	end_time	Es genial ser católico. Puedes comenzar de nuevo todas las semanas. GRUPO , Bomb sha-bomp Bomb sha-bomp
+158	CALOGERO_DOOWOP               	begin_time	end_time	Me pusieron cinco Padres Nuestros y cinco Ave Marías for una acusación de asesinato. GRUPO , Ooo-oo Ooo-oo
+159	CALOGERO_DOOWOP               	begin_time	end_time	Mi alma estaba limpia y los Yankees jugaban contra los Piratas en la Serie Mundial. GRUPO , Ooo-oo Ooo-oo
+160	CALOGERO_DOOWOP               	begin_time	end_time	Estaba empatado en el fondo del noveno cuando... GRUPO , Ooo-oo Ooo-oo Ooo-op!
+161	CALOGERO                      	begin_time	end_time	: ¡bola alta totalmente a la hacia la izquierda! "
+162	CALOGERO                      	begin_time	end_time	No!
+163	_CALOGERO                     	begin_time	end_time	"¡Esto podría hacerlo!" JOEN ,No!
+164	CALOGERO(Locutordederadio)    	begin_time	end_time	"¡De vuelta a la pared va Berra y se ha ido por encima de la cerca para un home run y los Piratas ganan la Serie Mundial!"
+165	CALOGERO                      	begin_time	end_time	Nooooo! ¿Por qué, Dios, por qué? ¿Cinco nuestros padres y cinco Ave Marías no fueron lo suficientemente buenos? ¡ Uf! 
+166	SONNY                         	begin_time	end_time	Oye chico. ¿Por qué lloras?
+167	CALOGERO                      	begin_time	end_time	Bill Mazeroski. Lo odio. Él acaba de golpear un home run y los Piratas ganan a los Yankees en la Serie Mundial.
+168	CALOGERO                      	begin_time	end_time	Me encanta Mickey Mantle. Ellos dijeron que estaba llorando en el dugout. Él se va deprimir mucho.
+169	SONNY                         	begin_time	end_time	¿ Qué? ¿Es por eso por lo que estás llorando? Mickey Mantle?
+170	SONNY                         	begin_time	end_time	¿Crees que a Mickey Mantle le importas? Mickey Mantle gana cien mil dólares al año.
+171	SONNY                         	begin_time	end_time	¿Cuánto gana tu padre? Si tu padre no puede pagar el alquiler - preguntale a Mickey Mantle.Verás lo que te dice. 
+172	SONNY                         	begin_time	end_time	Vamos, chico. Olvida todo esto de Mickey Mantle. A nadie le importa. Me oyes, a nadie le importa ...
+173	SONNY_CALOGERO                	begin_time	end_time	Vamos, te llevaré a por un huevo de crema. ¿ Oye cuál es tu nombre? JOVEN,Calogero.
+174	SONNY                         	begin_time	end_time	Oof. 
+175	CALOGERO                      	begin_time	end_time	Entonces Sonny me llevó al Chez Bippy. Ese era el bar del barrio. Era propiedad de Rudy La Voz. 
+176	CALOGERO                      	begin_time	end_time	Bueno en realidad no. Sonny era el compañero silencioso. Y ese fue el comienzode mi educación.
+177	SONNY                         	begin_time	end_time	Hola, un huevo de crema para mi hombre Calogero. Decid todos hola.
+178	CHICOS                        	begin_time	end_time	Hola.
+179	SONNY_CHICOS                  	begin_time	end_time	Digan hola., ¡Hola!
+180	                              	begin_time	end_time	¿Cómo estás, Calogero?
+181	CALOGERO                      	begin_time	end_time	Ese es Rudy la Voz. 
+182	CALOGERO                      	begin_time	end_time	Lo llamaban Rudy La Voz porque era un cantante frustrado. Pero Sonny odiaba su voz.
+183	CALOGERO                      	begin_time	end_time	Entonces, solo por despecho, Rudy nunca pronunciaría una palabra hablada. Él solo lo cantaría
+184	                              	begin_time	end_time	Hola, Calogero. Tráeme un capuchino y me ocuparé de ti.
+185	CALOGERO                      	begin_time	end_time	Frankie Coffee Cake. 
+186	CALOGERO                      	begin_time	end_time	Lo llamaban Pastel de Café porque toda su cara estaba cubierta de acné y se veía como un Pastel de Café de Drake.
+187	                              	begin_time	end_time	Oye Sonny, alguien vomitó en el baño.
+188	CALOGERO                      	begin_time	end_time	Es Eddie el Sentimental. 
+189	CALOGERO                      	begin_time	end_time	Ahora Eddie el Sentimental era un jugador degenerado. Era también fue el mayor perdedor del mundo.
+190	CALOGERO                      	begin_time	end_time	Era tan perdedor que iba al hipódromo y el cajero le daba los boletos ya rotos.
+191	CALOGERO                      	begin_time	end_time	JoJo la Ballena 
+192	CALOGERO                      	begin_time	end_time	Cinco pies ocho. 400 libras. Él era tan gordo,que la leyenda lo tiene en su sombra cuando mató a un perro.
+193	CALOGERO                      	begin_time	end_time	Y luego estaba el guardaespaldas de Sonny, Tony Diez a Dos. 
+194	CALOGERO                      	begin_time	end_time	Lo llamaban Diez para las Dos porque sus pies siempre señalaban como el reloj, diez para las dos. 
+195	CALOGERO                      	begin_time	end_time	Una vez recibió un disparo en la pierna y lo llamaron y veinte.
+196	CALOGERO                      	begin_time	end_time	Pero los mejores tiempos de todos fueron los juegos de dados.
+197	CALOGERO                      	begin_time	end_time	Todos los listillos del barrio venían. Tammy Russo, Paulie Z, Billy BaBa.
+198	CALOGERO                      	begin_time	end_time	Todos ellos estaban allí actuando para ver quién era el más duro, el más fuerte, el que tenía la mayor reputación.
+199	CALOGERO                      	begin_time	end_time	Y yo veía miles de dólares cambiar de manos iban y venían. 
+200	SONNY                         	begin_time	end_time	Vamos, dame un 7, solo uno 7. 
+201	                              	begin_time	end_time	Ojos de Serpiente.
+202	SONNY                         	begin_time	end_time	¡Hijo de puta! No puedo tener un descanso!
+203	RUDYLAVOZ                     	begin_time	end_time	Sonny hoy no puede tener un momento de descanso! 
+204	SONNY_                        	begin_time	end_time	¡ Te dije que dejaras de cantar! RUDY LA VOZ, Está bien! 
+205	SONNY                         	begin_time	end_time	No puedo ganar un número hoy por mi vida! 
+206	SONNY                         	begin_time	end_time	Calogero, quiero que tires los dados por me.
+207	YOUNGCALOGERO                 	begin_time	end_time	No sé cómo jugar a los dados Sonny.
+208	SONNY                         	begin_time	end_time	Puedes hacerlo, ponte aquí. El niño va a tirar mi dado.
+209	CHICOS                        	begin_time	end_time	De ninguna manera. No puedes hacer eso Sonny. ¡Es solo un niño!
+210	SONNY                         	begin_time	end_time	¿ Alguien tiene algún problema con eso?
+211	_SONNY                        	begin_time	end_time	No.,Eso pensaba.
+212	SONNY                         	begin_time	end_time	Déjame mostrarte cómo tirar los dados Primero tienes que hacer que te traten bien.
+213	SONNY                         	begin_time	end_time	Unos consejos gratis Escucha a Sonny y Ganaremos un poco de dinero.
+214	SONNY                         	begin_time	end_time	Mantenlo quieto cuando les sacudes los huesos
+215	SONNY                         	begin_time	end_time	Cierra las puertas y desconecta los teléfonos
+216	SONNY                         	begin_time	end_time	Porque querrásescucha los gemidos de estos perdedores
+217	SONNY                         	begin_time	end_time	¡ Comencemos las apuestas! Listo, prepárate, y- 
+218	_SONNY                        	begin_time	end_time	Rúedalos!, Eres mi amuleto de la suerte.
+219	_SONNY                        	begin_time	end_time	R úedalos!, Usa ese suertudo e increible brazo.
+220	_SONNY                        	begin_time	end_time	R úedalos!, Ir a la quiebra, niño, ¡ Apostemos a la granja!
+221	SONNY_                        	begin_time	end_time	Hazlos rodar por el pasillo HOMBRES, Ah dah
+222	SONNY_                        	begin_time	end_time	Haciendo que Sonny sonría y luzca bien! HOMBRES, Ah dah Good! 
+224	                              	begin_time	end_time	¡ Oye Sonny tu chico tiene un brazo como un fideo mojado!
+225	                              	begin_time	end_time	¡ Oye, Sonny! ¡Ese chico es un perdedor! 
+226	                              	begin_time	end_time	Gracias.
+227	SONNY                         	begin_time	end_time	Todo el mundo silencio. No quiero que nadie se ria de este niño. Aquí nadie se ríe del muchacho.
+228	                              	begin_time	end_time	Oooo...
+229	SONNY                         	begin_time	end_time	Vamos, Calogero,tienes que tirarlos más duro. Vamos a poner un poco de dinero real. Tengo tres mil, ¿ Quién apuesta conmigo?
+230	                              	begin_time	end_time	Voy a apostar contigo, Sonny
+231	SONNY                         	begin_time	end_time	NO. NO. NO. Eddie el Sensible no es bueno.
+232	SONNY                         	begin_time	end_time	No quiero que tu dinero toque mi dinero. No quiero tu dinero en el mismo lugar que mi dinero.
+233	_SONNY                        	begin_time	end_time	¿Por qué? ,Porque eres gafe, por eso. 
+234	SONNY                         	begin_time	end_time	Nunca ganas una apuesta en tu vida. Tony, siento que viene una racha de suerte: encierra al Sensible en el baño.
+235	                              	begin_time	end_time	Vamos Sonny - ¡No! 
+236	_SONNY                        	begin_time	end_time	Noooo.,Llevenselo allí.
+237	SONNY_CALOGERO                	begin_time	end_time	Vamos, chico, dame un siete. JOVEN,Está bien, Sonny. 
+238	SONNY                         	begin_time	end_time	¡SIETE! ¿ Quieren mirar a este niño? Dame esos dados. Hagámoslo de nuevo. Cinco mil.
+239	SONNY                         	begin_time	end_time	JoJo. JoJo, por favor. Retrocede. Tu aliento me está matando.
+240	_SONNY                        	begin_time	end_time	Estoy comiendo,¡ Entonces come en el baño! Tony, enciérralo allí.
+241	                              	begin_time	end_time	No cabe. 
+242	SONNY                         	begin_time	end_time	Me importa una mierda que él no quepa, ponganlo dentro. Mantén a ese gordo bastardo lejos de mí. Apesta. 
+243	SONNY                         	begin_time	end_time	Nadie más tenía más gafe que el niño. No dejes ni si quiera que piense que lo hicistes.
+244	SONNY                         	begin_time	end_time	Di una palabra, Voy a cerrar mi tapa Cierra tu trampa o Entra en el váter
+245	SONNY                         	begin_time	end_time	Vamos amigo, es hora de sacudir ese puño. Papa está controlando muñeca mágica
+246	SONNY_                        	begin_time	end_time	Intenta terminar con un pequeño giro HOMBRES & MUJERES, Ah
+247	SONNY_                        	begin_time	end_time	Big bam boom chicos, denle un poco de espacio para rodarlos! HOMBRES & MUJERES, Ah
+248	HOMBRES&MUJERES               	begin_time	end_time	Dacka dacka Wacka wacka Chuggie chuggie Uggie uggie Whippie dippie wham
+249	_CALOGERO_                    	begin_time	end_time	Dacka dacka Wacka wacka Chuggie chuggie JOVEN, Oye -¡esto es divertido! SONNY & HOMBRES,Tiralos!
+250	HOMBRES&MUJERES_CALOGERO      	begin_time	end_time	Uggie uggie Whippie dippie wham JOVEN, Tresy cuatro o seis y uno
+251	SONNY&HOMBRES_HOMBRES&MUJERES 	begin_time	end_time	¡ Tíralos!, Dacka dacka Wacka wacka
+252	HOMBRES&MUJERES_CALOGERO      	begin_time	end_time	Chuggie chuggie Uggie uggie Whippie dippie wham SONNY & JOVEN, Consigue esos sietes. Hecho y hecho.
+253	CALOGERO_HOMBRES&MUJERES      	begin_time	end_time	Golpéalos contra la pared,, Ah
+254	SONNY&YOUNGCALOGERO_HOMBRES&MUJERES	begin_time	end_time	Haz esos los números caer como deberían!, Ah ¡Deberían!
+255	CALOGERO                      	begin_time	end_time	Está bien Sonny. S iete. 
+256	SONNY                         	begin_time	end_time	Frankie Pastel de Café, no está bien. No quiero que su rostro mire tu cara cuando estás tirando mis dados.
+257	SONNY                         	begin_time	end_time	Tony, coge una toalla del bar, ponsela en la cabeza.
+258	                              	begin_time	end_time	Vamos, Sonny. No quiero una toalla en la cabeza.
+259	SONNY                         	begin_time	end_time	Oh, no quieres una toalla en la cabeza? Entonces muchachos, ya saben lo que tienen qué hacer.
+260	                              	begin_time	end_time	¡Al maldito baño!
+261	SONNY_CALOGERO                	begin_time	end_time	Adelante, chico. JOVEN,Siete... Siete... Siete ven al cielo...
+262	SONNY                         	begin_time	end_time	No te pongas engreido niño. Solo tira los dados. 
+263	SONNY_CALOGERO                	begin_time	end_time	¡Cuatro! Cuatro es el punto.  JOVEN,¡No! Lo siento, Sonny.
+264	SONNY_CALOGERO                	begin_time	end_time	No,cuatro está bien. Que no te entre el pánico, chico. JOVEN ,¡Pero no lancé un siete!
+265	SONNY                         	begin_time	end_time	Cuatro está bien,niño, tómalo con calma. El niño tiene pánico ,no lanzó un siete. 
+266	SONNY                         	begin_time	end_time	Solo tienes que tirar otro cuatro. Yo digoque el niño hace los difíciles cuatro.
+267	SONNY                         	begin_time	end_time	Dos-dos en los difíciles cuatro. Yo digo que apostemos todo el dimero.
+268	CALOGERO                      	begin_time	end_time	No te preocupes Sonny, puedo tirar otro siete. 
+269	SONNY_                        	begin_time	end_time	¡ No! ¡ No s ietes! ¡ No sietes! HOMBRES, Ching chacka chacka chacka Dacka dacka Wacka wacka
+270	CALOGERO_                     	begin_time	end_time	Pero pensé que siete era bueno. HOMBRES, Chuggie chuggie Uggie uggie Whippie dippie wham
+271	SONNY_                        	begin_time	end_time	Ahora, no, chico. ¡ Ahora, no! Este chico me está asustando mierda, está asustando. HOMBRES, Ching chacka chacka chacka Dacka dacka wacka wacka
+272	SONNY_MEN                     	begin_time	end_time	No, siete no. Necesito cuatro. Necesito dos-dos. Puedes hacerlo., Chuggie chuggie Uggie uggie Whippie dippie wham
+273	SONNY                         	begin_time	end_time	No tires un siete, estamos tan cerca del cielo. Ganaremos una fortuna, a menos que lo heches a perder.
+274	SONNY                         	begin_time	end_time	Furgón, ojos de serpiente, eso es todo lo se necesita. El niño es una miel, Él lo hará, sin duda
+275	SONNY_                        	begin_time	end_time	Tíralos HOMBRES, Tírame un siete y llévame al cielo
+276	CALOGERO_                     	begin_time	end_time	Me gusta este juego HOMBRES, Tendremos dinero si Sonny los tira fuera.
+277	SONNY_                        	begin_time	end_time	Tíralos HOMBRES, Vagones de caja, ojos de serpiente¿De qué manera van a romper, chicos?
+278	CALOGERO_                     	begin_time	end_time	Soy el maestro de este juego HOMBRES, Pierde uno, ha terminado, De eso estoy hablando. 
+279	CALOGERO_                     	begin_time	end_time	Tíralos... HOMBRES, Tírame un siete Y llévame al cielo
+280	SONNY_                        	begin_time	end_time	Vamos, dos y dos HOMBRES, Tendremos dinero si Sonny los tira fuera.
+281	CALOGERO_                     	begin_time	end_time	Tíralos... HOMBRES, Furgón, ojos de serpiente ¿ Qué camino van a romper, chicos?
+282	SONNY_                        	begin_time	end_time	Hazles rodar como si hubieses nacido para hacer eso HOMBRES, Pierde uno, ya terminó, de eso estoy hablando. Tíralos!
+283	                              	begin_time	end_time	Tíralos!
+284	                              	begin_time	end_time	Tíralos!
+285	                              	begin_time	end_time	Tíralos!
+286	                              	begin_time	end_time	Ching chakka Chakka chakka Dakka dakka wakka wakka Chug! 
+287	SONNY                         	begin_time	end_time	Madonne! Lo lo hizo! ¡Cuatro! ¡Amo a este niño! 
+288	                              	begin_time	end_time	Tíralos! 
+289	CALOGERO_                     	begin_time	end_time	¡NUEVE! ... Nueve ... Hice nueve pases seguidos. No sé cuánto ganó Sonny, pero cuando terminó,
+290	CALOGERO                      	begin_time	end_time	¡Sonny! Nunca he visto tanto dinero en mi vida!
+291	SONNY                         	begin_time	end_time	El trabajador es un tonto, Recuerda eso.
+292	CALOGERO                      	begin_time	end_time	Ahora eso me molestó. Porque mi padre era un hombre trabajador. Y él no era un tonto.
+293	CALOGERO                      	begin_time	end_time	Oye, Sonny, ¿puedo volver mañana y lanzar tus dados otra vez?
+294	SONNY                         	begin_time	end_time	Sí, sí, vuelve mañana.
+295	SONNY                         	begin_time	end_time	Calogero. Ven aquí
+296	SONNY                         	begin_time	end_time	Tenemos que hacer algo con tu nombre. Sin faltar el respeto a tu madre o a tu padre, pero tu nombre es un poco demasiado grande.
+297	SONNY                         	begin_time	end_time	Tenemos que cortarlo. A partir de ahora, te llamaré ... C.
+298	CALOGERO_SONNY                	begin_time	end_time	C?,Si . C de Calogero. 
+299	SONNY_CALOGERO                	begin_time	end_time	Y aquí hay una nota c para C. JOVEN,Son cien dólares, Sonny.
+300	SONNY                         	begin_time	end_time	Put it in your kick, no le digas a nadie dónde lo tienes. Adelante.
+301	CALOGERO                      	begin_time	end_time	Nunca tuve cien dólares antes en mi vida.
+302	SONNY                         	begin_time	end_time	Nunca tuve un compañero antes. Voy a decirle a todos en el barrio que estás conmigo a partir de ahora. 
+303	SONNY                         	begin_time	end_time	Te veré mañana, C.
+305	CALOGERO_DOOWOP               	begin_time	end_time	Sonny comenzó a llevarme a todas partes. GRUPO , Wah-oo- Wah-oo- Wah-oo Wah-oo- Wah-oo
+306	CALOGERO_DOOWOP               	begin_time	end_time	y siempre me presentaba a las personas como su buen amigo. GRUPO , Wah- oo - Wah- oo - Wah- oo - Wah- oo - Wah- oo - Wah- oo -wah,
+307	CALOGERO_DOOWOP               	begin_time	end_time	Y noté que algo extraño comenzó a suceder. GRUPO , Wah-oo-Wah-oo- Wah-oo- Wah-oo- Wah-oo- 
+308	DOOWOP_CALOGERO               	begin_time	end_time	Wah-oo- Wah-oo-wah, Wah-oo- Wah-oo- Wah-oo- JOVEN, A cualquier lugar a donde voy, calle arriba y calle abajo,
+309	CALOGERO_DOOWOP               	begin_time	end_time	Todos son amigos míos, están cayendo a mis pies GRUPO , Wah-oo- Wah-oo- Wah-oo- Wah-oo-wah,
+310	CALOGERO_DOOWOP               	begin_time	end_time	Soy más que un niño, soy parte del juego. GRUPO , Ah…
+311	CALOGERO_DOOWOP               	begin_time	end_time	Ellos saben a dónde voy, con quién estoy, y mi nombre. GRUPO , Ah…
+312	CALOGERO_DOOWOP               	begin_time	end_time	Me llaman "C" y me gusta. GRUPO , “C!”
+313	CALOGERO_DOOWOP               	begin_time	end_time	Es estupendo y me gusta. GRUPO , “C!”
+314	CALOGERO_DOOWOP               	begin_time	end_time	Pisando fuerte, Me siento bien, GRUPO , Wah…
+315	CALOGERO_DOOWOP               	begin_time	end_time	La Avenida Belmont es mía, Y me gusta GRUPO , Ah… Oo…
+316	CALOGERO                      	begin_time	end_time	Buenos días Phil.
+317	PHIL                          	begin_time	end_time	Hola, Calogero ... quiero decir, C! Tengo algunos melocotones buenos para tu madre.
+318	CALOGERO                      	begin_time	end_time	No tengo dinero Phil. 
+319	PHIL                          	begin_time	end_time	No necesitas dinero conmigo. Lo que quieras de ahora en adelante, sin cargo.
+320	PHIL                          	begin_time	end_time	Solo dile a Sonny que te cuidé.
+321	CALOGERO                      	begin_time	end_time	Caramba, gracias, Phil. 
+322	CALOGERO_DOOWOP               	begin_time	end_time	Los chicos en la sala de billar GRUPO , Wah-oo-Wah-oo- Wah-oo- Wah-oo-
+323	CALOGERO_DOOWOP               	begin_time	end_time	Me ruegan para que juegue. GRUPO , Wah-oo- Wah-oo- Wah-oo- Wah-oo-wah,
+324	CALOGERO_DOOWOP               	begin_time	end_time	Los niños en la esquina se quitan de mi camino. GRUPO , Wah-oo- Wah-oo- Wah-oo- Wah-oo-wah,
+325	CALOGERO_DOOWOP               	begin_time	end_time	Las chicas echan miradas que son más dulces que el verano. GRUPO , Ooo… Wah-oo
+326	CALOGERO_DOOWOP               	begin_time	end_time	¿Y por qué? GRUPO , Ah… 
+327	CALOGERO_DOOWOP               	begin_time	end_time	Porque soy un verdadero contendiente! GRUPO , Wah!
+328	CALOGERO_                     	begin_time	end_time	Me llaman "C" y me gusta. MUJERES, "C"! Ah-ah-ah…
+329	CALOGERO_                     	begin_time	end_time	Me sonríen, y me gusta. MUJERES, "C"! Ah-ah-ah…
+330	CALOGERO_                     	begin_time	end_time	Las cosas están bien, sí lo están,La vida es un gran tarro de galletas, MUJERES, Ooo Ooo
+331	CALOGERO_                     	begin_time	end_time	Y me gusta MUJERES, Ah! Wap! Aow…
+332	CALOGERO_                     	begin_time	end_time	Jústamente ayer - Me empujaron a un lado. LISTILLOS, Hey! Hey!
+333	CALOGERO_                     	begin_time	end_time	Justamente ayer -Todos miraron por mí LISTILLOS, Hey! Hey!
+334	CALOGERO_                     	begin_time	end_time	Repentinamente, bam!el mundo sabe quién soy yo, TODOS, Repentinamente, bam! Oh! Wap!
+335	CALOGERO                      	begin_time	end_time	La vida es un paseo de carnaval desde entonces
+336	CALOGERO_                     	begin_time	end_time	Sonny apareció en mi vida TODOS, Aow… 
+337	DOOWOP                        	begin_time	end_time	Wop! Aow... Wah-oo-wah-oo- Wah-oo-wah 
+338	DOOWOP                        	begin_time	end_time	Wop! Aow... Wah-oo-wah-oo- Wah-oo-wah De repente, bam ... !
+339	_DOOWOP                       	begin_time	end_time	Oye! GRUPO , La vida es un paseo de carnaval ...
+340	DOOWOP                        	begin_time	end_time	Wah-oo-wah-oo- Wah-oo-wah, Wah-oo-wah-oo- Wah-oo-wah.
+341	CALOGERO_DOOWOP               	begin_time	end_time	Cuando estoy en la farmacia, Mi coca cola no me cuesta ni un centavo. GRUPO , Wah-oo- Wah-oo- Wah-oo- Wah-oo- Wah-oo-
+342	CALOGERO_DOOWOP               	begin_time	end_time	En el quiosco, libros de historietas gratis todo el tiempo. GRUPO , Wah-oo- Wah-oo- Wah-oo- Wah-oo-wah,
+343	CALOGERO_DOOWOP               	begin_time	end_time	El tendero, El vendedor ambulante, Todo el barrio GRUPO , Ah… Ah…
+344	CALOGERO_DOOWOP               	begin_time	end_time	¡ Donde quiera que vaya, mi dinero no es bueno! GRUPO , Ah…
+345	CALOGERO_                     	begin_time	end_time	Me llaman “C” Y me gusta. TODOS, "C"! Ah-ah ah Doo-dee-doot! Doo-dee-doot!
+346	CALOGERO_                     	begin_time	end_time	Todo es gratis. Y me gusta. TODOS, Ah-ah-ah Doo-dee-doot! "C"! Doo-dee-doot!
+347	CALOGERO_                     	begin_time	end_time	Tengo un estilo, tengo representant,Tengo un balanceo en mi paso, TODOS, Ah…
+348	CALOGERO_                     	begin_time	end_time	Tengo el efectivo y el grupo todo por divina por quién. TODOS, Ah… Ooo…
+349	CALOGERO_                     	begin_time	end_time	Nada va a ser lo mismo, TODOS, Ah
+350	CALOGERO_                     	begin_time	end_time	¡Comenzando con mi nuevo nombre! TODOS, "C"!
+351	CALOGERO_DOOWOP               	begin_time	end_time	Y me gusta Sí - Me gusta, GRUPO , Oo-wah-oo- Wah-oo-wah Me gusta, si!
+352	CALOGER_DOOWOP                	begin_time	end_time	Woh… Me gusta! GRUPO , Oo-wah-oo- Wah-oo-wah Me gusta sí! Ah…
+353	DOOWOP                        	begin_time	end_time	Wap! Aow! 
+354	_CALOGERO                     	begin_time	end_time	Wah-oo-Wah-oo- Wah-oo- Wah-oo-wah Me gusta! JOVEN , Me gusta, Me gusta, Si … 
+355	_CALOGERO                     	begin_time	end_time	Wah-oo-Wah-oo- Wah-oo- Wah-oo-wah Me gusta! JOVEN , Me gusta, Me gusta, Si …
+356	CALOGERO_DOOWOPGROUP          	begin_time	end_time	Me gusta, Me gusta, Si …, Wah-oo- Wah-oo- Wah-oo-wah, Ow! 
+357	LORENZO_CALOGERO              	begin_time	end_time	Calogero, ¿qué es esto? JOVEN,¿Qué es qué, papá?
+358	LORENZO                       	begin_time	end_time	Esto. Encontré esto en tu cuarto. ¿De dónde sacastes esto?
+359	CALOGERO                      	begin_time	end_time	Es es dinero que he estado ahorrando, papá.
+360	LORENZO                       	begin_time	end_time	¡¿ Mil docientos dólares has estado ahorrando?! ¿ Te convertistes en un neurocirujano de la noche a la mañana, hijo? 
+361	CALOGERO                      	begin_time	end_time	No, papá, trabajé para eso.
+362	ROSINA_CALOGERO               	begin_time	end_time	Haciendo qué? JOVEN,Cosas.
+363	LORENZO_CALOGERO              	begin_time	end_time	¿ Que cosas? JOVEN,Unas pocas cosas por aquí, unas pocas cosas por allá -
+364	ROSINA                        	begin_time	end_time	¿Que cosas haces?
+365	CALOGERO_ROSINA               	begin_time	end_time	Trabajé en los juegos de dados – ,¿¿ Qué??
+366	CALOGERO_LORENZO              	begin_time	end_time	Sonny me dió un trabajo – ,Sonny ... lo sabía.
+367	LORENZO                       	begin_time	end_time	No es de extrañar por qué el vecindario Trata a un chico como él tan malditamente bien.
+368	LORENZO                       	begin_time	end_time	Jugando dados y dando brillo a su coche Vamos directo al bar para devolver el dinero.
+369	CALOGERO_LORENZO              	begin_time	end_time	¿ Qué?, Cuida tu lenguaje, harás enfadar a tu madre.
+370	CALOGERO_ROSINA               	begin_time	end_time	Pero —,Shh!
+371	LORENZO                       	begin_time	end_time	¡Está bien! Tú no has visto nada todavía
+372	CALOGERO                      	begin_time	end_time	¡ Papá, papá, no lo hagas no digas nada, por favor!
+373	CALOGERO                      	begin_time	end_time	Hice una promesa a Sonny ... 
+374	LORENZO_ROSINA                	begin_time	end_time	Vamonos. Ahora!,Espera. 
+375	ROSINA_LORENZO                	begin_time	end_time	No tomemos decisiones precipitadas.,¿ Qué?
+376	ROSINA                        	begin_time	end_time	Dinero como ese no se saca de un sombrero. Quiero decir, mil doscientos dólares
+377	ROSINA_LORENZO                	begin_time	end_time	Podemos comprar mucho, Es dinero sangriento.
+378	ROSINA                        	begin_time	end_time	Lo sé. Y está mal. Aún así, quiero decir,quién va a saber si lo gastamos o qué?
+379	CALOGERO_LORENZO              	begin_time	end_time	Papá, Papá,, Está sucio,es barato, Y el precio es demasiado caro
+380	LORENZO_CALOGERO              	begin_time	end_time	Toma un centavo, y estás comprometido con él, JOVEN , No digas nada,El dinero es mio
+381	LORENZO_CALOGERO              	begin_time	end_time	Te guste o no. JOVEN, El dinero es mío.
+382	JOVENCALOGERO&ROSINA          	begin_time	end_time	Lorenzo, consideralo por favor? Lorenzo, por favor! 
+383	LORENZO                       	begin_time	end_time	Sonny, me gustaría hablar contigo.
+384	SONNY_CALOGERO                	begin_time	end_time	Hola, Lorenzo, ¿ cómo estás? Hola C. JOVEN,Hola, Sonny.
+385	LORENZO                       	begin_time	end_time	Sonny, quiero cojas este dinero. Nosotros no podemos aceptarlo.
+386	SONNY                         	begin_time	end_time	Sin faltarte el respeto, Lorenzo, pero no te lo dí a tí. Se lo dí a tu hijo. Él trabajó por el.
+387	LORENZO                       	begin_time	end_time	Está bien. " Hijo mío". No quiero que mi hijo se involucre en tu mierda.
+388	SONNY                         	begin_time	end_time	Disculpe, Lorenzo, ¿de que mierda estás hablando?
+389	LORENZO_SONNY                 	begin_time	end_time	Por favor, no soy un hombre estúpido. Te estoy advirtiendo, mantente alejado de mi hijo.,¿ Qué has dicho?
+390	SONNY                         	begin_time	end_time	Tony, si éntate. 
+391	SONNY                         	begin_time	end_time	Hola Lorenzo, tú y yo deberíamos hablar. C - Me gustaría que dieras un paseo.
+392	LORENZO                       	begin_time	end_time	Oye- soy su padrey yo decidiré.
+393	LORENZO                       	begin_time	end_time	Calogero, espera afuera. 
+394	SONNY                         	begin_time	end_time	Antes que nada, no me faltes al respeto. Número dos, yo enseño a tu muchacho correctamente
+395	SONNY                         	begin_time	end_time	Haz lo correcto, ir a la universidad...
+396	LORENZO                       	begin_time	end_time	Por favor, Sonny – Él no necesita tu tipo de conocimiento
+397	LORENZO                       	begin_time	end_time	La ropa, Los autos, el dinero, Las chicas, todo el poder, ¿ qué significa?
+398	LORENZO                       	begin_time	end_time	Ahora él dice que Mickey Mantle no pagaría mi renta. 
+399	SONNY_LORENZO                 	begin_time	end_time	¿Puedes creer a este chico?,No es gracioso.
+400	LORENZO                       	begin_time	end_time	No es gracioso cuando tu hijo de nueve años tiene una cuenta bancaria más grande que tú.
+401	SONNY                         	begin_time	end_time	Ese no es mi problema, Lorenzo. Estoy seguro de que recuerdas que te ofrecí un trabajo.
+402	SONNY                         	begin_time	end_time	Todo lo que tenía que hacer era dejar caer mis números de una parada de autobús a otra.
+403	SONNY                         	begin_time	end_time	Nadie habría sospechado de tí por quién eres.
+404	SONNY                         	begin_time	end_time	Hubiera significado otros ciento cincuenta dólares a la semana para tí, pero tú me dijistes "no".
+405	LORENZO                       	begin_time	end_time	Así es, lo hice. Y te diría " no"otra vez. No pudistes corromperme, así que ahora quieres corromperlo a él.
+406	SONNY                         	begin_time	end_time	¿Qué demonios es tu problema. Trato ese niño como si fuera mi hijo -
+407	LORENZO                       	begin_time	end_time	Él no es tu hijo! 
+408	SONNY_LORENZO                 	begin_time	end_time	¡ Saquenlo de aquí! Yo me lavo las manos contigo.,¡ Manténte alejado de el!
+409	SONNY_LORENZO                 	begin_time	end_time	¡Lo quiero fuera de aquí! ,Alejate de -
+410	CALOGERO                      	begin_time	end_time	¿ Dónde está mi dinero, papá? ¿ Qué dijo Sonny? ¿Me puedes dar mi dinero?
+411	LORENZO_CALOGERO              	begin_time	end_time	Lo dejé allí. JOVEN ,¿ Qué? ¡ Como pudistes hacer eso! Trabajé para ganarlo. Era mi dinero.
+412	LORENZO                       	begin_time	end_time	Es dinero sucio.
+413	CALOGERO_LORENZO              	begin_time	end_time	No lo es. Es mío.,Mantente alejado de él.
+414	CALOGERO_LORENZO              	begin_time	end_time	Quiero mi dinero. ,¡Cállate!
+415	CALOGERO_LORENZO              	begin_time	end_time	¡ Papá, lo quiero!,¡Para!
+416	CALOGERO_LORENZO              	begin_time	end_time	¡ Quiero mi dinero! ¡Dame mi dinero! ,¡ NO! 
+417	CALOGERO                      	begin_time	end_time	Papá, ¿por qué me pegastes? ¿Por qué? Sonny tiene razón. El tiene razón. El hombre trabajador es un iluso. Él es un iluso
+418	LORENZO                       	begin_time	end_time	Sonny está equivocado. No hace falta mucha fuerza para apretar un gatillo, Calogero. Me gustaría verlo levantarse todas las mañanas y trabajar para ganarse la vida.
+419	LORENZO                       	begin_time	end_time	Entonces veremos quién es el verdadero tipo duro es. Tu padre es el tipo duro. Ese hombre es malo.
+420	CALOGERO                      	begin_time	end_time	¿ Cómo podría ser malo? Todos lo quieren. Como a tí en el autobús. Ellos te quieren, ellos lo quieren a él, es lo mismo!
+421	LORENZO                       	begin_time	end_time	No es lo mismo. La gente no lo quieren. Ellos le temen. Hay una diferencia.
+422	CALOGERO_LORENZO              	begin_time	end_time	No lo entiendo Papá.,Lo entenderás cuando seas mayor. 
+423	LORENZO                       	begin_time	end_time	Lamento haberte golpeado. Sabes que te quiero. Solo aléjate de él. ¿Vale?
+424	CALOGERO                      	begin_time	end_time	Vale. 
+425	CALOGERO_DOOWOP               	begin_time	end_time	Creo que debería haber escuchado. Pero sólo era un niño. GRUPO , Oo… Oo…
+426	CALOGERO_DOOWOP               	begin_time	end_time	Pensé que sabía mejor. Y diablos, quizás así fué. GRUPO , Oo… Oo…
+427	CALOGERO_DOOWOP               	begin_time	end_time	Desde fuera del bar, oí voces que sabía ... GRUPO , Oo… Oo…
+428	CALOGERO_DOOWOP               	begin_time	end_time	Y música, y risas y la voz de Sonny también ... GRUPO , Oo… Oo… 
+429	CALOGERO_CALOGERO             	begin_time	end_time	Y me sentí mal, JOVEN, Pero me gustó.
+430	CALOGERO_CALOGERO             	begin_time	end_time	Ignoré a mi padre, JOVEN, Porque me gustó.
+431	CALOGERO                      	begin_time	end_time	Y si él no lo sabía, demonios, ¿ qué es una hora más o menos ...? 
+432	CALOGERO&JOVENCALOGERO        	begin_time	end_time	Y de alguna manera, una hora se convirtió en dos Y de alguna manera dos horas continuaban y así sucesivamente.
+433	CALOGERO_CALOGERO             	begin_time	end_time	Las horas se convirtieron en días, JOVEN, Las semanas pasaron en una neblina,
+434	CALOGERO&JOVENCALOGERO        	begin_time	end_time	Hasta que pasaron ocho años, Sin ningúna señal de parar -
+435	DOOWOP                        	begin_time	end_time	Ah-oo dahtn Dahtn dahtn dah... Well, ah-oo dahtn dathn dahtn dah... Doh dee do...
+436	CALOGERO_DOOWOP               	begin_time	end_time	Y el alcance de Sonny siguió creciendo, ¿Y adivina en qué se convirtió? GRUPO , Wah-oo-wah-oo- Wah-oo- Wah-oo-
+437	CALOGERO_DOOWOP               	begin_time	end_time	El capo di tutti capi, el nombre más grande de la costa este. GRUPO , Wahoo- Wah-oo- Wah-oo-wah,
+438	CALOGERO_DOOWOP               	begin_time	end_time	Y los mafiosos vendrían GROUPO , Ah...
+439	CALOGERO_DOOWOP               	begin_time	end_time	De todas partes del país, para presentar sus respetos, GRUPO , Ah...
+440	CALOGERO_DOOWOP               	begin_time	end_time	Besar su anillo, estrechar su mano- GRUPO , Ah...
+441	CALOGERO_L.A.                 	begin_time	end_time	L.A.!,¡ Hola, Louie! ¿Como estas?
+442	CALOGERO                      	begin_time	end_time	Miami— MIAMI ¿ Cómo estoy? ¿ Cómo estás?
+443	CALOGERO_CHICAGO              	begin_time	end_time	Chicago—,Estoy bien. ¿ Cómo estás?
+444	CALOGERO_DETROIT              	begin_time	end_time	Detroit– ,No me puedo quejar.
+445	CALOGERO_VEGAS                	begin_time	end_time	Las Vegas—,Te ves bien.
+446	DETROIT_CHICAGO&VEGAS         	begin_time	end_time	No, tú te ves bien.,No, tú te ves bien.
+447	MIAMI_L.A._CHICAGO_DETROIT&VEGAS	begin_time	end_time	No, tú te ves bien.,No, tú te ves bien.
+448	CALOGERO                      	begin_time	end_time	¡ Muchachos! 
+449	CALOGERO_L.A.                 	begin_time	end_time	Todos se ven bien.,¿Quién coño eres?
+450	SONNY                         	begin_time	end_time	Lo llamo C, Y me gusta él.
+451	SONNY                         	begin_time	end_time	El niño está conmigo, porque me gusta.
+452	SONNY                         	begin_time	end_time	Si sois inteligentes, amigos, mejor que les guste el niño también ...
+453	                              	begin_time	end_time	¡Nos gusta! 
+454	CALOGERO_CAPOS                	begin_time	end_time	Y de repente me encontré en 1968-, Ah
+455	CALOGERO_CAPOS                	begin_time	end_time	Los Yankees en la bodega, Los Beatles sonando genial., Ah
+456	CALOGERO_CAPOS                	begin_time	end_time	Los bares siempre saltando l as risas nunca terminan., Ah
+457	CALOGERO_CAPOS                	begin_time	end_time	Y yo soy el chico de Sonny, soy su chico, soy su amigo., Ah
+458	CALOGERO_DOOWOP               	begin_time	end_time	Y me gusta sí. Me gusta. Oh si. GRUPO , Na na na Na na na Na na na Na na na
+459	CALOGERO_CAPOS                	begin_time	end_time	El reinado de Sonny había comenzado y yo como el hijo de Sonny. Y me gustó. , Ah...Ah... Wah-oo- Wah-oo- Wah-oo- Wah-oo- Wah-oo-
+460	CALOGERO_CAPOS                	begin_time	end_time	Oh, me gustó..., Wah-oo- Wah-oo- Wah-oo- Wah-oo- Wah,
+461	DOOWOP_CALOGERO               	begin_time	end_time	Oo-oo... Oo-oo... Oop!, Me gustó...
+462	NICKY_SLICK&CRAZYMARIO        	begin_time	end_time	Oo-oo... Oo-oo...
+463	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	Cuando no estaba con Sonny, tenía mi propio grupo. , Oo-oo...
+464	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	Pasábamos el tiempo juntos día tras día. , Oo-oo...
+465	CALOGERO_NICKY_SLICK&CRAZYMARIO	begin_time	end_time	Me gustaban esos chicos. Me gustaba cada uno de ellos., Oo.
+466	CALOGERO                      	begin_time	end_time	Estaba Sally el peinado. Lo llamamos así porque su cabello estaba siempre pegado hacia atrás. 
+467	CALOGERO                      	begin_time	end_time	Y Nick el guapo. Era tan guapo quería dormir con el mismo.
+468	CALOGERO                      	begin_time	end_time	Y Mario el loco que escuchaba voces en su cabeza.
+469	MARIOELLOCO                   	begin_time	end_time	¿¿Quién está ahí?? ¡¡Nadie!!
+470	CALOGERO                      	begin_time	end_time	Todo lo que queríamos era ser como Sonny y su grupo. Intentabamos caminar como ellos, hablar como ellos, incluso vestir como ellos. ¿ verdad?
+471	NICKY                         	begin_time	end_time	Absolutamente. 
+472	NICKY                         	begin_time	end_time	¿ Quieres parecerte a un hombre que merece respeto? Será mejor que comiences parte del vestuario.
+473	NICKY_                        	begin_time	end_time	Necesitas el traje,camisa y corbata - Estoy hablando totalmente cubierto,
+474	NICKY_CALOGERO_SLICK&CRAZYMARIO	begin_time	end_time	Tu cabello como una obra de arte. ,Si.
+475	NICKY                         	begin_time	end_time	Te pones el sombrero,el aura sofisticada, y rizas tu labio y te mantienes derecho 
+476	NICKY                         	begin_time	end_time	Enciende un cigarrillo y mantenlo estable, adopta una pose yahora estás listo para estar en la esquina toda la noche.
+477	_NICKY                        	begin_time	end_time	¡ No es la verdad!, Tú lo sabes, cada palabra es verdad.
+478	_NICKY_                       	begin_time	end_time	¡ No es la verdad!, Escucha lo que te estoy diciendo,
+479	NICKY                         	begin_time	end_time	No puedes mantener Tu cabeza hacia arriba En un culo barato levantate —
+480	                              	begin_time	end_time	¡ Y esa es la verdad! Ba doo wa, Bop bop ba dada Ba doo wa
+481	MARIOELLOCO                   	begin_time	end_time	¡ Oye! ¿No te conozco de algún sitio?
+482	                              	begin_time	end_time	Sí. Es por eso por lo que no voy por allí más.
+483	MARIOELLOCO_                  	begin_time	end_time	Olvidense de ella. Es una puta. EL PEINADO,¿ Cómo lo sabes?
+484	                              	begin_time	end_time	Ella falló mi prueba.
+485	CALOGERO_                     	begin_time	end_time	¿Tu prueba? MARIO EL LOCO,La prueba de Mario. Esta prueba no puede fallar.
+486	MARIOELLOCO                   	begin_time	end_time	¿ Quieres saber si tu chica va a ser "la única"? Le das la prueba de Mario.
+487	MARIOELLOCO                   	begin_time	end_time	La recoges, llévala conduciendo, diviértete un poco, Y luego, aquí está lo que sugiero
+488	MARIOELLOCO                   	begin_time	end_time	La llevas a la autopista y te pones al lado de uno de esos dieciocho ruedas
+489	MARIOELLOCO                   	begin_time	end_time	Tocas la bocina BEEP BEEB- saludas al conductor. Asegúrate que ella te está mirando, es muy importante
+490	MARIOELLOCO                   	begin_time	end_time	Luego colocas tu mano detrás de su cabeza. Le susurras al oído y le dices lo que esperas.
+491	MARIOELLOCO                   	begin_time	end_time	Ahora, si ella baja hacia el viejo Brajole, sabiendo que el tipo en el camión de dieciocho ruedas está mirando,
+492	MARIOELLOCO                   	begin_time	end_time	No se puede confiar en ella.
+493	CALOGERO                      	begin_time	end_time	Eres una persona enferma, Mario.
+494	                              	begin_time	end_time	¡¿ No es verdad?!
+495	MARIELLOCO_                   	begin_time	end_time	Ninguna tontería,todas las palabras tienen sentido. CHICOS, ¿ No es verdad?
+496	MARIELLOCO_                   	begin_time	end_time	Ignorarme a su propio costo,Le gusta el pepperoni, no es apta para el matrimonio
+497	                              	begin_time	end_time	Y esa es la verdad Ba doo wa, Bop bop ba dada Ba doo wa, sha sha shoo wada Ba... 
+498	_MARIOELLOCO                  	begin_time	end_time	¡ Oye! ¿ Qué demonios te crees que eres caminando hacia aquí?,Este es nuestro barrio!
+499	CALOGERO                      	begin_time	end_time	No están dando ningún problema olvídalo.
+500	                              	begin_time	end_time	Mi padre me dijo que así es como se comienza. Decía dejas entrar a uno y se apoderan del barrio.
+501	CALOGERO                      	begin_time	end_time	Peinado escucha –
+502	                              	begin_time	end_time	¿ Quieres saber lo que se necesita para ser un verdadero paisan? Te mantienes en el lado correcto.
+503	                              	begin_time	end_time	Y cuando ésos tipos tienen ideas, y están en tu bloque, dejas de actuar de forma educada.
+504	CALOGERO                      	begin_time	end_time	Hey, vamos, Peinado-
+505	                              	begin_time	end_time	Te acercas a sus caras y les muestras dónde sestá su lugar-
+506	MARIOELLOCO_                  	begin_time	end_time	Le bateas las cabezas. PEINADO, Sin duda.
+507	NICKY                         	begin_time	end_time	Porque dejas entrar a uno o dos, y se arruina todo el lugar.
+508	_MARIO&NICKY                  	begin_time	end_time	Y quién más mantendrá los fantasmas fuera., ¡¿ No es verdad?!
+509	_MARIO&NICKY                  	begin_time	end_time	Tu lo sabes, cada maldita palabra., ¡ No es verdad!
+510	                              	begin_time	end_time	Exactamente como siempre hemos oido - La próxima tribu que pase, puedes apostar que le patearemos sus culos.
+511	MARIO&NICKY                   	begin_time	end_time	¡Y esa es la verdad!
+512	                              	begin_time	end_time	Ba do wa, Bop bop ba dada 
+513	CALOGERO_                     	begin_time	end_time	Me molestaba. Todos mis amigos se sentían de la misma manera menos yo. MARIO, NICKY & PEINADO, Ba do wa, Sha sha shoo wada!
+514	CALOGERO_                     	begin_time	end_time	En este barrio, todo giraba en torno a las calles y quién las tenía. MARIO, NICKY & PEINADO, Ba doo wa, Da da de adda, Bop bop bada
+515	CALOGERO                      	begin_time	end_time	No les estaba permitido poner un pie en la Avenida Belmont. Y nosotros no podíamos acercarnos a la Avenida Webster.
+516	CALOGERO                      	begin_time	end_time	La escuela estaba justo en medio de las dos. Pero incluso allí nos mantuvimos separados. Al menos mis amigos lo hicieron.
+517	CALOGERO                      	begin_time	end_time	Yo, lo estaba pasando mal manteniendo las distancias. 
+518	JANE                          	begin_time	end_time	Ese es el chico. El que siempre me mira en los pasillos.
+519	FRIEDA_JANE                   	begin_time	end_time	Bueno, ¿cómo lo sabes a menos que tú mires hacia atrás?,¿No crees que es mono?
+520	DENISE_JANE                   	begin_time	end_time	Creo que es blanco.,¿Oh en serio? No me di cuenta.
+521	FRIEDA                        	begin_time	end_time	Entonces tal vez no estés lo suficientemente cerca.
+522	CALOGERO                      	begin_time	end_time	Esa chica, allí - ¿Soy el único? Uno que la ve?
+523	CALOGERO                      	begin_time	end_time	Esos labios, ese pelo Esos ojos que hacen que me ponga de rodillas.
+524	DOOWOP                        	begin_time	end_time	Oh…
+525	CALOGERO                      	begin_time	end_time	No la mires ... si se dan cuenta, se van a reír de ti con seguridad.
+526	DOOWOP                        	begin_time	end_time	A si que …
+527	CALOGERO                      	begin_time	end_time	¿ Cúal es el problema? Ella no es una de nosotros,
+528	CALOGERO_DOOWOP               	begin_time	end_time	Y estás loco si piensas que esto podría ser alguna vez! GRUPO , Estás loco
+529	CALOGERO_DOOWOP               	begin_time	end_time	Estas soñando, vuelve a la cama estás loco GRUPO , Vuelve a la cama. Estás loco
+530	CALOGERO                      	begin_time	end_time	Las chicas como ella no pasa a chicos como yo.
+531	FRIEDA_DENISE                 	begin_time	end_time	Jane, escúchanos.,Simplemente no está bien.
+532	FRIEDA_DENISE                 	begin_time	end_time	Deja de buscar problemas.,Y deja de mirarlo.
+533	JANE                          	begin_time	end_time	Está bien.
+534	JANE                          	begin_time	end_time	Ese chico, allí mismo ...
+535	JANE                          	begin_time	end_time	Lo veo a cualquier lugar a donde vaya. Él sonríe, lo miro.
+536	JANE_FRIEDA&DENISE            	begin_time	end_time	¿ Podría ser más? Simplemente no sé., ¡No! No seas estúpida -
+537	JANE_FRIEDA&DENISE            	begin_time	end_time	Me lo he dicho un millón de veces antes. , Ah...
+538	FRIEDA&DENISE                 	begin_time	end_time	¡ No! No seas tonta –
+539	JANE_FRIEDA&DENISE            	begin_time	end_time	Él no es tu tipo, y estás loca si crees que esto alguna vez podría ser!
+540	JANE_FRIEDA&DENISE            	begin_time	end_time	¡ Estás soñando! Vuelve a la cama. Estás loca
+541	JANE                          	begin_time	end_time	Chicos como él no pasan –
+542	JANE&CALOGERO_FRIEDA&DENISE   	begin_time	end_time	Y tú simplemente estás loca , Loca
+543	JANE&CALOGERO_FRIEDA&DENISE   	begin_time	end_time	Si crees que esto alguna vez podría ser , Podría ser...
+544	JANE&CALOGERO_FRIEDA&DENIS    	begin_time	end_time	Estas soñando vuelve a la cama estás loca , Regresa a la cama loca
+545	FRIEDA&DENISE_JANE            	begin_time	end_time	Vamonos., Chicos como él no pasan a chicas como yo
+546	FRIEDA&DENISE                 	begin_time	end_time	¡ No! ¡ No!
+547	CALOGERO                      	begin_time	end_time	Chicas como ella no pasan a chicos como yo.
+548	FRIEDA&DENISE                 	begin_time	end_time	¡ No! ¡ No!
+549	CALOGERO&JANE                 	begin_time	end_time	Cosas como estano suceden ...
+550	CALOGERO                      	begin_time	end_time	Y entonces, ella está allí ...La oportunidad nunca más vuelve
+551	CALOGERO                      	begin_time	end_time	Rezo una oración, Respiro profundo, Y cuento hasta diez ... entonces lo sé —
+552	CALOGERO                      	begin_time	end_time	Algo me dice que ella debe sentir lo mismo. C, no lo eches a perder ... Simplemente preguntale su nombre … 
+553	CALOGERO                      	begin_time	end_time	Hola. Te vi parada aquí, y me preguntaba, ¿ estás esperando a alguien?
+554	JANE                          	begin_time	end_time	Sí lo estoy.
+555	CALOGERO_JANE                 	begin_time	end_time	Lo estás, oh, bueno lo siento.,Solo estoy esperando ami hermano. Está retrasado.
+556	CALOGERO_JANE                 	begin_time	end_time	Eso es genial.,¿El que esté retrasado?
+557	CALOGERO                      	begin_time	end_time	No. Que sea tu hermano. Mi nombre es Calogero.
+558	JANE                          	begin_time	end_time	¿ Calogero? ¿ Que clase de nombre es ese?
+559	CALOGERO                      	begin_time	end_time	Es siciliano. Mi familia de Sicilia.
+560	JANE                          	begin_time	end_time	Soy Jane. Mi familiad es de dos bloques hacia abajo y a la izquierda.
+561	CALOGERO_JANE                 	begin_time	end_time	Jane. Me gusta eso. Oye, escucha: ¿sales alguna vez?,¿ Quieres decir como en una cita?
+562	CALOGERO_JANE                 	begin_time	end_time	Sí.,¿Contigo?
+563	CALOGERO_JANE                 	begin_time	end_time	Si.,No.
+564	CALOGERO_JANE                 	begin_time	end_time	¿Por qué?,¿Qué crees ?
+565	CALOGERO                      	begin_time	end_time	Es solo una cita. ¿ Quién sabe? Tú podrías llegar a gustarme. 
+566	JANE_CALOGERO                 	begin_time	end_time	Eres gracioso.,¿Entonces es un sí?
+567	JANE_CALOGERO                 	begin_time	end_time	La gente nos verá.,¿Y una película? Estará oscuro.
+568	JANE                          	begin_time	end_time	No creo que sea un buena idea.
+569	CALOGERO_JANE                 	begin_time	end_time	¿A dónde vas?,¿Por qué lo quieres saber?
+570	CALOGERO                      	begin_time	end_time	En caso de que necesite encontrarte.
+571	JANE_CALOGERO                 	begin_time	end_time	Voy a trabajar.,¿Tienes un trabajo?
+572	JANE                          	begin_time	end_time	Estoy ahorrando para la universidad. ¿Tú no?
+573	CALOGERO                      	begin_time	end_time	¿Universidad? ¿Universidad? ¿ Estás bromeando?
+574	JANE                          	begin_time	end_time	¿ Por qué no? Mi amiga Denise está en tu clase de inglés. Ella dice que eres más inteligente de lo que pareces
+575	CALOGERO_JANE                 	begin_time	end_time	¿Entonces hablas de mí?,Ella dice que realmente puedes escribir.
+576	CALOGERO                      	begin_time	end_time	Sí, bueno, mis amigos se morirían de risa si les dijera que voy a la universidad.
+577	JANE_CALOGERO                 	begin_time	end_time	Quizás necesites amigos nuevos. ,Quizás.
+578	JANE_CALOGERO                 	begin_time	end_time	Tienda de discos Cousins.,¿ Que?
+579	JANE_CALOGERO                 	begin_time	end_time	Ahí es donde trabajo,¿En la carretera Fordham ? 
+580	JANE_CALOGERO                 	begin_time	end_time	Sí. No puedo llegar tarde,¿Y qué hay de tu hermano?
+581	JANE_CALOGERO                 	begin_time	end_time	Dile que no podía esperar. ,No sé cómo es él.
+582	JANE                          	begin_time	end_time	Él es negro. 
+583	CALOGERO                      	begin_time	end_time	Debo estar loco, Pero lo tengo tan malo como puede ser.
+584	CALOGERO                      	begin_time	end_time	¡Dios ayúdame! Ella está tan bien Pero está cruzando una línea
+585	CALOGERO                      	begin_time	end_time	Chicas como ella no suceden - 
+586	CALOGERO                      	begin_time	end_time	Chicas como ella no pueden suceder- Las chicas como Jane no suceden a chicos como -
+587	LORENZO                       	begin_time	end_time	¡ Calogero! ¿ Qué estás haciendo?
+588	CALOGERO_LORENZO              	begin_time	end_time	Oye, papá, tengo una pregunta para ti. ¿ Conoces a Joey Lama el de la cuadra de arriba?,Si.
+589	CALOGERO                      	begin_time	end_time	Bueno, Joey está saliendo con esta chica negra, y los chicos le están dando mucha mierda. ¿Qué piensas de eso?
+590	LORENZO                       	begin_time	end_time	Sabes cómo me siento sobre eso. Me llevo bien con todos en el autobús. Hay buenos y malos en cada clase.
+591	CALOGERO_LORENZO              	begin_time	end_time	¿Lo dices en serio, papá?,Si.
+592	CALOGERO                      	begin_time	end_time	Bueno, ¿qué harías si Alguna vez salí con una chica negra, papá? ¿Qué harías?
+593	LORENZO                       	begin_time	end_time	Nunca harías eso.
+594	CALOGERO                      	begin_time	end_time	Sí, bueno. A veces solo tienes que hacer lo que corazón te dice que hagas.
+595	LORENZO_CALOGERO              	begin_time	end_time	¿Quién te dijo eso?,Joey Lama.
+596	LORENZO                       	begin_time	end_time	Bueno, le dices a Joey Lama que a veces en el calor de la pasión cabecita pequeña le dice a la grande qué hacer.
+597	LORENZO                       	begin_time	end_time	Y la cabeza grande debería pensarlo dos veces.
+598	LORENZO                       	begin_time	end_time	Te veré arriba. 
+599	CALOGERO                      	begin_time	end_time	¡ Hola Louie! ¡ Louie Beans! ¡ Dónde están los veinte dólares que me debes!
+600	CALOGERO                      	begin_time	end_time	¡ No puedes esquivarme siempre, rata bastarda! 
+601	CALOGERO_SONNY                	begin_time	end_time	¡ Adelante, escapa! ,¡ Oye! ¿a quién estás gritando?
+602	CALOGERO                      	begin_time	end_time	Louie Beans, Sonny. Me debe veinte dólares. Han pasado dos semanas. 
+603	CALOGERO                      	begin_time	end_time	Me está haciendo quedar mal frente a los otros muchachos. Quiero decir, debería golpear a este niño, ¿o qué?
+604	SONNY                         	begin_time	end_time	Bien, lo primero es lo primero; este tipo Louie Beans, ¿es un buen amigo tuyo?
+605	CALOGERO                      	begin_time	end_time	No, él es un imbécil. No soporto al tipo. Pero me debe veinte dólares.
+606	SONNY_CALOGERO                	begin_time	end_time	Olvídate de los veinte.,¿Por qué?
+607	SONNY                         	begin_time	end_time	Él nunca más teva a molestar. Nunca te va a pedir dinero de nuevo.
+608	SONNY                         	begin_time	end_time	Está fuera de tu vida por veinte dólares. Te volvistes barato. Olvídalo.
+609	CALOGERO                      	begin_time	end_time	Tienes razón, Sonny.
+610	SONNY                         	begin_time	end_time	¿Qué te he estado enseñando? Vas a la mejor escuela del mundo, chico - la Universidad de la avenida Belmont.
+611	SONNY                         	begin_time	end_time	Pero tienes que obtener dos educaciones. Una de la calle, y una de la escuela. De esta manera serás el doble de inteligente que todos los demás.
+612	SONNY                         	begin_time	end_time	Lee un libro de vez en cuando...
+613	CALOGERO                      	begin_time	end_time	¿Leer un libro? ¿ Sí, como tú lees?
+614	SONNY                         	begin_time	end_time	Claro que leo. Ellos enviaron a la universidad algunas veces, ¿ Sabes qué estoy diciendo?
+615	SONNY                         	begin_time	end_time	Solía leer filosofía ... ¿ alguna vez oíste de un chico llamado Machiavelli?
+616	CALOGERO_SONNY                	begin_time	end_time	¿Quien?,Niccolo Machiavelli...
+617	SONNY                         	begin_time	end_time	Déjame decirte algo sobre este tipo Nick Machiavelli.
+618	SONNY                         	begin_time	end_time	Si él estuviera cerca hoy sería mi consiglieri.
+619	SONNY_                        	begin_time	end_time	Nicky Machiavelli déjame decirte lo que dijo,
+620	SONNY                         	begin_time	end_time	Si quieres usar las riendas del poder, Primero tienes que usar tu cabeza.
+621	SONNY_claro                   	begin_time	end_time	Nicky conocía todos los ángulos. Nicky lo planteó muy,
+622	SONNY                         	begin_time	end_time	Tienes que elegir miedo o amor, niño. Tienes que elegir amor o miedo.
+623	CALOGERO_SONNY                	begin_time	end_time	¿ Amor o miedo?,Eso es, C.
+624	SONNY                         	begin_time	end_time	El secreto número uno de Nicky fué disponibilidad
+625	SONNY                         	begin_time	end_time	Es por eso que estoy aquí en esta esquina. Justo donde todoel mundo puede ver.
+626	SONNY                         	begin_time	end_time	Todos mis amigos, duermen tranquilos, sabiendo que siempre estoy cerca.
+627	SONNY                         	begin_time	end_time	Mis enemigos saben también, sin embargo- no se trata de amor, es miedo
+628	SONNY                         	begin_time	end_time	Y en cuanto a esos amigos, Nick sugiere una correa realmente corta.
+629	SONNY                         	begin_time	end_time	Trátalos bien, pero hey, no muy bien. Guárdalos en tu deuda, capisce?
+630	SONNY                         	begin_time	end_time	Dar demasiado, y ellos no te necesitarán. Dar muy poco y ellos se burlaran.
+631	SONNY                         	begin_time	end_time	¿ Quieres saber qué darles? La respuesta no es amor, es miedo.
+632	SONNY                         	begin_time	end_time	Frankie, Tony y JoJo- Mira cómo es con ellos.
+633	SONNY                         	begin_time	end_time	Claro, pensarías que estos muchachos me quieren. Piensa otra vez, dice Nicky M.
+634	SONNY                         	begin_time	end_time	Hago una broma,ellos comienzan a reírse 
+635	SONNY                         	begin_time	end_time	Diablos, ellos casi se levantan y animan. 
+636	SONNY                         	begin_time	end_time	Soy gracioso pero no tan gracioso.
+637	                              	begin_time	end_time	Esa risa no es amor, es miedo
+638	SONNY_                        	begin_time	end_time	Entonces, ¿qué es mejor? LISTILLOS, Pah pah-dah
+639	SONNY_                        	begin_time	end_time	Yo, tomo mis señales de Nick. LISTILLOS, Pah pah -dah
+640	SONNY_                        	begin_time	end_time	La bondad se parece mucho a la debilidad, LISTILLOS, Va-doo-dah
+641	SONNY_                        	begin_time	end_time	Incluso cuando tu lo extiendas de forma espesa. LISTILLOS, Pah-doo-wah-doo-wah!
+642	SONNY_                        	begin_time	end_time	El dinero no puede comprar tu amistad, LISTILLOS, Pah pah-dah!
+643	SONNY_                        	begin_time	end_time	El amor siempre puede desaparecer. LISTILLOS, Pah pah-dah!
+644	SONNY_                        	begin_time	end_time	Pero el miedo es efectivo en el banco, chico! LISTILLOS, Bop bah...
+645	SONNY_                        	begin_time	end_time	El miedo pone el gas en tu tanque, chico! LISTILLOS, Bop bah...
+646	SONNY_                        	begin_time	end_time	Y ahora tienes a Nicky para agradecerle, chico! LISTILLOS, Bop bah...
+647	SONNY_                        	begin_time	end_time	¡Olvidate del amor! LISTILLOS, Pah-pah-pow! 
+648	SONNY                         	begin_time	end_time	Elige el miedo! 
+649	CALOGERO                      	begin_time	end_time	En el Chez Bippy, cualquier extraño que entraba era un gran problema. Ese día, entró una pandilla de motociclistas. Ellos tenían una reputación.
+650	_LÍDERDELABANDA               	begin_time	end_time	Disculpe. No pueden entrar. Estamos cerrados.,Solo queremos un trago.
+651	SONNY                         	begin_time	end_time	¿Hay algún problema aquí? 
+652	                              	begin_time	end_time	No hay problema. Solo nos gustaría tomar algunas cervezas. ¿Tal vez podría ayudarnos, señor? 
+653	SONNY                         	begin_time	end_time	Usted habló como un caballero. Se lo agradezco. Rudy, dales sus cervezas.
+654	                              	begin_time	end_time	Oye, gracias por las cervezas. 
+655	SONNY                         	begin_time	end_time	Eso no fue muy agradable. Ahora tú y tu amigos tienen que irse.
+656	                              	begin_time	end_time	Oh, ¿ tenemos que irnos? ¿ han oido eso muchachos? Este extranjero dice que debemos irnos. 
+657	                              	begin_time	end_time	Este es nuestro lugar ahora guinea, no nos vamos. Tú nos hechas. 
+659	SONNY                         	begin_time	end_time	Ahora no puedes irte. 
+660	SONNY                         	begin_time	end_time	¡ Mírame! !Mira mi cara! ¡ Recuérdame! Mi nombre es Sonny.
+661	SONNY                         	begin_time	end_time	Y yo soy el que te hizo esto. 
+662	SONNY                         	begin_time	end_time	Y nunca más confundas la amabilidad con la debilidad.
+663	SONNY                         	begin_time	end_time	Buen trabajo, amigos. Rudy, dales bebidas a todos de mi cuenta. Y hazme algo de comer.
+664	                              	begin_time	end_time	¿ Qué te parece linguini con almejas, Sonny?- 
+665	SONNY                         	begin_time	end_time	Escucha ahora lo que te digo. Este consejo es para tí-sabes quién es
+666	SONNY                         	begin_time	end_time	Amor o miedo-depende de ti, chico. Pero tú vives con lo que tu eliges
+667	SONNY                         	begin_time	end_time	Nicky me contó su secreto. Le debo al hombre toda mi carrera.
+668	SONNY                         	begin_time	end_time	Entonces ahora depende de tí creo que vas a elegir el amor
+669	SONNY                         	begin_time	end_time	O miedo?
+670	SONNY                         	begin_time	end_time	Piénsalo. 
+671	CALOGERO                      	begin_time	end_time	Nadie se mete con nosotros ¿Me escuchas? Este es nuestro barrio. Ahora vete de aquí. 
+672	LORENZO                       	begin_time	end_time	¿ Cuando sucedió? ¿ Cómo te perdí? ¿Por qué me quedé allí y dejé que ese hombre te usara?
+673	LORENZO                       	begin_time	end_time	No lo veré suceder - Hijo, me niego a hacerlo. 
+674	LORENZO                       	begin_time	end_time	Yo estaba allí en la mañana cuando viste la luz por primera vez.
+675	LORENZO                       	begin_time	end_time	Te llevé sobre mis hombros, te metí en la cama todas las noches. 
+676	LORENZO                       	begin_time	end_time	Te enseñé cómo jugar pelota, te ví crecer alto - Todavía lo tengo todo dentro.
+677	LORENZO                       	begin_time	end_time	Y no importa lo que cueste, no dejaré que eso se pierda-
+678	LORENZO                       	begin_time	end_time	Hijo, estas calles no te alejarán de mí.
+679	LORENZO                       	begin_time	end_time	No, estas calles no romperán esta familia.
+680	LORENZO                       	begin_time	end_time	No se como, pero no te perderé ahora, No en estas calles. 
+681	LORENZO                       	begin_time	end_time	No te dije que dando vueltas alrededor de Sonny mierdas pasan. Ven arriba.
+682	CALOGERO_LORENZO              	begin_time	end_time	No.,¿Qué dijiste? 
+683	CALOGERO                      	begin_time	end_time	¿ Qué iba a hacer, papá? Huir, ¿ hacerles pensar que no tengo corazón?
+684	LORENZO                       	begin_time	end_time	¿Sin corazón? 
+685	LORENZO                       	begin_time	end_time	En estas calles, no quiere decir nada. Créeme, a ellos no les importa
+686	CALOGERO_LORENZO              	begin_time	end_time	No conoces a Sonny.,Sé cómo piensa .
+687	LORENZO                       	begin_time	end_time	Lo estropeas una vez, y mira lo que pasa, te dejarán sangrado en algún lado.
+688	CALOGERO                      	begin_time	end_time	Te equivocas - Sonny confía en mí!
+689	LORENZO                       	begin_time	end_time	No hay honor, no hay confianza - Ellos hacen lo que tienen que hacer, Matarán si está justificado.
+690	LORENZO_CALOGERO              	begin_time	end_time	Serás un peón en su guerra ...,Vamos, papá...
+691	LORENZO                       	begin_time	end_time	Estabas destinado a ser mucho más!
+692	CALOGERO                      	begin_time	end_time	¿ Sí? ¿para que estaba destinado? 
+693	LORENZO                       	begin_time	end_time	No quiero que tengas que mirar por encima del hombro todo el tiempo, o deberle algo a alguien. Quiero que tengas una vida mejor que esa.
+694	CALOGERO                      	begin_time	end_time	¿Como la tuya? No tenemos coche. Sin dinero. No tenemos nada.
+695	LORENZO                       	begin_time	end_time	Tienes que mirar a tu corazón, Calogero.
+696	CALOGERO                      	begin_time	end_time	¿ Qué voy a ser? ¿Un conductor de autobús como tú?
+697	LORENZO                       	begin_time	end_time	¡No te atrape aquí, sé inteligente!
+698	CALOGERO_LORENZO              	begin_time	end_time	Sonny tiene razón -, ¡ Calogero!
+699	CALOGERO                      	begin_time	end_time	¡ El hombre que trabaja es un iluso!
+700	LORENZO_CALOGERO              	begin_time	end_time	¡ Calogero!,¡ Él es un Iluso!
+701	LORENZO                       	begin_time	end_time	Estas calles, van a alejarte de mí
+702	LORENZO                       	begin_time	end_time	Porque estas calles, eventualmente te romperán.
+703	LORENZO                       	begin_time	end_time	Perderás.Así que date cuenta y elige … 
+704	LORENZO                       	begin_time	end_time	Recuerda la promesa que has hecho ... Calogero ...
+705	LORENZO                       	begin_time	end_time	No dejes que tu vida se pierda
+706	LORENZO                       	begin_time	end_time	Me prometistes... ¡me prometió! ¡ mira a tu corazón!
+707	_SONNY                        	begin_time	end_time	¡ Tíralos! ¡ Tíralos!, Tíralos, C...
+708	ROSINA_                       	begin_time	end_time	Lorenzo... LISTILLOS, ¡ Tíralos!
+709	LORENZO_DOOWOP                	begin_time	end_time	¡ Calogero! GRUPO , Wah-dah...
+710	                              	begin_time	end_time	¡ Tíralos!
+711	SONNY_DOOWOP                  	begin_time	end_time	Oye C, vamos, necesito que tires mis dados. GRUPO , Wah-dah...
+712	ROSINA_                       	begin_time	end_time	Escúchame... LISTILLOS, ¡ Tíralos!
+713	LORENZO_WOP                   	begin_time	end_time	Recuerda la promesa que hicistes ... GRUPO , Wah-dah...
+714	_SONNY                        	begin_time	end_time	¡ Tíralos!, Vamos y ven conmigo...
+715	DOOWOP_ROSINA                 	begin_time	end_time	Wah-dah..., Lorenzo...
+716	_LORENZO                      	begin_time	end_time	¡ Tíralos!, ¡ Calogero!
+717	DOOWOP_                       	begin_time	end_time	Wah-dah... LISTILLOS, ¡ Tíralos!
+718	SONNY_LORENZO                 	begin_time	end_time	C! vamos, te necesito., ¡Mira a tu ... corazón! 
+722	JANE                          	begin_time	end_time	Woah 
+723	JANE_DENISE_FRIEDA&JESSE      	begin_time	end_time	Oh oh oh... Oh oh oh , Bm bm bm Ah boh bm bm ah boh, Bo bo bo bo
+724	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Oh, esta es una historia del Bronx. Ya sabes la historia - , Sha na na na na boh Sha na na na na boh, bo bo
+725	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Me fuí con Sonny, y con su grupo. , Sha na na na na boh Ooo la loo bo bo bo bo boh
+726	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Pero no pude deja de mirarte - saber quién , Ooo ooo ooo ooo Ooo ooo ooo ooo Oo! Oo!
+727	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Algunas cuadras abajo en la avenida Webster , Sha na na na na dhoh dhoh dhoh
+728	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Ahí es donde vivía Jane. Estaba a solo un par de paradas de autobús. , Sha na na na na Dhoh dhoh dhoh 
+729	CALOGERO_DENISE_FRIEDA&JESSE  	begin_time	end_time	Pero era un mundo completamente diferente. , Ooo la loo... Dhoh dhoh ooo...
+730	JANE                          	begin_time	end_time	¡Uno! ¡Dos! Uno…
+731	JANE_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Oo oo oop , Oo oo oop
+732	JANE_                         	begin_time	end_time	Sentada en mi entrada GR UPO, Sentada en mi entrada
+733	JANE_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Oo oo oop , Oo oo oop
+734	JANE_                         	begin_time	end_time	Sentada en mi entrada GR UPO, Sentada en mi entrada
+735	JANE_                         	begin_time	end_time	¡Avenida Webster! ¡ sentada con mi grupo! GR UPO, Oo oo oop Sentada en mi entrada
+736	JANE_                         	begin_time	end_time	¡ Te tiene que gustar la vista! ¡Avenida Webster! GR UPO, Oo oo oop Sentada en mi entrada
+737	JANE_                         	begin_time	end_time	Webster Avenue-ue- ue-ue-ue-ue-ue …Avenida Webster GR UPO, Ooo ooo ooo... 
+738	JANE_                         	begin_time	end_time	¡Avenida Webster! ¡ pasando el rato con mi pandilla! GR UPO, Sí, sí, la acera se balancea, sí, sí, los chicos están cantando
+739	JANE_                         	begin_time	end_time	¡ Te tiene que gustar la vista! oh de la Avenida Webster GR UPO, Sí, sí, las calles están suspirando, sí, sí, las chicas se pavonean en un grupo
+740	                              	begin_time	end_time	Oo oo oop...
+741	JANE_                         	begin_time	end_time	Sigue adelante, les tiene que gustar eso Ooo ooo ooo... GR UPO, Oo oo oop... Oo oo oop... Ooo ooo ooo...
+742	JANE                          	begin_time	end_time	Avenida Webster 
+744	JANE_                         	begin_time	end_time	¡Avenida Webster! ¡ pasando el rato con mi pandilla! GR UPO, Sí, sí, la acera se balancea, sí, sí, los chicos están cantando
+745	JANE_                         	begin_time	end_time	¡ Te tiene que gustar la vista! ¡oh, Avenida Webster! GR UPO, Sí, sí, calles están suspirando sí, sí, las chicas se pavonean en un grupo
+746	                              	begin_time	end_time	Sí, sí, las aceras se balancean, Sí, sí, las calles están suspirando 
+747	JANE                          	begin_time	end_time	Sentada en mi ... 
+748	                              	begin_time	end_time	Pataleo! 
+749	                              	begin_time	end_time	Las aceras se balancean, Los chicos están cantando, Las calles están suspirando
+750	JANE_FRIEDA&DENISE            	begin_time	end_time	Las chicas se pavonean en un ...
+751	_TYRONE&JESSE                 	begin_time	end_time	Grou-ou-ou-p Grupo, S entados e n m i... 
+752	FRIEDA_JANE                   	begin_time	end_time	Jane, tenemos que hablar.,¿Acerca de?
+753	DENISE                        	begin_time	end_time	Acerca de pasear y pensar sobre alguien que no deberías estar pensando.
+754	JANE                          	begin_time	end_time	Acabamos de hablar
+755	DENISE_JANE                   	begin_time	end_time	¿Oh en serio? ¿Recuerdas a Felicia, la del bloque abajo? ,¿Qué pasa con ella?
+756	DENISE_FRIEDA                 	begin_time	end_time	Ella acaba de hablar.,Con una guinea.
+757	DENISE                        	begin_time	end_time	Cuando su novio lo descubrió, ella despertó en el hospital.
+758	FRIEDA_JANE                   	begin_time	end_time	Así que será mejor que te calmes.,Lo hice ... más o menos.
+759	DENISE_JANE                   	begin_time	end_time	¿ Qué quieres decir con más o menos?,Podría haber mencionado que trabajo aqui.
+760	FRIEDA_DENISE                 	begin_time	end_time	¿Estas loca? ,Quieres que aparezca.
+761	JANE                          	begin_time	end_time	Quizás sí.
+762	FRIEDA                        	begin_time	end_time	¿Y entonces que? Vas a llevarlo a la Avenida Webster a pasar un rato en el club?
+763	DENISE_FRIEDA                 	begin_time	end_time	¿Por qué mirar quién está aquí?,Qué sorpresa.
+764	CALOGERO_DENISE               	begin_time	end_time	Estaba en el barrio-,Jane, estás sola.
+765	FRIEDA                        	begin_time	end_time	Es mejor que hagas lo que es correcto. Date la vuelta y camina tu culo fuera de aquí
+766	CALOGERO_JANE                 	begin_time	end_time	Ella tiene razón. No debería estar aquí.,Realmente no deberías.
+767	CALOGERO                      	begin_time	end_time	Pero no puedo parar de pensar en ti.
+768	JANE                          	begin_time	end_time	Yo he estado pensando en ti, también.
+769	CALOGERO_JANE                 	begin_time	end_time	Sabes que esto es una locura y que nunca va a funcionar.,Nunca.
+770	CALOGERO_JANE                 	begin_time	end_time	Y sabes que esto solo nos traerá problemas.,Lo sé.
+771	CALOGERO_JANE                 	begin_time	end_time	Entonces, ¿qué hacemos?,Supongo que tendremos ir al cine.
+772	CALOGER                       	begin_time	end_time	Supongo que sí.
+773	JANE_CALOGERO                 	begin_time	end_time	Oye, ¿te puedo preguntar algo?,Claro, cualquier cosa.
+774	JANE_CALOGERO                 	begin_time	end_time	¿ Por qué siempre usas ese sombrero?,¿ No te gusta?
+775	JANE_CALOGERO                 	begin_time	end_time	Es simplemente ... gracioso.,Todos los chicos de mi barrio llevan un sombrero como este.
+776	JANE                          	begin_time	end_time	Sí, es por eso que es gracioso. 
+777	JANE                          	begin_time	end_time	Aquí, pruébalo así. 
+778	CALOGERO_JANE                 	begin_time	end_time	¿Sin sombrero?,Sin sombrero.
+779	CALOGERO                      	begin_time	end_time	¿Como me veo?
+780	JANE                          	begin_time	end_time	Como si fueras diferente de cada chico en tu barrio.
+781	JANE_CALOGERO                 	begin_time	end_time	Y ahora puedo ver tus ojos. Son muy bonitos.,Gracias. Los tuyos también
+782	CALOGERO                      	begin_time	end_time	¡ Pero oye, no golpees mi barrio! ¡ yo amo mi barrio!
+783	JANE                          	begin_time	end_time	¡ Yo también amo el mío! El retumbar del tren ...el olor de la cocina casera ...
+784	CALOGERO                      	begin_time	end_time	Suena como un buen lugar para crecer.
+785	JANE                          	begin_time	end_time	Sí, y también un buen lugar del que salir. ¿ Entiendes lo que estoy diciendo?
+786	CALOGERO                      	begin_time	end_time	Quizás me lo enseñarás cuando venga a recogerte.
+787	JANE                          	begin_time	end_time	¿ Estas loco? Tú no puedes venir a Webster. ¿Por qué no voy yo a por ti?
+788	CALOGERO                      	begin_time	end_time	¿A Belmont? ¿ Estas loca?
+789	JANE_CALOGERO                 	begin_time	end_time	¿ Qué tal la escuela? Será tarde y todos se habrán ido.,Bueno.
+790	JANE                          	begin_time	end_time	¿ Estas seguro que deberíamos hacer esto?
+791	CALOGERO                      	begin_time	end_time	No, pero quiero. 
+792	JANE                          	begin_time	end_time	Creo que estoy loca porque me estoy muriendo por ver a dónde va esto.
+793	JANE                          	begin_time	end_time	No puedo luchar contra esto, tal vez está mal, pero la sensación es muy fuerte 
+794	JANE                          	begin_time	end_time	Cosas como esta no pueden suceder, pero bueno, ¿ quién sabe?
+795	JANE                          	begin_time	end_time	Cosas como nosotros no pueden suceder, pero bueno, quién sabe 
+796	CALOGERO                      	begin_time	end_time	Sonny, Sonny,debo hablar contigo – es importante.
+797	SONNY_CALOGERO                	begin_time	end_time	¿ Cuál es el problema? ¿ necesitas algo de dinero?,No, no, no es eso.
+798	SONNY                         	begin_time	end_time	¿ Alguien te está molestando? ¿ Quieres que enderece a alguien?
+799	CALOGERO                      	begin_time	end_time	No, solo necesito hablar contigo. 
+800	SONNY                         	begin_time	end_time	Eddie, Tony, danos un minuto ...
+801	SONNY_CALOGERO                	begin_time	end_time	Entonces, ¿qué es?,He conocido una chica.
+802	SONNY                         	begin_time	end_time	¡Como! ¡Dime, dime!
+803	CALOGERO_SONNY                	begin_time	end_time	Vamos Sonny, no te rias. Conocí a esta chica -,¡ HO!
+804	CALOGERO                      	begin_time	end_time	Sonny, de verdad me gusta. Pero ella es ...
+805	SONNY                         	begin_time	end_time	¿ Qué? ¡ Dilo ya!
+806	CALOGERO                      	begin_time	end_time	Ella es negra.
+807	SONNY                         	begin_time	end_time	Bueno y que.
+808	CALOGERO                      	begin_time	end_time	Pues, si los chicos se enteran a ser malo.
+809	SONNY                         	begin_time	end_time	Mira C, este barrio tiene una gran personalidad.
+810	SONNY                         	begin_time	end_time	Todas estas cabezas se unen en un solo cerebro. Y no muy inteligente. 
+811	SONNY                         	begin_time	end_time	Como un menos cuatro a veces. ¿ Qué te digo siempre? Tienes que hacer lo que tu corazón te diga que hagas.
+812	SONNY                         	begin_time	end_time	porque vas contra tu corazón, y estás automáticamente incorrecto. Escucha … 
+813	SONNY                         	begin_time	end_time	Hay un tipo de chica que puede enviar tu corazón girando lejos.
+814	CALOGERO_SONNY                	begin_time	end_time	Lo sé., Pero esas son de la clase de las que no te las encuentras todos los días.
+815	SONNY                         	begin_time	end_time	Conocerás a inteligentes, a difíciles sólo suficientemente buenas, están bien, chico, Ve por ahí, disfruta.
+816	SONNY                         	begin_time	end_time	Pero en toda tu vida solo tendrás tres disparos al verdadero McCoy. 
+817	SONNY                         	begin_time	end_time	Y este podría ser uno de los mejores.
+818	SONNY                         	begin_time	end_time	Este podría ser uno de los que no olvidarás
+819	SONNY                         	begin_time	end_time	Si las estrellas en sus ojos hace crecer tu confianza como un cohete que esa punto de estallar,
+820	SONNY                         	begin_time	end_time	Entonces ella podría ser uno de tus mejores – no la dejes ir. 
+821	SONNY_CALOGERO                	begin_time	end_time	Porque tres, C. Tres. ,¿Qué?
+822	SONNY                         	begin_time	end_time	Solo se te permite tres grandes mujeres en tu vida.
+823	SONNY                         	begin_time	end_time	Eso es todo lo que obtienes. Vienen como grandes luchadores. Una vez cada diez años.
+824	SONNY                         	begin_time	end_time	Rocky Marciano, Sugar Ray Robinson, Joe Lewis. 
+825	SONNY                         	begin_time	end_time	A veces obtienes todos a la vez. Tuve mis tres cuando tenía dieciséis. Oye, eso pasa.
+826	CALOGERO_SONNY                	begin_time	end_time	Vamos Sonny,no bromees. Tu nunca tuvistes una buena?,Casi. Una vez
+827	SONNY                         	begin_time	end_time	Ahora sabes al instante, cuando una de tus tres viene.
+828	CALOGERO                      	begin_time	end_time	¿Cómo?
+829	SONNY                         	begin_time	end_time	Porque ella te mira, Y es como tú no puede hacer nada mal.
+830	SONNY                         	begin_time	end_time	Todas las dulces, Las ligeras, Las cercanas pero no tranquilas, Con ellas tienes sólo lo que vés.
+831	SONNY                         	begin_time	end_time	Pero las mejores, niño, te demuestran el hombre que podrías ser.
+832	SONNY                         	begin_time	end_time	Y esta chica podría ser una de las buenas.
+833	SONNY                         	begin_time	end_time	Esta podría ser una en la que puedes apostar.
+834	SONNY                         	begin_time	end_time	¿Vuelas fuera de los railes con el viento en tus velas cada vez que ella te echa un vistazo?
+835	SONNY                         	begin_time	end_time	Entonces ella podría ser una de tus grandes – no desaproveches tu oportunidad. 
+836	SONNY_CALOGERO                	begin_time	end_time	¿ Esta chica, es ella una buena niña? ¿ Puedes confiar en ella?,Creo que si. Acabo de conocerla.
+837	CALOGERO                      	begin_time	end_time	La voy a recoger en la escuela y la voy a llevar al cine esta noche.
+838	SONNY_CALOGERO                	begin_time	end_time	Entonces le haces la prueba.,¿La prueba de Mario? 
+839	SONNY                         	begin_time	end_time	¿Mario? Ese tipo es un trabajo de bobos. Está en un pase de fin de semana. Le das la prueba de Sonny.
+840	SONNY                         	begin_time	end_time	Es a prueba de tontos. Esto es lo que tienes que hacer. Te voy a prestar mi coche-
+841	CALOGERO_SONNY                	begin_time	end_time	Pero tú nunca prestas tu coche a nadie.,Olvida eso,
+842	SONNY                         	begin_time	end_time	conduces a la escuela, sales del coche, bloquea ambas puertas.
+843	SONNY                         	begin_time	end_time	Luego coge las llaves de tu mano derecha, las tiras al aire, las coges con la mano izquierda y las mueves así -
+844	SONNY                         	begin_time	end_time	A las mujeres, les gusta eso, no sé por qué pero les gusta eso.
+845	SONNY                         	begin_time	end_time	Caminas hacia ella guapo y guay y le das el brazo.
+846	SONNY                         	begin_time	end_time	Ella pasa su brazo por el tuyo. La acompañas al coche. Le abres la puerta. Entonces la dejas entrar.
+847	SONNY                         	begin_time	end_time	Luego le cierras la Puerta. Caminas por la espalda del coche, y miras a través de la ventana trasera. 
+848	SONNY                         	begin_time	end_time	Si ella no se acerca y levanta ese boton para que puedas entrar... déjala
+849	CALOGERO_SONNY                	begin_time	end_time	¿Que?,¡ Escúchame!
+850	SONNY                         	begin_time	end_time	Si ella no se acerca y levanta ese botón por ti, entonces ella es claramente una egoísta y todo lo que estás viendo es solo la punta del iceberg.
+851	SONNY_CALOGERO                	begin_time	end_time	La dejas y la dejas rápido.,Pero, ¿y si ella la abre?
+852	SONNY                         	begin_time	end_time	Entonces esta podría ser una de las buenas
+853	SONNY                         	begin_time	end_time	Sí, esta podría ser
+854	SONNY                         	begin_time	end_time	Una de las que no te arrepentirás
+855	SONNY                         	begin_time	end_time	Si ella te sonríe como ella sabe, te lo hará creer de alguna manera
+856	SONNY                         	begin_time	end_time	Entonces, chico, has encontrado una de esas buenas. Ve con ella ahora
+857	SONNY                         	begin_time	end_time	Ve con ella ahora niño, ve con ella ahora
+858	CALOGERO                      	begin_time	end_time	Bien, Sonny, voy a por ello!
+859	SONNY                         	begin_time	end_time	Sí, esta podría ser una de esas buenas.
+860	SONNY                         	begin_time	end_time	Esta podría ser una de las que no te arrepentirás
+861	SONNY                         	begin_time	end_time	Deja que tus tres se escapen, y te preguntarás algún día,
+862	SONNY                         	begin_time	end_time	Si tal vez ... si tan solo ... pero, oh!
+863	SONNY                         	begin_time	end_time	Tú no olvidas una de las buenas. 
+864	SONNY                         	begin_time	end_time	Créeme lo sé. Créeme lo sé. 
+866	JESSE_TYRONE                  	begin_time	end_time	Whoa, whoa, whoa! No voy a atravesar Belmont.,No te preocupes por eso
+867	JESSE                         	begin_time	end_time	Vamos a dar una vuelta de la otra manera.
+868	TYRONE                        	begin_time	end_time	No, no, dago va a dime por dónde caminar. 
+869	TYRONE                        	begin_time	end_time	Tu crees que tengo miedo de algunos estúpidos? Hermano, por favor!
+870	TYRONE                        	begin_time	end_time	Estos wops no son mejores que yo
+871	JESSE                         	begin_time	end_time	Son más tontos que un queso lumpa mozzarella-
+872	JESSE                         	begin_time	end_time	Y grasientos como una pizza
+873	TYRONE_JESSE                  	begin_time	end_time	Ah, sus madres huelen a ajo-, Y sus padres son alcohólicos-
+874	                              	begin_time	end_time	Y sus hermanas tienen un bigote gordo.
+875	JESSE_TYRONE                  	begin_time	end_time	Ellos hablan fuerte--, Pero es un camelo-
+876	JESSE                         	begin_time	end_time	Porque son tan blandos como los macarrones -
+877	_JESSE                        	begin_time	end_time	Solo punk-culo basura inmigrante., Oh...
+878	_TYRONE                       	begin_time	end_time	¡Y esa es la verdad!, Tú lo sabes, cada palabra es verdadera
+879	_JESSE                        	begin_time	end_time	¡Y esa es la verdad!, No tengo miedo de lo que algunos wops harán.
+880	TYRONE                        	begin_time	end_time	De ninguna manera me rendiré ante algunos jactansiosos dobladores de spaguetti.
+881	JESSE                         	begin_time	end_time	Los dagos quieren algo de acción, los pondremos a todos en tracción.
+882	                              	begin_time	end_time	Los guinea hijos de perras, Van a necesitar una docena de puntos. Y esa es la verdad. 
+883	                              	begin_time	end_time	Ustedes fantasmas no escuchan, ¿eh?
+884	NICKY                         	begin_time	end_time	¡ Oye, mira quién ha vuelto!
+885	MARIOELLOCO                   	begin_time	end_time	Tal vez deberíamos darle una lección.
+886	NICKY                         	begin_time	end_time	Chicos, chicos déjenme hablar con ellos. Escuchen muchachos- 
+887	MARIOELLOCO_CALOGERO          	begin_time	end_time	¡ Vamos, C! ¡ vamos!,¡ No!
+888	CALOGERO                      	begin_time	end_time	¡Eso es suficiente!
+889	_CALOGERO                     	begin_time	end_time	¿Que diablos te pasa?,¡Lo vas a matar!
+890	_CALOGERO                     	begin_time	end_time	¡Quiero!,¡Ya es suficiente!
+892	CALOGERO                      	begin_time	end_time	Vamos, Peinado. Los policías.
+893	CALOGERO                      	begin_time	end_time	¡Fuera de aquí!
+894	CALOGERO                      	begin_time	end_time	¡ Fuera de aquí! 
+895	LORENZO_ROSINA                	begin_time	end_time	¿ Qué está pasando allí?,No sé. Algo no está bien.
+896	LORENZO_CALOGERO              	begin_time	end_time	¿Whoa whoa whoa quien es este que acaba de entrar?,Ahora no, papá.
+897	LORENZO_ROSINA                	begin_time	end_time	¿Rosina, no se parece eso a nuestro hijo?,Para.
+898	LORENZO                       	begin_time	end_time	¿No, en serio es ese Calogero? Porque si es él, solo quiero saber si va avolver a cenar con nosotros alguna vez. 
+899	ROSINA                        	begin_time	end_time	Vamos, está con sus amigos.
+900	LORENZO                       	begin_time	end_time	Sí amigos, ¿ ue amigos? ¡ Él debería cenar con nosotros!
+901	ROSINA                        	begin_time	end_time	Por qué - ¿ tu no ereas diferente a su edad?
+902	LORENZO                       	begin_time	end_time	¡ Oh, Dios mío, eres tú! siéntate - ¡ come con nosotros!
+903	CALOGERO_LORENZO              	begin_time	end_time	Tengo prisa.,¿A dónde vas?
+904	CALOGERO                      	begin_time	end_time	Tengo una cita.
+905	ROSINA_CALOGERO               	begin_time	end_time	¿Es ella del barrio?,No.
+906	LORENZO_CALOGERO              	begin_time	end_time	¿Es Italiana?,No.
+907	LORENZO_CALOGERO              	begin_time	end_time	¿Qué pasa con los secretos?,¿Qué pasa con las preguntas?
+908	CALOGERO                      	begin_time	end_time	Es una buena chica, ¿qué quieres que diga?
+909	LORENZO                       	begin_time	end_time	¿De donde es ella?
+910	CALOGERO                      	begin_time	end_time	Avenida Webster. 
+911	CALOGERO                      	begin_time	end_time	¿Hay algún problema con eso? Porque yo no lo creo. Hay bueno y malo en todas las especies. Eso es lo me dijistes ¿verdad?
+912	LORENZO                       	begin_time	end_time	Sé lo que dije, pero salir con una de color está mal. No tengo prejuicios -
+913	CALOGERO                      	begin_time	end_time	Papá, no digas que no tienes prejuicios, porque dices algo como eso,y lo eres. Porque soy yo ahora, es por lo que te sientes diferente?
+914	LORENZO                       	begin_time	end_time	Eso es. No quiero que tengas que pasar por esa mierda.
+915	CALOGERO                      	begin_time	end_time	Quizás yo quiera. Además esta chica podría ser una de mis grandes.
+916	LORENZO_CALOGERO              	begin_time	end_time	¿Grandes? ¿tu amigo Sonny te a dicho eso?,¿Y qué si lo hizo?
+917	LORENZO_CALOGERO              	begin_time	end_time	Sé lo que es mejor para ti.,Quizás él lo sepa.
+918	LORENZO_ROSINA                	begin_time	end_time	ÉL NO ES TU PADRE, YO SOY!,Lorenzo, por favor.
+919	LORENZO                       	begin_time	end_time	Voy a dar un paseo.
+920	LORENZO                       	begin_time	end_time	Ya he terminado contigo.
+921	ROSINA_CALOGERO               	begin_time	end_time	¿Qué demonios te pasa?,¿Qué?
+922	ROSINA                        	begin_time	end_time	Tu padre aguanta mierda todo el día en el autobús, no es justo que venga a casa y le eches más. ¿ Porqué lo lastimas de esa manera? 
+923	CALOGERO                      	begin_time	end_time	El tiene problema con todo lo que digo Ma. 
+924	ROSINA                        	begin_time	end_time	Te diré cuál es el problema. Lo miras y todo lo que ves es alguien que tú no quieres ser.
+925	CALOGERO                      	begin_time	end_time	Tienes razón, yo noquiero ser un conductor de autobús.
+926	ROSINA                        	begin_time	end_time	No lo entiendes. Él no quiere eso para ti.
+927	ROSINA                        	begin_time	end_time	¿Qué es lo que siempre te dice? las cosas más tristes en la vida-
+928	CALOGERO                      	begin_time	end_time	Lo sé ... lo sé ... talento desperdiciado
+929	CALOGERO                      	begin_time	end_time	Lo escuché mil veces. ¿Por qué sigue diciéndome eso? ¿Por qué? 
+930	ROSINA                        	begin_time	end_time	Imagínatelo a los diecisiete años – Vamos, intentalo.
+931	ROSINA                        	begin_time	end_time	Parecía que podía rivalizar con James Dean. Las chicas lloraban.
+932	ROSINA                        	begin_time	end_time	Tocando saxo, gran bailarín, ¡ y qué romancero! Pero yo ví algo más desde el principio-
+933	ROSINA                        	begin_time	end_time	Ese muchacho tenía corazón. Dios, él tenía corazón.
+934	CALOGERO                      	begin_time	end_time	¿ Papá tocaba el saxofón? ¿ De Verdad?
+935	ROSINA                        	begin_time	end_time	¿ Crees que él no pensó en grande? Claro que lo hizo.
+936	ROSINA                        	begin_time	end_time	Arrastrando ese cuerno a cada concierto. Niño de ojos brillantes.
+937	ROSINA                        	begin_time	end_time	Ese sueño, él lo persiguió. Tan cerca que podía saborearlo.
+938	ROSINA                        	begin_time	end_time	Y cada nota que tocaba, una obra de arte. Directamente del corazón. Chico, él tenía corazón.
+939	ROSINA                        	begin_time	end_time	¿ Pregúntame qué pasó?. Bueno, realmenteno no fue dramático.
+940	ROSINA                        	begin_time	end_time	Tu viniste y fué un poco de sorpresa.
+941	ROSINA                        	begin_time	end_time	De alguna manera, el saxo terminó en una caja en el ático.
+942	ROSINA                        	begin_time	end_time	Te diré la razón. Una mirada en tus ojos.
+943	ROSINA                        	begin_time	end_time	Cada días que se sube a ese autobús. Nadie aplaude.
+944	ROSINA                        	begin_time	end_time	¿ Sabes por qué lo hace? Por nosotros. Todos estos años.
+945	ROSINA                        	begin_time	end_time	Claro,que es duro.No puedes juzgarlo.No te atrevas a juzgarlo.
+946	ROSINA                        	begin_time	end_time	A menos que lo juzgues por su parte buena: mira a su corazón. Entonces mira a tu corazón.
+947	CALOGERO_ROSINA               	begin_time	end_time	Lo siento Ma.,No me lo digas a mí, díselo a él.
+948	CALOGERO                      	begin_time	end_time	Está bien ... Mamá, realmente me gusta esta chica.
+949	ROSINA                        	begin_time	end_time	Entonces pásalo bien. Sólo sé cuidadoso. 
+950	CALOGERO                      	begin_time	end_time	Esta puede ser una de las mejores.
+951	CALOGERO                      	begin_time	end_time	Esta podría ser una de las que no olvidaré ...
+952	CALOGERO                      	begin_time	end_time	Cuando la vea esta noche, allí no será negro o blanco,
+953	CALOGERO                      	begin_time	end_time	No va a haber nadie más que ella.
+954	CALOGERO                      	begin_time	end_time	Y si ella es una de mis grandes-
+955	JANE                          	begin_time	end_time	¿Dónde estabas esta tarde?
+956	CALOGERO_JANE                 	begin_time	end_time	¿Qué? ¿Qué quieres decir?,Mi hermano fue golpeado en tu barrio.
+957	CALOGERO_JANE                 	begin_time	end_time	¿De qué estás hablando?,Algunos muchachos italianos golpearon a mi hermano.
+958	CALOGERO                      	begin_time	end_time	¿Y que tiene eso que ver conmigo? 
+959	JANE_CALOGERO                 	begin_time	end_time	Tú estabas ahí.,Cálmate. Dejame decirte lo que pasó.
+960	JANE                          	begin_time	end_time	Dile a mi hermano.
+961	CALOGERO_TYRONE               	begin_time	end_time	Este es tu hermano!,Es él.
+962	CALOGERO_TYRONE               	begin_time	end_time	Oye, espera un minuto.,Me lastimaste.
+963	CALOGERO_JANE                 	begin_time	end_time	Oye, no le digas eso ...,¿Estás seguro de que era él?
+964	TYRONE_CALOGERO               	begin_time	end_time	Fue él, lo vi.,Él está mintiendo, Jane.
+965	TYRONE_CALOGERO               	begin_time	end_time	Jane, escúchame ...,Estaba tratando de ayudarlo, ¡No lo toqué!
+966	TYRONE_CALOGERO               	begin_time	end_time	¡Te estoy diciendo que era él!,¡No fui yo!
+967	TYRONE                        	begin_time	end_time	Entonces, ¿cómo tengo el ojo así?
+968	CALOGERO                      	begin_time	end_time	¡ Sabes que no hice nada!
+969	TYRONE_CALOGERO               	begin_time	end_time	¡No te acerques a mi hermana!,¡No me digas lo que tengo que hacer!
+970	TYRONE_CALOGERO               	begin_time	end_time	Manten tu grasienta guinea mano apartada de ella.,Maldito nig-
+971	JANE_TYRONE                   	begin_time	end_time	¿ Calogero...?,¿ Qué te dije?
+972	TYRONE                        	begin_time	end_time	¡ Él es como el resto! No puedes confiar en él.
+973	JANE                          	begin_time	end_time	Pensé que eras diferente.
+974	CALOGERO_TYRONE               	begin_time	end_time	Jane—, ¡Él es como el resto!
+975	TYRONE                        	begin_time	end_time	Sí, él es como el resto !no puedes confiar en él.
+976	TYRONE                        	begin_time	end_time	Vamonos.
+977	CALOGERO                      	begin_time	end_time	¿Sientes ese dolor dentro de ti ardiente caliente y blanco?
+978	CALOGERO                      	begin_time	end_time	¿ Quieres detenerlo? Ve a lastimar a alguien.
+979	CALOGERO                      	begin_time	end_time	Toda esa vergüenza y enojo, Contenida muy apretada.
+980	CALOGERO                      	begin_time	end_time	Tienes que dejarla estallar, Y lastimar a alguien.
+981	SONNY                         	begin_time	end_time	¡Oye C! ¿Por qué as vuelto tan rápido?
+982	CALOGERO                      	begin_time	end_time	Aquí tienes tus llaves, Sonny. Gracias por el coche pero simplemente no funcionó, ¿de acuerdo?
+983	SONNY_CALOGERO                	begin_time	end_time	¿ Qué quiere decir?,Escucha, no puedo hablar ahora.
+984	SONNY                         	begin_time	end_time	Muy bien, vamos a la pista, vamos vamos.
+985	CALOGERO                      	begin_time	end_time	Déjame solo. Me tengo que ir.
+986	SONNY_CALOGERO                	begin_time	end_time	¿Qué diablos te pasa?,No puedo hablar ¡me tengo que ir!
+987	SONNY                         	begin_time	end_time	¿Que demonios le pasó? 
+988	CALOGERO_TYRONE_JESSE&GRUPODOOWOP	begin_time	end_time	Es como un puño dentro de ti, ¿No sientes como golpea?
+989	NICKY_MARIO_PEINADO&GRUPODOOWOP	begin_time	end_time	¡Golpeando como un martillo!
+990	CALOGERO_TYRONE_JESSE&GRUPODOOWOP	begin_time	end_time	¿Sientes como golpea?
+991	&GRUPODOOWOP                  	begin_time	end_time	¡Golpeando como un martillo!
+992	DOOWOP                        	begin_time	end_time	Te va a destrozar a menos que lo dejes salir,y lo propagues a tu alrededor.
+993	                              	begin_time	end_time	¿No quieres herir a alguien ahora? 
+994	                              	begin_time	end_time	C, te hemos estado buscando por todo el barrio. ¿ Dónde has estado?
+995	CALOGERO                      	begin_time	end_time	¿Qué pasa?
+996	_MARIOELLOCO                  	begin_time	end_time	¡ Esos moulinyams destrozaron mi coche!,Lo van a pagar bien.
+997	NICKY_                        	begin_time	end_time	Las cosas se han vuelto locas PEINADO, Las cosas están fuera de control.
+998	MARIOELLOCO                   	begin_time	end_time	¿Y dónde demonios has estado?
+999	CALOGERO                      	begin_time	end_time	He estado fuera. Pero estoy aquí ahora. ¿ Qué hacer quieres hacer?
+1000	                              	begin_time	end_time	Es hora de enviar un mensaje. Esos moulis entenderán.
+1001	                              	begin_time	end_time	Entonces, ¿podemos contar contigo?
+1002	CALOGERO                      	begin_time	end_time	¡Sí! ¡Cuenta conmigo!
+1003	NICKY_                        	begin_time	end_time	Tenemos un barrio y gente que proteger - PEINADO & MARIO EL LOCO, C, consiguieron venir.
+1004	NICKY_                        	begin_time	end_time	¿Al menos que te opongas? PEINADO & MARIO EL LOCO, Hombre, consiguieron entrar.
+1005	NICKY                         	begin_time	end_time	Y hay una deuda pendiente, ¿por qué no cobrarla?
+1006	NICKY_PEINADO&MARIO           	begin_time	end_time	¡ Vamos a enseñarles un poco de respeto! 
+1007	CORO_NICKY_SLICK&MARIO        	begin_time	end_time	Siente esa ira dentro de ti, ¿ listos para explotar?, ¡ Vamos a hacer daño a alguien!
+1008	MARIOELLOCO                   	begin_time	end_time	¡ Sí, quiero hacer daño a alguien!
+1009	CORO                          	begin_time	end_time	¿ No te sentirías mejor si simplemente lo dejaras ir?
+1010	_CORO                         	begin_time	end_time	¡Es hora de lastimar a alguien! , Cede a la sensación, deja que estalle a través de ...
+1011	MARIOELLOCO_CALOGERO          	begin_time	end_time	¿Y tú que?,¿ Yo?
+1012	&MARIOELLOCO                  	begin_time	end_time	Si, t u—
+1013	_MARIO&NICKY                  	begin_time	end_time	¿ No quieres hacer daño a alguien también?
+1014	                              	begin_time	end_time	Oye, C.ven con nosotros.
+1015	CALOGERO_                     	begin_time	end_time	Ahora no. TONY DIEZ PARA LAS DOS,¡Te digo ahora! Sonny quiere que vayas. Vamonos.
+1016	TYRONE                        	begin_time	end_time	¿Todavía estás en la luna por esa pequeño wop?
+1017	TYRONE_&JESSE                 	begin_time	end_time	Te dije lo que hizo - MUJERES, No puedes confiar en él.
+1018	TYRONE_&JESSE                 	begin_time	end_time	Oíste lo que dijo. MUJERES , No puedes confiar en él.
+1019	JANE                          	begin_time	end_time	Pero él no es como el resto...
+1020	TYRONE                        	begin_time	end_time	A pesar de que intentó que los otros se detuvieran-
+1021	JANE_FRIEDA&DENISE            	begin_time	end_time	¿ Que?
+1022	TYRONE                        	begin_time	end_time	Estoy de humor para hacer daño a alguien, y él es el indicado. 
+1023	JANE_TYRONE                   	begin_time	end_time	¿ Espera, intentó hacer que se detuvieran? ,¿Y qué si lo hizo?
+1024	JANE_TYRONE                   	begin_time	end_time	Pero tu me dijistes que él te golpeó.,¿Cual es la diferencia?
+1025	JANE                          	begin_time	end_time	¡Eso lo cambia todo!
+1026	TYRONE_JANE                   	begin_time	end_time	¿A dónde vas?,Tengo que encontrarlo.
+1027	                              	begin_time	end_time	¡ Cuéntanos la verdad!
+1028	SONNY                         	begin_time	end_time	Después que recogistes mi coche, ¿a dónde fuistes?
+1029	CALOGERO_SONNY                	begin_time	end_time	Fui a buscar a Jane. ¿Por qué?,¿Jane estaba allí realmente?
+1030	CALOGERO_SONNY                	begin_time	end_time	¿Qué quieres decir?,Después de que dejaste mi coche y huistes, nos detuvimos para poner un poco de gasolina.
+1031	SONNY                         	begin_time	end_time	El tipo abrió el capó para revisar el aceite, había un artefacto en el motor. Un artefacto.
+1032	SONNY                         	begin_time	end_time	No explotó porque fue creado por un aficionado.
+1033	SONNY                         	begin_time	end_time	¡ Entonces dime la verdad! ¿a dónde fuistes con mi coche?
+1034	CALOGERO                      	begin_time	end_time	¡Fui a buscar a Jane!
+1035	SONNY_CALOGERO                	begin_time	end_time	¡No me mientas! ¡Dime la verdad!,¡ Te estoy diciendo la verdad!
+1036	SONNY                         	begin_time	end_time	¡Deja de mentir! 
+1037	SONNY                         	begin_time	end_time	¿Cómo se subió a mi coche?
+1038	CALOGERO                      	begin_time	end_time	¿ Qué estás tratando dedecir. ¿No confías en mí? ¿ Crees que te haría daño? ¡Has sido como un padre para mí!
+1039	SONNY_CALOGERO                	begin_time	end_time	¡No soy tu padre!,Que te jodan Sonny.
+1040	JANE                          	begin_time	end_time	¡ Calogero! ¡ Calogero!
+1041	1                             	begin_time	end_time	¿Qué diablos está haciendo ella aquí?
+1042	2                             	begin_time	end_time	Creando problemas como lo hacen todos.
+1043	JANE                          	begin_time	end_time	Sabía que él no era así, a pesar de esas cosas que dijo...
+1044	CORO                          	begin_time	end_time	Ella va a hacer daño a alguien...
+1045	JANE                          	begin_time	end_time	Tengo que decirle de alguna manera
+1046	JANE                          	begin_time	end_time	Que sé la verdad ...
+1047	CORO                          	begin_time	end_time	Ella va a hacer daño a alguien...
+1048	JANE                          	begin_time	end_time	Deberíamos saber, por qué las cosas están como están,
+1049	JANE                          	begin_time	end_time	No deberíamos haber dejado nunca que las cosas llegaran tan lejos
+1050	JANE                          	begin_time	end_time	Debo encontrarlo ahora,y tratar de hacer las cosas bien-
+1051	JANE                          	begin_time	end_time	O alguien va a hacer daño a alguien esta noche.
+1052	NICKY_MARIOELLOCO             	begin_time	end_time	¡ C!, ¡ Intentamos encontrarte!
+1053	NICKY                         	begin_time	end_time	¡Vamonos!
+1054	_CALOGERO                     	begin_time	end_time	¿Adivinas qué está pasando?,¿Qué es ese olor?
+1055	MARIOELLOCO_NICKY             	begin_time	end_time	Vamos a servir algunos cócteles para el lado coloreado del barrio, ¡ Échales un vistazo, C!
+1056	MARIOELLOCO                   	begin_time	end_time	Tengo algo para ti.
+1057	_MARIOELLOCO&NICKY            	begin_time	end_time	Toma esto., Podrías necesitarlo, nunca se sabe.
+1058	CALOGERO_                     	begin_time	end_time	Mirda... PEINADO, Esos fantasmas tienen que irse.
+1059	MARIOELLOCO                   	begin_time	end_time	Vamos a darles un saludo al estilo italiano
+1060	CORO                          	begin_time	end_time	¡ Hacer daño a alguien!
+1061	CORO__MARIO_NICKY&DOOWOP      	begin_time	end_time	Que locura! PEINADO, Las cosas se han vuelto locas
+1062	CORO_NICKY&DOOWOP             	begin_time	end_time	Que bien se sentirá al hacer daño a alguien duramente. PEINADO, MARIO,, ¡ Las cosas se han ido fuera de control!
+1063	PEINADO_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Hora de hablar el idioma, Ellos son todos como el resto,
+1064	PEINADO_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Que esos moulis entiendan., No puedes confiar en ellos.
+1065	PEINADO_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Deberían mantener las distancias,, Se entirá tan bien
+1066	PEINADO_MARIO_NICKY&DOOWOP_DENISE_FRIEDA_TYRONE&JESSE	begin_time	end_time	Hagamos que deseen haber tenido., ¡ Hacer daño a alguien duramente!
+1067	PEINADO_MARIO_NICKY&GRUPODOOWOP	begin_time	end_time	¡Tan enojado! se sentirá tan bien haciendo daño a alguien duramente. 
+1068	CALOGERO                      	begin_time	end_time	¿ Cómo diablos llegué aquí? ¿ Cómo comenzó todo esto?
+1069	CORO                          	begin_time	end_time	Vas a hacer daño a alguien. Vas a hacer daño a alguien.
+1070	CALOGERO                      	begin_time	end_time	No hay vuelta atrás ahora-ellos van a decir que no tengo corazón.
+1071	CORO                          	begin_time	end_time	Vas a a hacer daño a alguien. Vas a hacer daño a alguien. 
+1072	CALOGERO                      	begin_time	end_time	De alguna manera perdí mi camino y perdí la cabeza. Hasta que dejé me mi camino atrás.
+1073	CALOGERO                      	begin_time	end_time	Y he estado corriendo asustado y corriendo a ciegas, Pero ahora veo
+1074	CALOGERO                      	begin_time	end_time	Quería hacer daño a alguien, 
+1075	CALOGERO_CORO                 	begin_time	end_time	Pero todo el daño me lo hice a mí. , Harás daño a alguien.
+1076	CALOGERO_CORO                 	begin_time	end_time	Pero todo el daño me lo hice a mí. , Harás daño a alguien.
+1077	CALOGERO_CORO                 	begin_time	end_time	Pero todo el daño me lo hice a mí. , Harás daño a alguien.
+1079	SONNY_CALOGERO                	begin_time	end_time	¡Eh, eh ,eh! C, sal del coche.,¡ Sonny!
+1080	SONNY_                        	begin_time	end_time	¡Sal del coche! PEINADO,Él está con nosotros.
+1081	SONNY                         	begin_time	end_time	Ocupate de tus asuntos Peinado, ¡Sal del coche!
+1082	CALOGERO_SONNY                	begin_time	end_time	Sonny no me avergüences – ,¡ Cállate!
+1083	SONNY                         	begin_time	end_time	Ahora vosotros punks manteneos alejados de mi muchacho. Sacad esta mierda, lo dejáis fuera de esto o la próxima vez que estáis todos muertos.
+1084	SONNY                         	begin_time	end_time	Estais advertidos. Ahora fuera de aquí! 
+1085	SONNY                         	begin_time	end_time	¿ Qué diablos te pasa? Esos tipos te iban a matar.
+1086	CALOGERO                      	begin_time	end_time	Son mis amigos. Me dijeron que no me preocupara.
+1087	SONNY                         	begin_time	end_time	Cuendo amigos como esos te dicen que no te preocupes, ese es el momento de empezar a preocuparte, muchacho.
+1088	CALOGERO                      	begin_time	end_time	¿Por qué te preocupas? Estabas listo para matarme antes. Alguna vez has pensado que la bomba ya estaba en el coche cuando lo recogí?
+1089	CALOGERO                      	begin_time	end_time	¿ Que podría haber sido asesinado? arranqué el coche antes que tu Sonny. ¿ Alguna vez has pensado en eso?
+1090	SONNY                         	begin_time	end_time	Siempre es un amigo quien hace la escritura.
+1091	CALOGERO                      	begin_time	end_time	¿ Qué? ¿No confías en nadie?
+1092	SONNY                         	begin_time	end_time	No. No puedo. 
+1093	CALOGERO                      	begin_time	end_time	Esa es una manera triste de vivir Sonny.
+1094	SONNY_CALOGERO                	begin_time	end_time	Para mí es la única forma. ,Bueno, no para mí.
+1095	SONNY_CALOGERO                	begin_time	end_time	Está bien. Esta vida no es para ti. La gente muere. ¿Recuerda?,Sí, lo recuerdo.
+1096	SONNY                         	begin_time	end_time	Eres mejor que todo esto. Haz algo con tu vida. ¿Me escuchas?
+1097	CALOGERO                      	begin_time	end_time	Si.
+1098	SONNY_CALOGERO                	begin_time	end_time	Ahora vete a casa, C.,Bien.
+1099	SONNY                         	begin_time	end_time	Estaré en el bar. 
+1100	JANE                          	begin_time	end_time	¡ Calogero! 
+1101	CALOGERO                      	begin_time	end_time	¡Jane! ¿ qué estás haciendo aquí?
+1102	JANE                          	begin_time	end_time	Mi hermano me dijol a verdad, que intentastes ayudarlo.
+1103	CALOGERO                      	begin_time	end_time	Mira,siento lo que le llamé. Se me escapó.
+1104	CALOGERO_JANE                 	begin_time	end_time	No lo dije en serio lo juro ante Dios, no lo dije en serio.,Lo sé.
+1105	                              	begin_time	end_time	¡Eh, tú! vete del barrio y vuelve al tuyo!
+1106	CALOGERO                      	begin_time	end_time	¡A tí que te importa, ocúpate de lo tuyo!
+1107	_CALOGERO                     	begin_time	end_time	¡No me hagas que baje por ahí!,¡Baja!
+1108	JANE                          	begin_time	end_time	No Calogero. Quizás él tiene razón. Esto nunca va a funcionar.
+1109	CALOGERO_JANE                 	begin_time	end_time	No te preocupes por el. Dame tu mano.,No, aquí no.
+1110	CALOGERO                      	begin_time	end_time	Si, aquí. No me importa lo que diga nadie. Pienso que eres perfecta ...
+1111	CALOGERO                      	begin_time	end_time	Espera, ¿sabes cómo hacer salsa?
+1112	JANE                          	begin_time	end_time	¿ Qué? 
+1113	CALOGERO                      	begin_time	end_time	Olvidalo. Dame tu mano.
+1114	CALOGERO                      	begin_time	end_time	En un mundo como este, Donde todo parece blanco y negro,
+1115	CALOGERO                      	begin_time	end_time	En un mundo como este, Son muy rápidos en decirte lo que está bien y lo que está mal.
+1116	CALOGERO                      	begin_time	end_time	Bueno, dejemos que hablen, hablen, hablen ¿A quién le importa lo que digan?
+1117	CALOGERO                      	begin_time	end_time	Ahora que estás aquí, bueno, está más claro que el día
+1118	CALOGERO_JANE                 	begin_time	end_time	Que esas palabras, Que esas palabras
+1119	CALOGERO_JANE                 	begin_time	end_time	No son verdad, No, no 
+1120	CALOGERO_JANE                 	begin_time	end_time	Not for me,, Not me
+1121	CALOGERO_JANE                 	begin_time	end_time	No para ti., No tú.
+1122	CALOGERO&JANE                 	begin_time	end_time	Porque en un mundo como este donde hay tanto que nos pueda mantener separados
+1123	CALOGERO&JANE                 	begin_time	end_time	Sí, en un mundo como este, solo tienes que confiar en el latido de tu corazón.
+1124	CALOGERO&JANE                 	begin_time	end_time	Así que pon tu mano en la mía,vamos a darle una oportunidad. ¿Por qué debería importarnos si están listos o no?
+1125	CALOGERO&JANE                 	begin_time	end_time	Lo que sentimos, eso es lo que es real en este mundo.
+1126	                              	begin_time	end_time	Ah ...En un mundo como este, te tengo.
+1127	JANE_CALOGERO                 	begin_time	end_time	En un mundo como este, donde todos se quedan con su propio, No hay nada que nos separe
+1128	CALOGERO                      	begin_time	end_time	Solo confía en el latido de tu corazón
+1129	CALOGERO_JANE                 	begin_time	end_time	En un mundo como este, todos tienen miedo de lo que es nuevo o desconocido, Yo digo vamos a darle una oportunidad
+1130	JANE                          	begin_time	end_time	¿Por qué debería importarnos si están listos o no?
+1131	CALOGERO_CALOGERO&JANE        	begin_time	end_time	Así que déjalos, Sacudir sus cabezas, porque ¿ qué saben ellos?
+1132	CALOGERO&JANE                 	begin_time	end_time	De ninguna manera te voy a dejar ir. A quién le importa
+1133	_CALOGERO&JANE                	begin_time	end_time	Ah…, Lo que ellos ven
+1134	CALOGERO_JANE                 	begin_time	end_time	Solo eres tú, Solo eres tú
+1135	CALOGERO_JANE                 	begin_time	end_time	Sólo soy yo, Sólo soy yo
+1136	                              	begin_time	end_time	Y en un mundo como este
+1137	JANE_CALOGERO                 	begin_time	end_time	Eh pequeño , Tienes que agarrarte a lo que es bueno
+1138	JANE                          	begin_time	end_time	Tenemos que agarrarnos a lo quees bueno 
+1139	_JANE                         	begin_time	end_time	Y puedo decirte esto, Este mundo...
+1140	CALOGERO_JANE                 	begin_time	end_time	El mundo no termina en el borde de tu propio barrio, Este mundo no termina en mi barrio
+1141	CALOGERO&JANE_                	begin_time	end_time	Y seguirá dando vueltas sea lo que sea lo que hagamos, VOCES FUERA DEL ESCENARIO, Ah...
+1142	CALOGERO&JANE_                	begin_time	end_time	Pero sé que prefiero estar en esto contigo- VOCES FUERA DEL ESCENARIO, Ah...
+1143	CALOGERO&JANE_                	begin_time	end_time	Así que agárrate fuerte si te atreves,deja que se burlen déjalos mirar VOCES FUERA DEL ESCENARIO, Ah... Ah...
+1144	CALOGERO&JANE                 	begin_time	end_time	Si eres mio /a, Estaremos bien
+1145	                              	begin_time	end_time	En un mundo como este
+1146	JANE_                         	begin_time	end_time	Vámonos de aquí. VOCES FUERA DEL ESCENARIO, te tengo
+1147	CALOGERO                      	begin_time	end_time	Dame tus llaves. Déjame conducir. 
+1148	CALOGERO                      	begin_time	end_time	¡Si!
+1149	JANE                          	begin_time	end_time	¿Estás bien?
+1150	CALOGERO_JANE                 	begin_time	end_time	¡ Sabía que eras una de las buenas!,¿Que?
+1151	CALOGERO                      	begin_time	end_time	¡No tiene importancia, es una cosa Italiana!
+1152	                              	begin_time	end_time	En un mundo como este
+1153	CALOGERO&JANE_                	begin_time	end_time	Te tengo - CALOGERO, JANE & VOCES FUERA DEL ESCENARIO, A tí. 
+1154	CALOGERO_JANE                 	begin_time	end_time	¡Mierda! ,¿Que?
+1155	CALOGERO                      	begin_time	end_time	Mis amigos. Van hacia hacia el club de tu hermano.
+1156	JANE                          	begin_time	end_time	¿Que?
+1157	CALOGERO                      	begin_time	end_time	Tienen cócteles molotov, va a quemar la articulación.
+1158	JANE                          	begin_time	end_time	Mi hermano está en el club.
+1159	CALOGERO_JANE                 	begin_time	end_time	Tenemos que detenerlos. Tenemos que llegar allí.,Vámonos. 
+1162	JANE_JANE                     	begin_time	end_time	Oh Dios mío. Calogero – mi hermano,¡ Tyrone!
+1163	CALOGERO_                     	begin_time	end_time	¡ Jesucristo! Oficial, ¿que pasó? POLICIA,Niños estúpidos. Venir aquí con cócteles Molotov.
+1164	                              	begin_time	end_time	Había gasolina por todos lados. El coche entero estalló. Todos están muertos. 
+1165	JANE                          	begin_time	end_time	¿Qué pasó Calogero?
+1166	CALOGERO                      	begin_time	end_time	Mis amigos están muertos. Todos se han ido. Peinado, Nicky, Mario. Todos están muertos. Estaban en ese coche
+1167	JANE_CALOGERO                 	begin_time	end_time	¿ Estás seguro?,Sí. Yo estaba en ese coche. ¡Ese podría haber sido yo!
+1168	JANE                          	begin_time	end_time	¿ Qué quieres decir? 
+1169	CALOGERO                      	begin_time	end_time	Sonny me salvó la vida. Tengo que decírselo. ¡ Él ni siquiera sabe que me salvó la vida! 
+1170	CALOGERO_JANE                 	begin_time	end_time	Tengo que irme, Jane.,Entonces vete. 
+1171	CALOGERO                      	begin_time	end_time	Empecé a correr hacia el barrio. Tenía que ver a Sonny. Quería abrazarle y darle las gracias por salvar mi vida.
+1172	CALOGERO                      	begin_time	end_time	Bajé corriendo la manzana y atravesé la puerta principal del Chez Bippy.
+1173	CALOGERO                      	begin_time	end_time	Cuando llegué al bar, todos estaban allí. Vi todas esas caras sonrientes y te estoy diciendo que estaba feliz porque estaba vivo!
+1174	CALOGERO                      	begin_time	end_time	Sonny me salvó y él ni siquiera lo sabía! Miré y allí estaba al otro lado del bar.
+1175	SONNY                         	begin_time	end_time	Hola C ... ¡ven aquí!
+1176	CALOGERO                      	begin_time	end_time	¡Sonny! ¡Me salvaste la vida!
+1177	SONNY_CALOGERO                	begin_time	end_time	¿Que?,¡Me salvaste la vida, Sonny!
+1178	SONNY_CALOGERO                	begin_time	end_time	No puedo oírte,Sonny!
+1179	SONNY_CALOGERO                	begin_time	end_time	¡Amo a este niño!,Sonny!
+1180	SONNY_CALOGERO                	begin_time	end_time	¡No puedo oírte!,De repente...
+1181	SONNY                         	begin_time	end_time	¡Amo a este niño!
+1183	CALOGERO                      	begin_time	end_time	Noooooo!
+1184	CALOGERO                      	begin_time	end_time	El hombre que mató a Sonny era el hijo del hombre que Sonny mató ocho años antes en frente de mi portal.
+1185	CALOGERO                      	begin_time	end_time	Cuando llegué al funeral, había flores por todos lados. Los listillos tienen algo con las flores.
+1186	CALOGERO                      	begin_time	end_time	Creen que quien envía la mayor variedad de flores es el que se preocupa más.
+1187	CALOGERO                      	begin_time	end_time	Todos estaban riendo y bromeando 
+1188	CALOGERO                      	begin_time	end_time	y fue como Sonny dijo que sería. "A nadie le importa, C."
+1189	CALOGERO                      	begin_time	end_time	A nadie le importa - Sonny siempre tuvo razón. Ni siquiera pude pasar por el ataúd.
+1190	CALOGERO                      	begin_time	end_time	Tuve que esperar hasta que todos se fueron y yo estuviera a solas con Sonny. 
+1191	CALOGERO                      	begin_time	end_time	¿ Cómo estás Sonny...? ¿no demasiado bien, eh? Leí en los periódicos que Mickey Mantle se jubilará ...A quién le importa, ¿ verdad? ...
+1192	CALOGERO                      	begin_time	end_time	Jane pasó la prueba Sonny, quería decirte que ...Ella podría ser una de mis grandes ... quién sabe ...
+1193	CALOGERO                      	begin_time	end_time	Sonny, solo quiero darte las gracias por salvar mi vida. Mis amigos, están todos muertos, y también hubiera muerto si no hubiera sido por tí.
+1194	CALOGERO                      	begin_time	end_time	Me sacaste de ese coche. Nunca tuve la oportunidad de agradecerte. Le dije a mi padre lo que hiciste y él ...
+1195	CALOGERO                      	begin_time	end_time	Oh, lo siento, pensé que estaba solo.
+1196	CARMINE                       	begin_time	end_time	Está bien, chico. Es entendible.
+1197	CALOGERO                      	begin_time	end_time	Este tipo aquí, él es un gran hombre. Le amaba. Él me salvó la vida.
+1198	CARMINE                       	begin_time	end_time	Eres C. Sonny me habló de tí.
+1199	CALOGERO                      	begin_time	end_time	¿Qué? ¿Sonny te habló de mí? Lo siento, no sé quién es.
+1200	CARMINE                       	begin_time	end_time	He estado lejos por un tiempo. Me llamo Carmine, chico. 
+1201	CARMINE                       	begin_time	end_time	No me recuerdas, ¿verdad? Siete, ocho años atrás en frente de tu casa. Eras solo un niño pequeño.
+1202	CALOGERO_CARMINE              	begin_time	end_time	Lo siento, no te conozco.,Si me conoces. Me conoces muy bien. Ahora mira mi cara.
+1203	CALOGERO_CARMINE              	begin_time	end_time	No le conozco.,¿Recuerdas esto?
+1204	CALOGERO                      	begin_time	end_time	¡El bate de béisbol! Tú eraas el tipo que fué golpeado con el bate de béisbol. Yo estaba allí, Carmine.
+1205	CALOGERO                      	begin_time	end_time	Yo lo vi todo. Los policías que querían que delatara.
+1206	CARMINE                       	begin_time	end_time	Lo sé, chico. Sonny me dijo lo que hiciste. Quiero agradecerte. Escucha, voy a encargar de las cosas por un tiempo aquí.
+1207	CARMINE                       	begin_time	end_time	Si necesitas algo, CUALQUIER COSA, ven al bar y me buscas. ¿vale?
+1208	CALOGERO                      	begin_time	end_time	Está bien, Carmine. Creo que voy a darle un descanso al bario por un tiempo ... ¿ entiendes?
+1209	CARMINE                       	begin_time	end_time	Lo entiendo, chico. Sonny estaría feliz de escuchar eso.
+1210	CALOGERO                      	begin_time	end_time	Carmine, nunca lo vió venir. Intenté advertiré pero nunca lo supo.
+1211	CARMINE_CALOGERO              	begin_time	end_time	Él sabía.,Pero fue hace ocho años.
+1212	CARMINE                       	begin_time	end_time	Es como Sonny solía decir: "La venganza es un plato que se sirve frío. Entonces, ¿por qué preocuparse?"
+1213	CARMINE                       	begin_time	end_time	Hasta ahora mi amigo ... y no te preocupes, lo tengo.
+1214	CARMINE                       	begin_time	end_time	Sabes dónde encontrarme si necesitas algo. Cuidate chico. 
+1215	CALOGERO                      	begin_time	end_time	¿A nadie le importa? ah... supongo que estabas equivocado sobre ese. Te voy a extrañar, Sonny.
+1216	CALOGERO                      	begin_time	end_time	Dijistes que tu tenías cosas que enseñarme. Y ahora, lo veo todo tan claro.
+1217	CALOGERO                      	begin_time	end_time	Estamos guiados, en cada momento que vivimos. La única opción fueron dados
+1218	CALOGERO                      	begin_time	end_time	¿ Viviremos por amor o miedo? 
+1219	CALOGERO                      	begin_time	end_time	Y tú, tú sabías que nunca es fácil.
+1220	CALOGERO                      	begin_time	end_time	Nunca es negro o blanco, solo tonos de gris. Todo lo que hacemos, es hacer frente a esas elecciones,
+1221	CALOGERO                      	begin_time	end_time	Y obedecer nuestras voces internas. Y esperar que encontremos nuestro camino
+1222	CALOGERO                      	begin_time	end_time	Y toda as las elecciones que hacemos, darán forma a nuestras vidas para siempre,
+1223	CALOGERO                      	begin_time	end_time	En todos los caminos que tomamos, cuando el empujón viene hacia abajo, cada momento cuenta —
+1224	CALOGERO                      	begin_time	end_time	Siempre es ahora o nunca. Y aunque ,Dios sabe, elegistes la vida que tú elegistes.
+1225	CALOGERO                      	begin_time	end_time	Estoy aquí porque, solo una vez, tu eliges amar 
+1226	CALOGERO                      	begin_time	end_time	Papá, ¿qué estás haciendo aquí?
+1227	LORENZO                       	begin_time	end_time	Estoy aquí para presentar mis respetos a tu amigo, hijo.
+1228	LORENZO                       	begin_time	end_time	Gracias por salvar la vida de mi muchacho, Sonny. Nunca te he odiado.
+1229	LORENZO                       	begin_time	end_time	Creo que nunca te perdoné por hacer que mi hijo creciera tan rápido. Que Dios tenga piedad de tu alma. 
+1230	LORENZO                       	begin_time	end_time	Y ahora, toda tu vida está frente a tí. Es hora de que te conviertas en un hombre.
+1231	LORENZO                       	begin_time	end_time	Y s abrás como, solo mira lo que hay dentro de tí.
+1232	LORENZO                       	begin_time	end_time	Y deja que tu talento te gu íe como siempre he sabido que puedes.
+1233	LORENZO&CALOGERO              	begin_time	end_time	And all the choices we make Will shape our lives forever,
+1234	LORENZO&CALOGERO              	begin_time	end_time	Un solo error puede destrozar tu mundo.
+1235	LORENZO&CALOGERO              	begin_time	end_time	Pero tenemos un vínculo que nada lo va a cortar
+1236	LORENZO&CALOGERO              	begin_time	end_time	A través de lo bueno y malo, lo feliz y lo triste, donde sea que vayas —
+1237	LORENZO                       	begin_time	end_time	Mira al corazon.
+1238	CALOGERO_LORENZO              	begin_time	end_time	Te quiero Papá y lo siento si te hice daño.,Yo también te quiero hijo.
+1239	CALOGERO                      	begin_time	end_time	Dejé el viejo barrio después de eso. No era ello mismo sin Sonny.
+1240	LORENZO_                      	begin_time	end_time	Esta es una historia del Bronx, es solo otra historia CONJUNTO, Ooo...
+1241	CALOGERO_                     	begin_time	end_time	Tuve que decir adiós a Jane, pero ella siempre será mi primera gran persona. CONJUNTO, Ooo...
+1242	JANE_                         	begin_time	end_time	Este es el tipo de cuento que te hace reír y llorar CONJUNTO, Ooo...
+1243	CALOGERO_                     	begin_time	end_time	Salí al mundo y mantuve mi promesa. Me convertí en alguien. CONJUNTO, Ooo...
+1244	CALOGERO_                     	begin_time	end_time	Le debía eso a mis padres y a Sonny. CONJUNTO, Ooo...
+1245	ROSINA&LORENZO_               	begin_time	end_time	En la calle, están cantando juntos CONJUNTO, Ooo...
+1246	LORENZO&JANE_                 	begin_time	end_time	Van a cantar por siempre. Puedes escucharlos si lo intentas. CONJUNTO, Ooo...
+1247	CALOGERO)                     	begin_time	end_time	Ah Ah 
+1248	CALOGERO_CALOGERO)            	begin_time	end_time	Todavía vuelvo de vez en cuando. TODOS 
+1249	CALOGERO_CALOGERO)            	begin_time	end_time	El vecindario cambió, al igual que yo. TODOS 
+1250	CALOGERO_CALOGERO)            	begin_time	end_time	Pero nunca olvidaré lo que aprendí de estos dos hombres. TODOS 
+1251	CALOGERO_CALOGERO)            	begin_time	end_time	Lo más triste de la vida es el talento desperdiciado TODOS 
+1252	CALOGERO_CALOGERO)            	begin_time	end_time	y las decisiones que tomes moldearán tu vida para siempre. TODOS 
+1253	CALOGERO_CALOGERO)            	begin_time	end_time	Pero podrías preguntarle a alguien de mi barrio TODOS 
+1254	CALOGERO_CALOGERO)            	begin_time	end_time	y te dirán, esta es solo otra historia del Bronx. TODOS  
+1255	                              	begin_time	end_time	Y todas elecciones que tomamos, se convierten en parte de nuestra historia.
+1256	                              	begin_time	end_time	Toda la alegría y el dolor nunca se van realmente.
+1257	                              	begin_time	end_time	Cada nombre, cada cara, toda la esperanza, lágrimas, la gloria —
+1258	                              	begin_time	end_time	Cada entrada y calle cada victoria y cada derrota,
+1259	                              	begin_time	end_time	Los pecadores y los santos, lo dulce y agridulce,
+1260	                              	begin_time	end_time	Y cuando el el cuento está completo, has elegido quien eres
+1261	CALOGERO_TODOS                	begin_time	end_time	Y esas elecciones que haces, Vivir.
+1262	CALOGERO                      	begin_time	end_time	Esta es una historia del Bronx. Y esa es mi historia ...
+1263	CALOGERO                      	begin_time	end_time	El mundo en el que viví, la gente que conocí.
+1264	CALOGERO_DOOWOP               	begin_time	end_time	Es solo un Cuento del Bronx, y como todos lo hacen, GRUPO , Ooo... 
+1265	CALOGERO_DOOWOP               	begin_time	end_time	Sucedió aquí, en la avenida Belmont. GRUPO , Ooo... 
+1266	                              	begin_time	end_time	Woah... Woah...
+1267	DOOWOP                        	begin_time	end_time	Ooo-wah Wah-ooo... 
+1269	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Avenida Belmont MUJERES & GRUPO , Yeah yeah 
+1270	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Pasando el rato con mi grupo, MUJERES & GRUPO , Y el ruido está creciendo 
+1271	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Te tiene que gustar la vista, de la Avenida Belmont. MUJERES & GRUPO , Sí, sí, y los chicos van a ir shoop
+1272	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Avenida Belmont. MUJERES & GRUPO , Shoop shoop shoop shoop 
+1273	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Pasando el rato con mi grupo, MUJERES & GRUPO , Shoop shoop shoop shoop 
+1274	CALOGERO&LISTILLOS_DOOWOP     	begin_time	end_time	Te tiene que gustar la vista, MUJERES & GRUPO , Shoop shoop shoop shoop 
+1275	DOOWOP                        	begin_time	end_time	No, no, porque el mundo está listo, Whoa whoa y todas las chicas cantan en ¡ grupo! Oop! Oop!
+1276	                              	begin_time	end_time	Avenida Belmont! 
