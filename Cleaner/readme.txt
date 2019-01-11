@@ -1,6 +1,7 @@
+#About
 The following program is a very powerful program, since it has the capability of deleting many many files. I recommend trying it out on a couple of files first to see if it works, and then moving to larger quantities. 
 
-Directions: 
+#Directions: 
 
 Place Cleaner.py into the top level directory of where you want your "log" files to be deleted. 
 
